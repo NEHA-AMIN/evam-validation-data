@@ -19,16 +19,16 @@
       "events": [
         {
           "name": "Almaden Valley Farmers Market",
-          "date": "2025-11-30 to 2026-02-22",
+          "date": "Weekly Saturdays 9am-1pm (tentative)",
           "time_of_day": "all-day",
           "location": "Via Valiente Plaza, 6902 Almaden Expressway, San Jose, CA",
-          "distance_from_store": "7.4 miles",
+          "distance_from_store": "2.5 miles",
           "estimated_attendance": "500-1000",
           "verification_sources": [
             "CHAMP Farmer Markets official site",
             "San Jose Events calendar"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Unconfirmed",
           "relevance_to_store": "Medium",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -105,7 +105,7 @@
         },
         {
           "name": "McRib Return",
-          "date": "2025-11-16 to 2025-12-31",
+          "date": "2025-11-11 to 2025-12-31",
           "time_of_day": "all-day",
           "location": "All McDonald's locations",
           "distance_from_store": "0 miles",
@@ -195,7 +195,7 @@
         },
         {
           "name": "Lunar New Year Celebrations",
-          "date": "2026-01-29 to 2026-02-01",
+          "date": "2026-02-17 to 2026-02-23",
           "time_of_day": "all-day",
           "location": "Various South Bay locations",
           "distance_from_store": "2-5 miles",
@@ -227,7 +227,7 @@
       "events": [
         {
           "name": "Thanksgiving Break",
-          "date": "2025-11-27 to 2025-11-28",
+          "date": "2025-11-24 to 2025-11-28",
           "time_of_day": "all-day",
           "location": "San Jose Unified School District",
           "distance_from_store": "3.1 miles",
@@ -254,7 +254,7 @@
         },
         {
           "name": "Winter Break",
-          "date": "2025-12-22 to 2026-01-05",
+          "date": "2025-12-22 to 2026-01-02",
           "time_of_day": "all-day",
           "location": "San Jose Unified School District",
           "distance_from_store": "3.1 miles",
@@ -417,7 +417,7 @@
             "San Jose Parks & Rec",
             "Yelp events"
           ],
-          "verification_status": "Tentative",
+          "verification_status": "Unconfirmed",
           "relevance_to_store": "Low",
           "traffic_impact": "Low",
           "sales_impact": "Low",
@@ -500,17 +500,17 @@
   "overall_recommendations": {
     "high_impact_periods": [
       {
-        "date_range": "2025-11-27 to 2025-11-30",
+        "date_range": "2025-11-24 to 2025-11-30",
         "reason": "Thanksgiving break, Black Friday, promotions",
         "preparation_priority": "Staffing and inventory for family traffic"
       },
       {
-        "date_range": "2025-12-20 to 2026-01-05",
+        "date_range": "2025-12-20 to 2026-01-02",
         "reason": "Winter break and holidays driving dine-in and delivery",
         "preparation_priority": "Kids meals and delivery partnerships"
       },
       {
-        "date_range": "2026-01-29 to 2026-02-01",
+        "date_range": "2026-02-17 to 2026-02-23",
         "reason": "Lunar New Year cultural events",
         "preparation_priority": "Family packs and cultural tie-ins"
       }

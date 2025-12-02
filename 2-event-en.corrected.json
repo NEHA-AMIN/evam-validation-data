@@ -20,9 +20,9 @@
         {
           "name": "Christmas in the Park",
           "date": "2025-11-28 to 2026-01-01",
-          "time_of_day": "all-day",
+          "time_of_day": "noon-10pm",
           "location": "Plaza de Cesar Chavez, 1 Paseo de San Antonio, San Jose, CA 95113",
-          "distance_from_store": "2.0 miles",
+          "distance_from_store": "≈2.0 miles",
           "estimated_attendance": "500,000+",
           "verification_sources": [
             "https://christmasinthepark.com/",
@@ -49,8 +49,8 @@
           "date": "2025-12-06 to 2025-12-07",
           "time_of_day": "evening",
           "location": "California Theatre, 345 South First St, San Jose, CA 95113",
-          "distance_from_store": "3.4 miles",
-          "estimated_attendance": "2,000",
+          "distance_from_store": "≈3.4 miles",
+          "estimated_attendance": "2000 (est.)",
           "verification_sources": [
             "https://www.sanjose.org/events/holiday-spectacular",
             "https://www.sanjose.org/"
@@ -77,17 +77,18 @@
       "events": [
         {
           "name": "McRib Return",
-          "date": "2025-11-01 to 2026-01-31",
+          "date": "2025-11-11 to 2026-01-31",
           "time_of_day": "all-day",
-          "location": "Nationwide including this store",
+          "location": "Select U.S. locations (likely including this store, not guaranteed nationwide)",
           "distance_from_store": "0 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
-            "https://www.mcdonalds.com/us/en-us/deals.html",
-            "https://simplycodes.com/store/mcdonalds.com"
+            "https://www.mcdonalds.com/us/en-us/product/mcrib.html",
+            "https://www.delish.com/food-news/a69382183/mcdonalds-mcrib-return-select-cities-2025/",
+            "https://www.axios.com/2025/11/11/mcrib-2025-mcdonalds-menu-return"
           ],
-          "verification_status": "Confirmed",
-          "relevance_to_store": "Very High",
+          "verification_status": "Confirmed (select locations, not nationwide)",
+          "relevance_to_store": "High (if participating location)",
           "traffic_impact": "High",
           "sales_impact": "High",
           "daypart_affected": [
@@ -96,7 +97,7 @@
           ],
           "operational_preparation": {
             "staffing": "Schedule additional grill staff during peak hours",
-            "inventory": "Stock extra pork patties and BBQ sauce",
+            "inventory": "Stock extra pork patties and BBQ sauce (if store participates)",
             "promotions": "Bundle with fries and drink via app",
             "service_mode": "drive-thru focus",
             "timing": "Weekly inventory checks starting Nov 15"
@@ -106,7 +107,7 @@
           "name": "McValue Platform Deals",
           "date": "2025-12-01 to 2026-02-28",
           "time_of_day": "all-day",
-          "location": "Nationwide including this store",
+          "location": "U.S. McDonald's locations participating in McValue offers",
           "distance_from_store": "0 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
@@ -123,7 +124,7 @@
           "operational_preparation": {
             "staffing": "Train crew on new app deals",
             "inventory": "Prepare value meal components",
-            "promotions": "Promote $1 add-ons in-store",
+            "promotions": "Promote $1 add-ons in-store (if applicable to this market)",
             "service_mode": "delivery prep",
             "timing": "Launch training 1 week prior"
           }
@@ -155,7 +156,7 @@
           "operational_preparation": {
             "staffing": "Add 1 crew for lunch rush",
             "inventory": "Extra burgers and fries",
-            "promotions": "App-exclusive free fries with purchase",
+            "promotions": "App-exclusive free fries with purchase (store-level decision)",
             "service_mode": "drive-thru focus",
             "timing": "Day before"
           }
@@ -168,13 +169,13 @@
         {
           "name": "SJMADE Holiday Fair",
           "date": "2025-11-28 to 2025-11-29",
-          "time_of_day": "all-day",
+          "time_of_day": "11am-6pm",
           "location": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA 95054",
-          "distance_from_store": "8.6 miles",
-          "estimated_attendance": "10,000+",
+          "distance_from_store": "≈8.6 miles",
+          "estimated_attendance": "10000+ (est.)",
           "verification_sources": [
             "https://www.sanjosemade.com/pages/sjmade-holiday-fair-2025",
-            "https://sjtoday.6amcity.com/big-events-festivals-san-jose-ca-2025"
+            "https://www.momentpopup.com/events/sjmade-holiday-fair-2025-day-1"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "Medium",
@@ -192,12 +193,12 @@
           }
         },
         {
-          "name": "San Jos\u00e9 Winter Wonder Market",
+          "name": "San José Winter Wonder Market",
           "date": "2025-12-13 to 2025-12-14",
-          "time_of_day": "all-day",
-          "location": "South Hall, 435 S. Market St, San Jos\u00e9, CA 95110",
-          "distance_from_store": "3.4 miles",
-          "estimated_attendance": "8,000+",
+          "time_of_day": "11am-6pm",
+          "location": "South Hall, 435 S. Market St, San José, CA 95110",
+          "distance_from_store": "≈3.4 miles",
+          "estimated_attendance": "8000+ (est.)",
           "verification_sources": [
             "https://www.sanjosemade.com/pages/winter-wonder-market-2025",
             "https://www.sanjose.org/events"
@@ -220,16 +221,16 @@
         },
         {
           "name": "Lunar New Year Celebrations",
-          "date": "2026-01-29",
+          "date": "Late Jan / Feb 2026 (exact festival dates TBD)",
           "time_of_day": "all-day",
           "location": "Various downtown locations, San Jose, CA",
-          "distance_from_store": "1.5 miles",
-          "estimated_attendance": "20,000+",
+          "distance_from_store": "≈1.5 miles",
+          "estimated_attendance": "20000+ (est.)",
           "verification_sources": [
             "https://www.sanjose.org/lunarnewyear",
             "https://www.sanjose.org/"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Confirmed (recurring event; 2026 detailed schedule pending)",
           "relevance_to_store": "Medium",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -241,7 +242,7 @@
             "inventory": "Nuggets and rice bowls if available",
             "promotions": "App deals for groups",
             "service_mode": "drive-thru focus",
-            "timing": "Morning of"
+            "timing": "Morning of or when dates finalized"
           }
         }
       ]
@@ -251,14 +252,14 @@
       "events": [
         {
           "name": "Winter Break",
-          "date": "2025-12-22 to 2026-01-05",
+          "date": "2025-12-22 to 2026-01-02",
           "time_of_day": "all-day",
           "location": "San Jose Unified School District schools",
           "distance_from_store": "0.5-2 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
-            "https://www.sjusd.org/events",
-            "https://www.activityhero.com/blog/santa-clara-county-school-district-calendars/"
+            "https://www.activityhero.com/blog/santa-clara-county-school-district-calendars/",
+            "https://resources.finalsite.net/images/v1706046956/sjusdorg/dfbpg6fv2lllx6pju6jn/2025-2026-SJUSD-Student-Calendar.pdf"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "High",
@@ -269,7 +270,7 @@
             "lunch"
           ],
           "operational_preparation": {
-            "staffing": "Increase breakfast crew by 50% Dec 22-Jan 5",
+            "staffing": "Increase breakfast crew by 50% Dec 22-Jan 2",
             "inventory": "Pancakes, hash browns, kids meals",
             "promotions": "Family breakfast deals",
             "service_mode": "dine-in focus",
@@ -286,13 +287,13 @@
           "date": "Multiple dates Dec 2025-Feb 2026",
           "time_of_day": "evening",
           "location": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
-          "distance_from_store": "4.3 miles",
-          "estimated_attendance": "15,000 per game",
+          "distance_from_store": "≈4.3 miles",
+          "estimated_attendance": "≈15000 per game",
           "verification_sources": [
             "https://www.sapcenter.com/events/all",
             "https://www.ticketmaster.com/sap-center-at-san-jose-tickets-san-jose/venue/229393"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Confirmed (event series; specific dates vary)",
           "relevance_to_store": "Very High",
           "traffic_impact": "High",
           "sales_impact": "High",
@@ -300,11 +301,11 @@
             "late-night"
           ],
           "operational_preparation": {
-            "staffing": "Extend shifts to 3am on game nights, add 4 crew",
+            "staffing": "Consider extended shifts on game nights; add up to 4 crew if late traffic warrants",
             "inventory": "Beef patties, fries, energy drinks",
             "promotions": "Post-game app discounts",
             "service_mode": "drive-thru focus",
-            "timing": "Prep 2 hours before game end"
+            "timing": "Prep 2 hours before expected game end"
           }
         }
       ]
@@ -315,9 +316,9 @@
         {
           "name": "Shop Small Downtown",
           "date": "2025-11-28 to 2025-12-24",
-          "time_of_day": "all-day",
+          "time_of_day": "varies (retail hours, all-day effect)",
           "location": "Downtown San Jose businesses",
-          "distance_from_store": "1.5 miles",
+          "distance_from_store": "≈1.5 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
             "https://sjdowntown.com/holidays/",
@@ -354,7 +355,7 @@
             "https://www.almanac.com/weather/longrange/ca/san%20jose",
             "https://www.accuweather.com/en/us/san-jose/95110/december-weather/347630"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Forecast-based (subject to change)",
           "relevance_to_store": "Medium",
           "traffic_impact": "Nominal",
           "sales_impact": "Low",
@@ -376,14 +377,14 @@
       "events": [
         {
           "name": "Downtown Ice Rink",
-          "date": "2025-11-28 to 2026-01-19",
-          "time_of_day": "all-day",
-          "location": "Downtown San Jose, Paseo de San Antonio",
-          "distance_from_store": "1.5 miles",
-          "estimated_attendance": "100,000+",
+          "date": "2025-11-21 to 2026-01-20",
+          "time_of_day": "varies by session (daily)",
+          "location": "Circle of Palms, 120 S Market St, San Jose, CA 95113",
+          "distance_from_store": "≈1.5 miles",
+          "estimated_attendance": "100000+ (est.)",
           "verification_sources": [
-            "https://sjdowntown.com/holidays/",
-            "https://www.sanjose.org/holiday"
+            "https://www.sanjose.org/events/downtown-ice-2025-2026",
+            "https://sjtoday.6amcity.com/events/downtown-ice-san-jose-ca"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "High",
@@ -406,15 +407,15 @@
       "category": "Nearby Venue Events",
       "events": [
         {
-          "name": "Disney On Ice",
+          "name": "Disney On Ice: Let's Dance!",
           "date": "2026-02-19 to 2026-02-22",
-          "time_of_day": "afternoon/evening",
+          "time_of_day": "afternoon/evening (multiple shows)",
           "location": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
-          "distance_from_store": "4.3 miles",
-          "estimated_attendance": "40,000+",
+          "distance_from_store": "≈4.3 miles",
+          "estimated_attendance": "40000+ (aggregate, est.)",
           "verification_sources": [
-            "https://www.ticketmaster.com/sap-center-at-san-jose-tickets-san-jose/venue/229393",
-            "https://seatgeek.com/venues/sap-center-at-san-jose/tickets"
+            "https://www.axs.com/events/1214321/disney-on-ice-lets-dance-tickets",
+            "https://www.ticketmaster.com/disney-on-ice-presents-lets-dance-san-jose-california-02-22-2026/event/1C00634A99C584BB"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "Very High",
@@ -443,7 +444,7 @@
         "preparation_priority": "Inventory for kids and family items, extra staffing evenings"
       },
       {
-        "date_range": "2025-12-22 to 2026-01-05",
+        "date_range": "2025-12-22 to 2026-01-02",
         "reason": "School winter break increases daytime visits",
         "preparation_priority": "Breakfast and lunch focus, delivery partnerships"
       },

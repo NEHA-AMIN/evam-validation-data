@@ -5,7 +5,7 @@
     "coordinates": "37.2546115,-121.7998137",
     "store_characteristics": {
       "has_drive_thru": true,
-      "has_playplace": true,
+      "has_playplace": false,
       "has_delivery": true,
       "seating_capacity": "80",
       "operating_hours": "5am-11pm"
@@ -25,10 +25,10 @@
           "distance_from_store": "7.2 miles",
           "estimated_attendance": "500-1000",
           "verification_sources": [
-            "City of San Jos\u00e9 District 8 Upcoming Events",
+            "City of San José District 8 communications",
             "Visit San Jose Holiday Guide"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Partially Confirmed",
           "relevance_to_store": "High",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -52,54 +52,54 @@
           "name": "$5 McGriddle Meal Promotion",
           "date": "2025-11-01 to 2025-11-30",
           "time_of_day": "all-day",
-          "location": "Nationwide including this store",
+          "location": "Select U.S. McDonald's locations",
           "distance_from_store": "0 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
-            "McDonald's Corporate Promotions",
-            "Delish McDonald's Value Deals"
+            "Third-party food deal coverage",
+            "McDonald's app/local offers"
           ],
-          "verification_status": "Confirmed",
-          "relevance_to_store": "Very High",
-          "traffic_impact": "High",
-          "sales_impact": "High",
+          "verification_status": "Unverified",
+          "relevance_to_store": "Unknown",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
           "daypart_affected": [
             "breakfast",
             "lunch"
           ],
           "operational_preparation": {
-            "staffing": "Increase breakfast shift by 1-2 crew",
+            "staffing": "Increase breakfast shift by 1-2 crew if offer is active locally",
             "inventory": "Extra sausage, eggs, and buns",
             "promotions": "App notifications for bundles",
             "service_mode": "drive-thru focus",
-            "timing": "Daily prep starting 1 week prior"
+            "timing": "Daily prep starting 1 week prior if confirmed"
           }
         },
         {
           "name": "McRib Return Season",
-          "date": "2025-11-15 to 2025-12-31",
+          "date": "2025-11-11 to 2025-12-31",
           "time_of_day": "all-day",
-          "location": "Nationwide including this store",
+          "location": "Select U.S. McDonald's locations",
           "distance_from_store": "0 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
-            "McDonald's Seasonal Promotions",
-            "Simply Wall St McDonald's News"
+            "Axios McRib 2025 coverage",
+            "McRib Locator fan site"
           ],
-          "verification_status": "Confirmed",
-          "relevance_to_store": "Very High",
-          "traffic_impact": "High",
-          "sales_impact": "High",
+          "verification_status": "Partially Confirmed",
+          "relevance_to_store": "Location-Dependent",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
           "daypart_affected": [
             "lunch",
             "dinner"
           ],
           "operational_preparation": {
-            "staffing": "Add 2 crew for lunch/dinner peaks",
-            "inventory": "Bulk pork patties and BBQ sauce",
+            "staffing": "Add 2 crew for lunch/dinner peaks if McRib available at this store",
+            "inventory": "Bulk pork patties and BBQ sauce where available",
             "promotions": "McRib bundle deals",
             "service_mode": "drive-thru focus",
-            "timing": "Prep 3 days before launch"
+            "timing": "Prep 3 days before launch if confirmed for this restaurant"
           }
         },
         {
@@ -111,22 +111,22 @@
           "estimated_attendance": "N/A",
           "verification_sources": [
             "McDonald's Holiday Promotions",
-            "Simply Wall St McDonald's News"
+            "Financial/analyst news coverage"
           ],
-          "verification_status": "Confirmed",
-          "relevance_to_store": "Very High",
-          "traffic_impact": "High",
-          "sales_impact": "High",
+          "verification_status": "Unverified",
+          "relevance_to_store": "Unknown",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
           "daypart_affected": [
             "lunch",
             "dinner"
           ],
           "operational_preparation": {
-            "staffing": "Extra 2-3 crew during holiday weekends",
-            "inventory": "Green-themed packaging, extra fries and drinks",
+            "staffing": "Extra 2-3 crew during holiday weekends if promo runs locally",
+            "inventory": "Green-themed packaging, extra fries and drinks if applicable",
             "promotions": "Family bundle tie-ins",
             "service_mode": "dine-in focus",
-            "timing": "Stock inventory 1 week prior"
+            "timing": "Stock inventory 1 week prior if confirmed"
           }
         }
       ]
@@ -174,8 +174,8 @@
           "distance_from_store": "16.8 miles",
           "estimated_attendance": "10,000+",
           "verification_sources": [
-            "San Jos\u00e9 Made Official Site",
-            "Visit San Jose Events"
+            "San José Made Official Site",
+            "Discover Santa Clara / Visit Silicon Valley listings"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "Medium",
@@ -202,9 +202,9 @@
           "estimated_attendance": "2000-5000",
           "verification_sources": [
             "Visit San Jose Lunar New Year Guide",
-            "City of San Jos\u00e9 Events"
+            "City of San José Events"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Unverified",
           "relevance_to_store": "High",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -233,10 +233,10 @@
           "distance_from_store": "6.2 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
-            "Evergreen Valley College Academic Calendar",
+            "Evergreen Valley College Academic Calendar (district holidays)",
             "East Side Union High School District Calendar"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Partially Confirmed",
           "relevance_to_store": "High",
           "traffic_impact": "Low",
           "sales_impact": "Medium",
@@ -321,7 +321,7 @@
             "SJSU Athletics Schedule",
             "Visit San Jose Sports"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Unverified",
           "relevance_to_store": "Medium",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -351,9 +351,9 @@
           "estimated_attendance": "N/A",
           "verification_sources": [
             "Visit San Jose Holiday Guide",
-            "San Jos\u00e9 Made Events"
+            "SJMADE Holiday Fair listings"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Partially Confirmed",
           "relevance_to_store": "High",
           "traffic_impact": "High",
           "sales_impact": "High",
@@ -385,7 +385,7 @@
             "Old Farmer's Almanac Long Range Forecast",
             "AccuWeather Monthly Outlook"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Partially Confirmed",
           "relevance_to_store": "Medium",
           "traffic_impact": "Low",
           "sales_impact": "Medium",
@@ -413,10 +413,10 @@
           "distance_from_store": "1.8 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
-            "City of San Jos\u00e9 Transportation Projects",
-            "Santa Clara County Roads Closures"
+            "City of San José Transportation Projects",
+            "Santa Clara County Roads information"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Unverified",
           "relevance_to_store": "Medium",
           "traffic_impact": "Low",
           "sales_impact": "Nominal",
@@ -440,14 +440,14 @@
           "name": "Christmas in the Park Light Display",
           "date": "2025-11-29 to 2026-01-01",
           "time_of_day": "evening",
-          "location": "Plaza de C\u00e9sar Ch\u00e1vez, San Jose, CA",
+          "location": "Plaza de César Chávez, San Jose, CA",
           "distance_from_store": "11.3 miles",
           "estimated_attendance": "100,000+",
           "verification_sources": [
             "Visit San Jose Holiday Events",
-            "City of San Jos\u00e9 Parks"
+            "City of San José Parks / Christmas in the Park organizers"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Partially Confirmed",
           "relevance_to_store": "Medium",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -470,25 +470,25 @@
     "high_impact_periods": [
       {
         "date_range": "2025-11-28 to 2025-11-30",
-        "reason": "Black Friday, SJMADE Fair, and McRib launch overlap driving shopping and promo traffic",
+        "reason": "Black Friday and SJMADE Fair overlap with potential McRib and value promotions, driving shopping and promo traffic",
         "preparation_priority": "Staffing boosts and inventory for value meals"
       },
       {
         "date_range": "2025-12-12 to 2025-12-31",
-        "reason": "Holiday events, Grinch promo, and family gatherings peak",
+        "reason": "Holiday events and possible holiday-themed promotions plus family gatherings peak",
         "preparation_priority": "Kids meals and family bundles"
       },
       {
         "date_range": "2026-01-26 to 2026-02-02",
-        "reason": "School start and Lunar New Year increasing student and family traffic",
+        "reason": "School start and possible Lunar New Year events increasing student and family traffic",
         "preparation_priority": "Breakfast/lunch rushes and cultural promotions"
       }
     ],
-    "staffing_strategy": "Schedule 20% extra crew on event days, focus on flexible shifts for dinner rushes; cross-train for drive-thru efficiency",
+    "staffing_strategy": "Schedule up to 20% extra crew on clearly verified event days, focus on flexible shifts for dinner rushes; cross-train for drive-thru efficiency",
     "inventory_priorities": [
       "Value meal components",
       "Kids meals",
-      "Pork for McRib",
+      "Pork for McRib where confirmed",
       "Beverages and desserts for holidays"
     ],
     "marketing_opportunities": [
@@ -501,6 +501,6 @@
       "Supply chain for seasonal items",
       "Weather variability affecting outdoor orders"
     ],
-    "competitive_considerations": "Nearby KFC and Taco Bell may compete on chicken/fried items during McRib season; emphasize McDonald's value combos to differentiate"
+    "competitive_considerations": "Nearby KFC and Taco Bell may compete on chicken/fried items during any McRib season; emphasize McDonald's value combos to differentiate"
   }
 }

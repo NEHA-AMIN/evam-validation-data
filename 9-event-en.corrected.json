@@ -8,7 +8,7 @@
       "has_playplace": false,
       "has_delivery": true,
       "seating_capacity": "50-75",
-      "operating_hours": "5am-12am (drive-thru 24 hours Fri-Sat)"
+      "operating_hours": "Lobby 5AM-10PM daily; drive-thru 5AM-1AM"
     }
   },
   "assessment_date": "2025-12-02",
@@ -105,7 +105,7 @@
         },
         {
           "name": "McRib Return",
-          "date": "2025-11-15 to 2025-12-31",
+          "date": "2025-11-11 to 2025-12-31",
           "time_of_day": "all-day",
           "location": "National - McDonald's locations",
           "distance_from_store": "0 miles",
@@ -158,32 +158,6 @@
             "promotions": "BOGO cookies via app",
             "service_mode": "dine-in focus",
             "timing": "Bake fresh morning of"
-          }
-        },
-        {
-          "name": "National Pecan Pie Day",
-          "date": "2026-01-23",
-          "time_of_day": "all-day",
-          "location": "National",
-          "distance_from_store": "0 miles",
-          "estimated_attendance": "N/A",
-          "verification_sources": [
-            "https://www.baldwinpublishing.com/blog-calendar-of-national-food-days-2025/",
-            "https://digitalfoodworks.com/national-food-days-all.asp"
-          ],
-          "verification_status": "Confirmed",
-          "relevance_to_store": "Low",
-          "traffic_impact": "Nominal",
-          "sales_impact": "Low",
-          "daypart_affected": [
-            "dinner"
-          ],
-          "operational_preparation": {
-            "staffing": "Standard",
-            "inventory": "N/A",
-            "promotions": "Promote apple pie as alternative",
-            "service_mode": "N/A",
-            "timing": "N/A"
           }
         }
       ]
@@ -282,7 +256,7 @@
       "events": [
         {
           "name": "San Jose Sharks Games",
-          "date": "2025-12-06, 2026-01- various",
+          "date": "2025-12-03 and various January 2026 home games",
           "time_of_day": "evening",
           "location": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
           "distance_from_store": "4.2 miles",
@@ -375,8 +349,8 @@
       "category": "Parks & Recreation Events",
       "events": [
         {
-          "name": "San Jos\u00e9 Holiday Lights",
-          "date": "2025-11-21 to 2026-01-05",
+          "name": "San José Holiday Lights",
+          "date": "2025-11-21 to 2026-01-04",
           "time_of_day": "evening",
           "location": "Discovery Meadow, 180 W San Carlos St, San Jose, CA 95113",
           "distance_from_store": "3.5 miles",

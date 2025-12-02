@@ -19,7 +19,7 @@
       "events": [
         {
           "name": "Santa at the Square",
-          "date": "2025-12-12",
+          "date": "2025-12-13",
           "time_of_day": "evening",
           "location": "Evergreen Village Square, 3341-3599 Evergreen Loop, San Jose, CA 95135",
           "distance_from_store": "1.5 miles",
@@ -50,7 +50,7 @@
       "events": [
         {
           "name": "McRib Return",
-          "date": "2025-11-29 to 2025-12-31",
+          "date": "2025-11-11 to 2025-12-31",
           "time_of_day": "all-day",
           "location": "All participating McDonald's including this store",
           "distance_from_store": "0 miles",
@@ -77,7 +77,7 @@
         },
         {
           "name": "McValue $5 Meal Deal Extension",
-          "date": "2025-11-29 to 2026-02-28",
+          "date": "2025-11-29 to 2025-06-30",
           "time_of_day": "all-day",
           "location": "All participating McDonald's including this store",
           "distance_from_store": "0 miles",
@@ -105,7 +105,7 @@
         },
         {
           "name": "The Grinch Meal",
-          "date": "2025-11-29 to 2025-12-31",
+          "date": "2025-12-02 to 2025-12-31",
           "time_of_day": "all-day",
           "location": "All participating McDonald's including this store",
           "distance_from_store": "0 miles",
@@ -171,7 +171,7 @@
       "events": [
         {
           "name": "Winter Break Start",
-          "date": "2025-12-22 to 2026-01-05",
+          "date": "2025-12-23 to 2026-01-03",
           "time_of_day": "all-day",
           "location": "Evergreen Valley High School, 4950 San Felipe Rd, San Jose, CA 95135",
           "distance_from_store": "1.0 miles",
@@ -203,8 +203,8 @@
       "events": [
         {
           "name": "SJSU Women's Basketball vs. Saint Mary's",
-          "date": "2025-12-07",
-          "time_of_day": "afternoon",
+          "date": "2025-12-04",
+          "time_of_day": "evening",
           "location": "SJSU Events Center, 1 Washington Sq, San Jose, CA 95192",
           "distance_from_store": "9 miles",
           "estimated_attendance": "1000-2000",
@@ -217,10 +217,10 @@
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
           "daypart_affected": [
-            "lunch"
+            "dinner"
           ],
           "operational_preparation": {
-            "staffing": "Extra staff for post-game lunch surge",
+            "staffing": "Extra staff for post-game dinner surge",
             "inventory": "Prepare grab-and-go salads and wraps",
             "promotions": "Student discount on app orders",
             "service_mode": "drive-thru focus",
@@ -290,7 +290,7 @@
           "name": "Christmas in the Park",
           "date": "2025-11-28 to 2026-01-01",
           "time_of_day": "evening",
-          "location": "Plaza de C\u00e9sar Ch\u00e1vez, 1 Paseo de San Antonio, San Jose, CA 95113",
+          "location": "Plaza de César Chávez, 1 Paseo de San Antonio, San Jose, CA 95113",
           "distance_from_store": "10.3 miles",
           "estimated_attendance": "50000+ seasonal",
           "verification_sources": [
@@ -425,7 +425,7 @@
             "SAPCenter.com Events",
             "Ticketmaster"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Unconfirmed",
           "relevance_to_store": "Medium",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -456,7 +456,7 @@
         "preparation_priority": "Family-oriented inventory and staffing"
       },
       {
-        "date_range": "2025-12-22 to 2026-01-05",
+        "date_range": "2025-12-23 to 2026-01-03",
         "reason": "School winter break increasing local family foot traffic",
         "preparation_priority": "Breakfast and kids menu focus"
       },

@@ -8,7 +8,7 @@
       "has_playplace": true,
       "has_delivery": true,
       "seating_capacity": "50-75",
-      "operating_hours": "Mon-Sat 5am-1am, Sun 5am-11pm"
+      "operating_hours": "Daily 6am-11pm"
     }
   },
   "assessment_date": "2025-11-29",
@@ -19,14 +19,14 @@
       "events": [
         {
           "name": "Santa at the Square Holiday Celebration",
-          "date": "2025-12-12",
+          "date": "2025-12-13",
           "time_of_day": "evening",
           "location": "Evergreen Village Square, San Jose, CA",
           "distance_from_store": "9.1 miles",
           "estimated_attendance": "500-1000",
           "verification_sources": [
-            "City of San Jos\u00e9 District 8 Upcoming Events",
-            "San Jos\u00e9 Made Events Calendar"
+            "Councilmember Domingo Candelas Instagram",
+            "Evergreen Village Square Facebook"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "High",
@@ -50,14 +50,14 @@
       "events": [
         {
           "name": "McRib Return",
-          "date": "2025-11-29 to 2025-12-31",
+          "date": "2025-11-11 to 2025-12-31",
           "time_of_day": "all-day",
           "location": "All participating McDonald's including this location",
           "distance_from_store": "0 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
             "McDonald's Corporate News",
-            "McDonald's App Promotions"
+            "Axios McRib 2025"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "Very High",
@@ -89,7 +89,7 @@
           "estimated_attendance": "N/A",
           "verification_sources": [
             "National Day Calendar",
-            "Holidays Calendar"
+            "NationalToday.com"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "High",
@@ -116,12 +116,12 @@
           "name": "SJMADE Winter Wonder Market",
           "date": "2025-12-13 to 2025-12-14",
           "time_of_day": "afternoon",
-          "location": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA",
+          "location": "South Hall, San Jose McEnery Convention Center, 435 S Market St, San Jose, CA",
           "distance_from_store": "6.7 miles",
           "estimated_attendance": "5000+",
           "verification_sources": [
-            "San Jos\u00e9 Made Events",
-            "Visit San Jose Calendar"
+            "San José Made Events",
+            "MomentPopup SJMADE"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "Medium",
@@ -178,7 +178,7 @@
       "events": [
         {
           "name": "San Jose Earthquakes Home Game vs Seattle Sounders",
-          "date": "2026-02-21",
+          "date": "2026-03-15",
           "time_of_day": "evening",
           "location": "PayPal Park, 1013 N 4th St, San Jose, CA",
           "distance_from_store": "3.9 miles",
@@ -205,7 +205,7 @@
         },
         {
           "name": "San Jose Sharks Home Games",
-          "date": "2026-01-10, 2026-02-28",
+          "date": "TBD Jan/Feb 2026",
           "time_of_day": "evening",
           "location": "SAP Center, 525 W Santa Clara St, San Jose, CA",
           "distance_from_store": "6.3 miles",
@@ -214,7 +214,7 @@
             "NHL Sharks Schedule",
             "Hockey-Reference"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Tentative",
           "relevance_to_store": "Medium",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -242,7 +242,7 @@
           "distance_from_store": "9.2 miles",
           "estimated_attendance": "10000+",
           "verification_sources": [
-            "San Jos\u00e9 Made Events",
+            "San José Made Events",
             "SJtoday Big Events"
           ],
           "verification_status": "Confirmed",
@@ -262,9 +262,9 @@
         },
         {
           "name": "Christmas in the Park",
-          "date": "2025-11-29 to 2026-01-01",
+          "date": "2025-11-28 to 2026-01-01",
           "time_of_day": "evening",
-          "location": "Plaza de C\u00e9sar Ch\u00e1vez, San Jose, CA",
+          "location": "Plaza de César Chávez, San Jose, CA",
           "distance_from_store": "6.6 miles",
           "estimated_attendance": "500000+ seasonal",
           "verification_sources": [
@@ -331,10 +331,10 @@
           "distance_from_store": "N/A",
           "estimated_attendance": "200-500",
           "verification_sources": [
-            "Eventbrite San Jose Events",
-            "City of San Jos\u00e9 Economic Development"
+            "Eventbrite Events",
+            "Cranfield University"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Unconfirmed",
           "relevance_to_store": "Low",
           "traffic_impact": "Nominal",
           "sales_impact": "Nominal",
@@ -362,7 +362,7 @@
           "distance_from_store": "3.6 miles",
           "estimated_attendance": "Reduced due to work",
           "verification_sources": [
-            "City of San Jos\u00e9 Parks",
+            "City of San José Parks",
             "Alum Rock Park Official"
           ],
           "verification_status": "Confirmed",
@@ -417,7 +417,7 @@
       "category": "Nearby Venue Events",
       "events": [
         {
-          "name": "Broadway Show: Unknown Production",
+          "name": "Broadway Show: The Wiz",
           "date": "2026-01-27 to 2026-02-01",
           "time_of_day": "evening",
           "location": "San Jose Civic, 651 W Santa Clara St, San Jose, CA",
@@ -425,7 +425,7 @@
           "estimated_attendance": "2000-3000 per show",
           "verification_sources": [
             "Visit San Jose Events",
-            "Ticketmaster"
+            "Broadway San Jose"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "Medium",
@@ -453,8 +453,8 @@
         "preparation_priority": "Staffing and kids menu inventory"
       },
       {
-        "date_range": "2026-02-21 to 2026-02-28",
-        "reason": "Earthquakes season start and Sharks games increase evening sports crowds",
+        "date_range": "2026-03-15 to 2026-03-15",
+        "reason": "Earthquakes season start increases evening sports crowds",
         "preparation_priority": "Drive-thru efficiency and beverage stock"
       }
     ],

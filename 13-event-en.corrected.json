@@ -5,7 +5,7 @@
     "coordinates": "37.3159663,-121.7937516",
     "store_characteristics": {
       "has_drive_thru": true,
-      "has_playplace": true,
+      "has_playplace": false,
       "has_delivery": true,
       "seating_capacity": "50-60",
       "operating_hours": "6am-11pm"
@@ -19,13 +19,13 @@
       "events": [
         {
           "name": "Santa at the Square Holiday Celebration",
-          "date": "2025-12-12",
+          "date": "2025-12-13",
           "time_of_day": "evening",
           "location": "Evergreen Village Square, San Jose, CA",
           "distance_from_store": "1.5 miles",
           "estimated_attendance": "200-500",
           "verification_sources": [
-            "City of San Jos\u00e9 District 8 Upcoming Events",
+            "City of San José District 8 Upcoming Events",
             "Visit San Jose Holiday Guide"
           ],
           "verification_status": "Confirmed",
@@ -129,7 +129,7 @@
           "operational_preparation": {
             "staffing": "Standard",
             "inventory": "Extra cookie dough packs",
-            "promotions": "Free cookie with any McCaf\u00e9 purchase",
+            "promotions": "Free cookie with any McCafé purchase",
             "service_mode": "dine-in focus",
             "timing": "Prep morning of"
           }
@@ -143,11 +143,11 @@
           "name": "SJMADE Winter Wonder Market",
           "date": "2025-12-13 to 2025-12-14",
           "time_of_day": "afternoon/evening",
-          "location": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA",
-          "distance_from_store": "8.6 miles",
+          "location": "South Hall, 435 S. Market St, San Jose, CA 95110",
+          "distance_from_store": "9.2 miles",
           "estimated_attendance": "5000+",
           "verification_sources": [
-            "San Jos\u00e9 Made Events Page",
+            "San José Made Events Page",
             "Visit San Jose Events"
           ],
           "verification_status": "Confirmed",
@@ -173,7 +173,7 @@
       "events": [
         {
           "name": "Winter Break Start - No School",
-          "date": "2025-12-22 to 2026-01-05",
+          "date": "2025-12-22 to 2026-01-02",
           "time_of_day": "all-day",
           "location": "Franklin-McKinley School District schools",
           "distance_from_store": "1-2 miles",
@@ -393,7 +393,7 @@
       "category": "Nearby Venue Events",
       "events": [
         {
-          "name": "MAN\u00c1 Concert Tour",
+          "name": "MANÁ Concert Tour",
           "date": "2025-12-05 to 2025-12-06",
           "time_of_day": "evening",
           "location": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",

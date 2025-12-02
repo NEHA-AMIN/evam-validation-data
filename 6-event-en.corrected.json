@@ -8,7 +8,7 @@
       "has_playplace": false,
       "has_delivery": true,
       "seating_capacity": "50",
-      "operating_hours": "5am-11pm"
+      "operating_hours": "5:30am-11pm"
     }
   },
   "assessment_date": "2025-11-29",
@@ -47,12 +47,12 @@
           "name": "SJV Holiday Faire",
           "date": "2025-12-05 to 2025-12-07",
           "time_of_day": "all-day",
-          "location": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA",
-          "distance_from_store": "12.9 miles",
+          "location": "4602 Hyland Ave, San Jose, CA 95127 (St. John Vianney)",
+          "distance_from_store": "15 miles",
           "estimated_attendance": "5000+",
           "verification_sources": [
-            "Patch.com Cupertino Calendar",
-            "San Jos\u00e9 Made Website"
+            "St. John Vianney Catholic School",
+            "Eventbrite"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "High",
@@ -103,14 +103,14 @@
       "events": [
         {
           "name": "McValue Platform Launch Promotions",
-          "date": "2025-12-01 to 2026-02-28",
+          "date": "2025-01-07 to 2026-02-28",
           "time_of_day": "all-day",
           "location": "National - All McDonald's",
           "distance_from_store": "0 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
             "McDonald's Corporate Website",
-            "Food and Wine Article"
+            "Yahoo Finance"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "Very High",
@@ -145,7 +145,7 @@
             "National Day Calendar",
             "Holidays Calendar"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Outside Period",
           "relevance_to_store": "Medium",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -174,7 +174,7 @@
           "distance_from_store": "12.9 miles",
           "estimated_attendance": "10000+",
           "verification_sources": [
-            "San Jos\u00e9 Made Website",
+            "San José Made Website",
             "Eventbrite"
           ],
           "verification_status": "Confirmed",
@@ -194,14 +194,14 @@
           }
         },
         {
-          "name": "San Jos\u00e9 Winter Wonder Market",
+          "name": "San José Winter Wonder Market",
           "date": "2025-12-13 to 2025-12-14",
           "time_of_day": "all-day",
           "location": "South Hall, 435 S Market St, San Jose, CA",
           "distance_from_store": "13.1 miles",
           "estimated_attendance": "5000+",
           "verification_sources": [
-            "San Jos\u00e9 Made Website",
+            "San José Made Website",
             "MOMENT Popup Events"
           ],
           "verification_status": "Confirmed",
@@ -253,67 +253,7 @@
           }
         }
       ]
-    },
-    {
-      "category": "Sports Events",
-      "events": [
-        {
-          "name": "San Jose Sharks vs. Vegas Golden Knights",
-          "date": "2025-12-03",
-          "time_of_day": "evening",
-          "location": "SAP Center, 525 W Santa Clara St, San Jose, CA",
-          "distance_from_store": "13.0 miles",
-          "estimated_attendance": "15000+",
-          "verification_sources": [
-            "NHL.com Sharks Schedule",
-            "SAP Center Events"
-          ],
-          "verification_status": "Confirmed",
-          "relevance_to_store": "High",
-          "traffic_impact": "High",
-          "sales_impact": "High",
-          "daypart_affected": [
-            "dinner",
-            "late-night"
-          ],
-          "operational_preparation": {
-            "staffing": "Add 4 crew for post-game rush",
-            "inventory": "Beef, chicken, beverages",
-            "promotions": "Game day combo",
-            "service_mode": "drive-thru focus",
-            "timing": "Day before"
-          }
-        },
-        {
-          "name": "Super Bowl LX",
-          "date": "2026-02-08",
-          "time_of_day": "afternoon/evening",
-          "location": "Levi's Stadium, 4900 Marie P DeBartolo Way, Santa Clara, CA",
-          "distance_from_store": "12.9 miles",
-          "estimated_attendance": "70000+",
-          "verification_sources": [
-            "Discover Santa Clara Events",
-            "NFL Official Site"
-          ],
-          "verification_status": "Confirmed",
-          "relevance_to_store": "Very High",
-          "traffic_impact": "High",
-          "sales_impact": "High",
-          "daypart_affected": [
-            "lunch",
-            "dinner",
-            "late-night"
-          ],
-          "operational_preparation": {
-            "staffing": "Double shifts all day",
-            "inventory": "Chicken, beef, desserts",
-            "promotions": "Super Bowl watch party bundles",
-            "service_mode": "drive-thru focus",
-            "timing": "3 days before"
-          }
-        }
-      ]
-    },
+    },  
     {
       "category": "Retail Shopping Events",
       "events": [

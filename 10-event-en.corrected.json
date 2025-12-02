@@ -8,7 +8,7 @@
       "has_playplace": false,
       "has_delivery": true,
       "seating_capacity": "50-70",
-      "operating_hours": "6am-11pm"
+      "operating_hours": "Mon-Wed: 5am-10pm, Thu: 5am-11pm, Fri-Sun: 5am-10pm"
     }
   },
   "assessment_date": "2025-11-29",
@@ -46,7 +46,7 @@
         },
         {
           "name": "Christmas in the Park",
-          "date": "2025-11-29 to 2026-01-01",
+          "date": "2025-11-28 to 2026-01-01",
           "time_of_day": "evening",
           "location": "Plaza de Cesar Chavez, Downtown San Jose, CA",
           "distance_from_store": "7.8 miles",
@@ -74,7 +74,7 @@
         {
           "name": "San Jose Winter Wonder Market",
           "date": "2025-12-13 to 2025-12-14",
-          "time_of_day": "all-day",
+          "time_of_day": "afternoon",
           "location": "San Jose McEnery Convention Center South Hall, San Jose, CA",
           "distance_from_store": "7.5 miles",
           "estimated_attendance": "10000+",
@@ -105,7 +105,7 @@
       "events": [
         {
           "name": "McValue $5 Meal Deal Extension",
-          "date": "2025-12-01 to 2026-02-28",
+          "date": "2025-12-01 to 2025-06-30",
           "time_of_day": "all-day",
           "location": "All McDonald's locations including this store",
           "distance_from_store": "0 miles",
@@ -163,7 +163,7 @@
         },
         {
           "name": "National Brownie Day",
-          "date": "2026-01-01",
+          "date": "2026-12-08",
           "time_of_day": "all-day",
           "location": "All McDonald's locations including this store",
           "distance_from_store": "0 miles",
@@ -203,7 +203,7 @@
             "Visit San Jose",
             "Symphony San Jose"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Unverified",
           "relevance_to_store": "Medium",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -443,7 +443,7 @@
           "date": "2025-12-03 to 2026-02-28 (intermittent)",
           "time_of_day": "daytime",
           "location": "SR-85 between Stevens Creek Blvd and nearby",
-          "distance_from_store": "1.0 miles",
+          "distance_from_store": "1.0 mile",
           "estimated_attendance": "N/A",
           "verification_sources": [
             "Caltrans",

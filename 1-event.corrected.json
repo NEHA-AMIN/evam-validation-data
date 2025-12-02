@@ -21,12 +21,12 @@
           "name": "Almaden Valley Farmers Market",
           "date": "2025-12-07 to 2026-02-08",
           "time_of_day": "morning",
-          "location": "Almaden Plaza, 5353 Almaden Expy, San Jose, CA",
-          "distance_from_store": "0.5 miles",
+          "location": "Princeton Plaza Mall, 1375 Blossom Hill Rd, San Jose, CA 95118",
+          "distance_from_store": "1.6 miles",
           "estimated_attendance": "500-1000",
           "verification_sources": [
-            "County of Santa Clara Agriculture Department",
-            "California Farmers' Markets Association"
+            "City of San Jose Farmers' Market Listings",
+            "Champ Farmer Markets"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "High",
@@ -361,7 +361,7 @@
           "name": "Almaden Lake Park Winter Activities",
           "date": "2025-12-01 to 2026-02-28",
           "time_of_day": "all-day",
-          "location": "Almaden Lake Park, 13000 Fremont Rd, San Jose, CA",
+          "location": "Almaden Lake Park, 6099 Winfield Blvd, San Jose, CA 95120",
           "distance_from_store": "2.0 miles",
           "estimated_attendance": "200 daily",
           "verification_sources": [
@@ -420,7 +420,7 @@
       "category": "Nearby Venue Events",
       "events": [
         {
-          "name": "Man\u00e1 Concert",
+          "name": "Maná Concert",
           "date": "2025-12-05 to 2025-12-06",
           "time_of_day": "evening",
           "location": "SAP Center, 525 W Santa Clara St, San Jose, CA",
@@ -450,12 +450,12 @@
           "name": "DeveloperWeek 2026",
           "date": "2026-02-18 to 2026-02-20",
           "time_of_day": "all-day",
-          "location": "San Jose McEnery Convention Center",
+          "location": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA 95113",
           "distance_from_store": "5.6 miles",
           "estimated_attendance": "15000",
           "verification_sources": [
             "Eventbrite",
-            "San Jose Convention Center"
+            "San Jose McEnery Convention Center"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "Medium",
@@ -485,7 +485,7 @@
       },
       {
         "date_range": "2025-12-05 to 2025-12-06",
-        "reason": "Sharks games and Man\u00e1 concert create evening rushes",
+        "reason": "Sharks games and Maná concert create evening rushes",
         "preparation_priority": "Drive-thru speed and late-night staffing"
       }
     ],

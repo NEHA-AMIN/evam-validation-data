@@ -20,13 +20,13 @@
         {
           "name": "Holiday Spectacular",
           "date": "2025-12-06 to 2025-12-07",
-          "time_of_day": "evening",
-          "location": "California Theatre, 345 South First St., San Jose, CA 95112",
-          "distance_from_store": "11.9 miles",
+          "time_of_day": "afternoon/evening",
+          "location": "California Theatre, 345 South First St., San Jose, CA 95113",
+          "distance_from_store": "~12 miles",
           "estimated_attendance": "1000-1500",
           "verification_sources": [
             "https://www.sanjose.org/events/holiday-spectacular",
-            "https://symphonysiliconvalley.org/"
+            "https://symphonysanjose.org/attend/2025-2026-season/concerts/holiday-spectacular/"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "Low",
@@ -52,42 +52,42 @@
           "name": "McRib Return",
           "date": "2025-11-29 to 2026-01-15",
           "time_of_day": "all-day",
-          "location": "All McDonald's locations including 105 Bernal Rd",
-          "distance_from_store": "0 miles",
+          "location": "Select McDonald's locations; availability may vary",
+          "distance_from_store": "0 miles (if participating)",
           "estimated_attendance": "N/A",
           "verification_sources": [
             "https://www.mcdonalds.com/us/en-us/deals.html",
             "https://www.retailmenot.com/view/mcdonalds.com"
           ],
-          "verification_status": "Confirmed",
-          "relevance_to_store": "Very High",
-          "traffic_impact": "High",
-          "sales_impact": "High",
+          "verification_status": "Unverified – no official confirmation for these dates or this store",
+          "relevance_to_store": "Unknown",
+          "traffic_impact": "Unknown",
+          "sales_impact": "Unknown",
           "daypart_affected": [
             "lunch",
             "dinner"
           ],
           "operational_preparation": {
-            "staffing": "Add 2 crew members per shift for peak hours",
-            "inventory": "Increase pork patty and BBQ sauce stock by 30%",
-            "promotions": "Bundle McRib with fries and drink via app",
+            "staffing": "Plan contingent staffing if McRib is confirmed",
+            "inventory": "Plan pork patty and BBQ sauce stock increase only after confirmation",
+            "promotions": "Prepare bundle concepts; activate only if offer is live",
             "service_mode": "drive-thru and delivery prep",
-            "timing": "Prep inventory 3 days before launch"
+            "timing": "Prep inventory 3 days before launch if confirmed"
           }
         },
         {
           "name": "McValue Platform Deals",
           "date": "2025-12-01 to 2026-02-28",
           "time_of_day": "all-day",
-          "location": "All McDonald's locations including 105 Bernal Rd",
-          "distance_from_store": "0 miles",
+          "location": "Participating McDonald's locations including 105 Bernal Rd (subject to confirmation)",
+          "distance_from_store": "0 miles (if participating)",
           "estimated_attendance": "N/A",
           "verification_sources": [
             "https://www.foodandwine.com/mcdonalds-mcvalue-platform-deals-2025-8769773",
             "https://www.mcdonalds.com/us/en-us/deals.html"
           ],
-          "verification_status": "Confirmed",
-          "relevance_to_store": "Very High",
+          "verification_status": "Partially confirmed – national platform announced, local participation not explicitly listed",
+          "relevance_to_store": "High (if participating)",
           "traffic_impact": "Medium",
           "sales_impact": "High",
           "daypart_affected": [
@@ -97,7 +97,7 @@
           "operational_preparation": {
             "staffing": "Train staff on app redemption process",
             "inventory": "Focus on value meal components like burgers and fries",
-            "promotions": "Promote free fries Fridays in-store signage",
+            "promotions": "Promote value offers and any \"free fries\" type deals if available in app",
             "service_mode": "drive-thru focus",
             "timing": "Ongoing monitoring via app analytics"
           }
@@ -111,17 +111,17 @@
           "name": "National Cookie Day",
           "date": "2025-12-04",
           "time_of_day": "all-day",
-          "location": "All McDonald's locations including 105 Bernal Rd",
+          "location": "All McDonald's locations (no official chain-wide promo confirmed)",
           "distance_from_store": "0 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
-            "https://www.baldwinpublishing.com/blog-calendar-of-national-food-days-2025/",
-            "https://www.nationaldaycalendar.com/"
+            "https://www.nationaldaycalendar.com/",
+            "https://www.baldwinpublishing.com/blog-calendar-of-national-food-days-2025/"
           ],
-          "verification_status": "Confirmed",
-          "relevance_to_store": "Medium",
-          "traffic_impact": "Medium",
-          "sales_impact": "Medium",
+          "verification_status": "Date confirmed; McDonald's-specific offers unverified",
+          "relevance_to_store": "Medium (if local offer created)",
+          "traffic_impact": "Low-Medium",
+          "sales_impact": "Low-Medium",
           "daypart_affected": [
             "lunch",
             "dinner"
@@ -129,7 +129,7 @@
           "operational_preparation": {
             "staffing": "Standard staffing with dessert counter emphasis",
             "inventory": "Stock extra cookies and McFlurry mix",
-            "promotions": "BOGO cookies via McDonald's app",
+            "promotions": "Optional local BOGO-style cookie offers via app if supported",
             "service_mode": "dine-in focus",
             "timing": "Prep baked goods morning of"
           }
@@ -142,10 +142,10 @@
         {
           "name": "Christmas in the Park",
           "date": "2025-11-29 to 2026-01-05",
-          "time_of_day": "all-day",
-          "location": "Plaza de C\u00e9sar Ch\u00e1vez, San Jose, CA",
+          "time_of_day": "afternoon/evening",
+          "location": "Plaza de César Chávez, San Jose, CA",
           "distance_from_store": "11.8 miles",
-          "estimated_attendance": "500000+",
+          "estimated_attendance": "500000+ (season total)",
           "verification_sources": [
             "https://www.sanjose.org/holiday",
             "https://sjtoday.6amcity.com/big-events-festivals-san-jose-ca-2025"
@@ -168,7 +168,7 @@
         },
         {
           "name": "SJMADE Holiday Fair",
-          "date": "2025-11-28 to 2025-11-29",
+          "date": "2025-11-28 to 2025-11-30",
           "time_of_day": "all-day",
           "location": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA 95054",
           "distance_from_store": "18.6 miles",
@@ -177,7 +177,7 @@
             "https://www.sanjosemade.com/pages/sjmade-holiday-fair-2025",
             "https://sjtoday.6amcity.com/big-events-festivals-san-jose-ca-2025"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Confirmed (dates include Sunday)",
           "relevance_to_store": "Low",
           "traffic_impact": "Low",
           "sales_impact": "Low",
@@ -201,14 +201,14 @@
           "name": "Winter Break",
           "date": "2025-12-22 to 2026-01-02",
           "time_of_day": "all-day",
-          "location": "Santa Clara Unified School District schools",
-          "distance_from_store": "16.9 miles",
+          "location": "Local school districts (example: San Jose Unified and nearby districts)",
+          "distance_from_store": "0-15 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
-            "https://www.santaclarausd.org/calendar",
+            "https://www.sjusd.org/our-schools/calendars/",
             "https://www.educounty.net/wp-content/uploads/2025/03/Santa-Clara-USD-Calendar-2025-2026.pdf"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Partially confirmed – winter breaks vary by district",
           "relevance_to_store": "High",
           "traffic_impact": "High",
           "sales_impact": "High",
@@ -217,10 +217,10 @@
             "lunch"
           ],
           "operational_preparation": {
-            "staffing": "Increase morning crew by 20% for family traffic",
-            "inventory": "Boost kids meals and breakfast items by 25%",
+            "staffing": "Increase morning crew by ~20% for family traffic",
+            "inventory": "Boost kids meals and breakfast items by ~25%",
             "promotions": "Family value packs and Happy Meal tie-ins",
-            "service_mode": "dine-in and play area focus if available",
+            "service_mode": "dine-in focus; play area not available at this store",
             "timing": "Stock up 1 week prior"
           }
         }
@@ -237,11 +237,11 @@
           "distance_from_store": "11.4 miles",
           "estimated_attendance": "2000-4000 per game",
           "verification_sources": [
-            "https://sjsuspartans.com/news/2025/09/25/san-jose-state-mens-basketball-announces-schedule-for-2025-26-season",
+            "https://sjsuspartans.com/",
             "https://www.espn.com/mens-college-basketball/team/schedule/_/id/23/san-jose-state-spartans"
           ],
-          "verification_status": "Confirmed",
-          "relevance_to_store": "High",
+          "verification_status": "Partially confirmed – schedule subject to change",
+          "relevance_to_store": "Medium-High",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
           "daypart_affected": [
@@ -251,7 +251,7 @@
           "operational_preparation": {
             "staffing": "Add 2 crew for post-game rush",
             "inventory": "Stock extra burgers and fries for groups",
-            "promotions": "Game day app deals for $1 large fries",
+            "promotions": "Game day app deals as available in national/local offers",
             "service_mode": "drive-thru focus",
             "timing": "Prep 2 hours before game end"
           }
@@ -264,11 +264,11 @@
           "distance_from_store": "18.1 miles",
           "estimated_attendance": "70000+",
           "verification_sources": [
-            "https://www.discoversantaclara.org/events/",
-            "https://www.nfl.com/events/super-bowl/"
+            "https://www.nfl.com/events/super-bowl/",
+            "https://www.levisstadium.com/event/super-bowl-lx/"
           ],
           "verification_status": "Confirmed",
-          "relevance_to_store": "Very High",
+          "relevance_to_store": "High",
           "traffic_impact": "High",
           "sales_impact": "High",
           "daypart_affected": [
@@ -277,11 +277,11 @@
             "late-night"
           ],
           "operational_preparation": {
-            "staffing": "Double crew shifts for full day",
-            "inventory": "Massive stock of wings, burgers, beverages up 50%",
-            "promotions": "Super Bowl watch party bundles",
+            "staffing": "Increase crew coverage for full day with emphasis on game-time peaks",
+            "inventory": "Increase burgers, chicken, and beverages by ~50% for group orders",
+            "promotions": "Super Bowl watch party bundles aligned with approved McDonald's marketing",
             "service_mode": "drive-thru and delivery prep",
-            "timing": "Prep inventory 3 days prior, stage for tailgate traffic"
+            "timing": "Prep inventory 3 days prior, stage for tailgate and post-game traffic"
           }
         }
       ]
@@ -291,16 +291,16 @@
       "events": [
         {
           "name": "Black Friday",
-          "date": "2025-11-29",
+          "date": "2025-11-28",
           "time_of_day": "all-day",
           "location": "Local retail areas including Oakridge Mall, San Jose, CA",
           "distance_from_store": "6.3 miles",
           "estimated_attendance": "High shopping traffic",
           "verification_sources": [
-            "https://www.sanjose.org/holiday",
-            "https://nationaltoday.com/black-friday/"
+            "https://nationaltoday.com/black-friday/",
+            "https://www.sanjose.org/holiday"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Confirmed (date is Friday after Thanksgiving)",
           "relevance_to_store": "High",
           "traffic_impact": "High",
           "sales_impact": "High",
@@ -318,16 +318,16 @@
         },
         {
           "name": "Small Business Saturday",
-          "date": "2025-11-30",
+          "date": "2025-11-29",
           "time_of_day": "all-day",
           "location": "Local small businesses in San Jose",
           "distance_from_store": "0-5 miles",
           "estimated_attendance": "Medium",
           "verification_sources": [
-            "https://www.sanjose.org/holiday",
-            "https://nationaltoday.com/small-business-saturday/"
+            "https://nationaltoday.com/small-business-saturday/",
+            "https://www.sanjose.org/holiday"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Confirmed (Saturday after Black Friday)",
           "relevance_to_store": "Medium",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -337,7 +337,7 @@
           "operational_preparation": {
             "staffing": "Standard with lunch peak support",
             "inventory": "Standard",
-            "promotions": "Local business tie-in coupons",
+            "promotions": "Local business tie-in concepts if allowed by brand guidelines",
             "service_mode": "drive-thru focus",
             "timing": "Morning prep"
           }
@@ -348,7 +348,7 @@
       "category": "Weather-Related Events & Seasonal Changes",
       "events": [
         {
-          "name": "Mild Winter Conditions",
+          "name": "Mild Winter Conditions (Forecast)",
           "date": "2025-12-01 to 2026-02-28",
           "time_of_day": "all-day",
           "location": "San Jose area",
@@ -358,7 +358,7 @@
             "https://www.almanac.com/weather/longrange/ca/san%20jose",
             "https://weather.com/weather/monthly/l/Downtown+San+Jose+San+Jose+California"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Forecast – not guaranteed",
           "relevance_to_store": "Medium",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -367,8 +367,8 @@
           ],
           "operational_preparation": {
             "staffing": "Flexible for outdoor seating if available",
-            "inventory": "Increase iced beverages, decrease hot items slightly",
-            "promotions": "Weather-based app pushes for refreshing drinks",
+            "inventory": "Consider higher iced beverage mix, adjust hot items based on actual weekly trends",
+            "promotions": "Weather-based app pushes for refreshing drinks if available",
             "service_mode": "drive-thru and dine-in",
             "timing": "Weekly forecast checks"
           }
@@ -384,8 +384,8 @@
       "events": [
         {
           "name": "Winter Wonderland",
-          "date": "2025-12-19 to 2026-01-03",
-          "time_of_day": "all-day",
+          "date": "2025-11-22 to 2026-01-05",
+          "time_of_day": "afternoon/evening",
           "location": "Park Ave. & Paseo de San Antonio, San Jose, CA",
           "distance_from_store": "11.7 miles",
           "estimated_attendance": "10000+",
@@ -393,7 +393,7 @@
             "https://www.sanjose.org/events/winter-wonderland-2025",
             "https://www.sanjose.org/holiday"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Confirmed (operating span covers late Nov–early Jan)",
           "relevance_to_store": "Medium",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -403,7 +403,7 @@
           "operational_preparation": {
             "staffing": "Evening crew increase by 2",
             "inventory": "Desserts and hot drinks",
-            "promotions": "Family ride bundles",
+            "promotions": "Family-oriented offers aligned with park visitation periods",
             "service_mode": "drive-thru focus",
             "timing": "Prep for holiday crowds"
           }
@@ -416,18 +416,18 @@
         {
           "name": "SR-85 Construction Near Bernal Rd",
           "date": "2025-12-01 to 2026-02-28",
-          "time_of_day": "all-day",
+          "time_of_day": "varies",
           "location": "SR-85 near Bernal Rd, San Jose",
           "distance_from_store": "0.5 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
-            "https://californialocal.com/localnews/santa-clara/ca/traffic/show/",
-            "https://gisdata-csj.opendata.arcgis.com/datasets/CSJ::road-closures"
+            "https://gisdata-csj.opendata.arcgis.com/datasets/CSJ::road-closures",
+            "https://www.511.org/"
           ],
-          "verification_status": "Confirmed",
-          "relevance_to_store": "High",
-          "traffic_impact": "Medium",
-          "sales_impact": "Nominal",
+          "verification_status": "Unverified – example placeholder; check current DOT/511 data",
+          "relevance_to_store": "Potentially High",
+          "traffic_impact": "Unknown-Medium",
+          "sales_impact": "Unknown",
           "daypart_affected": [
             "lunch",
             "dinner"
@@ -437,7 +437,7 @@
             "inventory": "Standard",
             "promotions": "N/A",
             "service_mode": "drive-thru focus",
-            "timing": "Daily checks via 511.org"
+            "timing": "Daily checks via 511.org or local DOT sources"
           }
         }
       ]
@@ -451,12 +451,12 @@
           "time_of_day": "evening/late-night",
           "location": "Various downtown venues, San Jose",
           "distance_from_store": "9.0 miles",
-          "estimated_attendance": "5000+",
+          "estimated_attendance": "5000+ (across multiple venues)",
           "verification_sources": [
-            "https://www.eventbrite.com/e/happy-new-year-2026-tickets-1134252522829",
-            "https://www.sanjose.org/events"
+            "https://www.sanjose.org/events",
+            "https://www.eventbrite.com/"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Partially confirmed – multiple independent events",
           "relevance_to_store": "Medium",
           "traffic_impact": "High",
           "sales_impact": "Medium",
@@ -464,9 +464,9 @@
             "late-night"
           ],
           "operational_preparation": {
-            "staffing": "Extend shifts to midnight, add 3 crew",
+            "staffing": "Extend shifts to midnight, add 3 crew (subject to store hours and policy)",
             "inventory": "Late-night snacks and coffee",
-            "promotions": "NYE combo deals",
+            "promotions": "NYE combo deals if aligned with brand guidelines",
             "service_mode": "drive-thru and delivery",
             "timing": "Prep for post-event rush"
           }
@@ -478,31 +478,31 @@
     "high_impact_periods": [
       {
         "date_range": "2025-12-22 to 2026-01-02",
-        "reason": "School winter break combined with holiday shopping and Christmas in the Park driving family traffic",
-        "preparation_priority": "Family meals, kids items, extended hours"
+        "reason": "Local school winter breaks combined with holiday shopping and Christmas in the Park driving family traffic",
+        "preparation_priority": "Family meals, kids items; consider extended hours within corporate guidelines"
       },
       {
         "date_range": "2026-02-08",
-        "reason": "Super Bowl LX causing massive regional traffic and event-related surges",
-        "preparation_priority": "Game day inventory, staffing doubles, delivery partnerships"
+        "reason": "Super Bowl LX at Levi's Stadium causing significant regional traffic and event-related surges",
+        "preparation_priority": "Game day inventory, higher staffing coverage, delivery partnerships"
       }
     ],
-    "staffing_strategy": "Anticipate 20% increase during holidays and events; cross-train for drive-thru efficiency and implement flexible overtime for peaks",
+    "staffing_strategy": "Anticipate up to ~20% increase during holidays and major events; cross-train for drive-thru efficiency and implement flexible overtime or shift swaps for peaks",
     "inventory_priorities": [
-      "Pork for McRib",
+      "Pork for McRib (if confirmed for this store)",
       "Kids meal toys",
       "Beverages and fries",
       "Hot drinks for evenings"
     ],
     "marketing_opportunities": [
-      "Tie-in promotions with McRib and McValue via app notifications",
-      "Family bundles for school breaks",
-      "Game day specials for Spartans and Super Bowl"
+      "Tie-in promotions with McValue platform and any confirmed LTOs via app notifications",
+      "Family bundles for school breaks and holiday outings",
+      "Game day specials aligned with Spartans schedule and Super Bowl, within brand guidelines"
     ],
     "operational_risks": [
-      "SR-85 construction delays access; monitor for weather shifts to hot items",
-      "Supply chain for limited-time items during high demand"
+      "Potential SR-85 construction delays affecting access; weather shifts could alter demand mix between hot and cold items",
+      "Supply chain pressure for limited-time items and high-demand SKUs during peaks"
     ],
-    "competitive_considerations": "Nearby KFC and Taco Bell may compete on chicken promotions; differentiate with McRib exclusivity and family play focus"
+    "competitive_considerations": "Nearby QSR competitors (e.g., chicken or taco concepts) may emphasize chicken or value promotions; differentiate with any exclusive McDonald's LTOs, value platform, and family appeal."
   }
 }

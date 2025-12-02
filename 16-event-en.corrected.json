@@ -19,9 +19,9 @@
       "events": [
         {
           "name": "Christmas in the Park",
-          "date": "2025-12-01 to 2026-01-01",
+          "date": "2025-11-28 to 2026-01-01",
           "time_of_day": "all-day",
-          "location": "Plaza de C\u00e9sar Ch\u00e1vez, San Jose, CA",
+          "location": "Plaza de César Chávez, San Jose, CA",
           "distance_from_store": "1.6 miles",
           "estimated_attendance": "500,000+",
           "verification_sources": [
@@ -48,7 +48,7 @@
           "name": "SJMADE Holiday Fair",
           "date": "2025-11-28 to 2025-11-29",
           "time_of_day": "all-day",
-          "location": "History Park, San Jose, CA",
+          "location": "Santa Clara Convention Center, Santa Clara, CA",
           "distance_from_store": "3.5 miles",
           "estimated_attendance": "20,000+",
           "verification_sources": [
@@ -78,14 +78,14 @@
       "events": [
         {
           "name": "McValue Platform Launch with $5 Meal Deals",
-          "date": "2025-12-01 to 2026-02-28",
+          "date": "2026-01-07 to 2026-02-28",
           "time_of_day": "all-day",
           "location": "All McDonald's locations",
           "distance_from_store": "0 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
             "mcdonalds.com/us/en-us/deals.html",
-            "foodandwine.com/mcdonalds-mcvalue-platform-deals-2025-8769773"
+            "restaurantdive.com/news/mcdonald-mcvalue-nationwide-launch-january-7"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "Very High",
@@ -102,38 +102,6 @@
             "promotions": "Push free fries Fridays via signage",
             "service_mode": "delivery prep",
             "timing": "Ongoing monitoring starting launch date"
-          }
-        }
-      ]
-    },
-    {
-      "category": "National & Regional Fast-Food Awareness Days",
-      "events": [
-        {
-          "name": "National Fast Food Day",
-          "date": "2025-11-16",
-          "time_of_day": "all-day",
-          "location": "Nationwide",
-          "distance_from_store": "0 miles",
-          "estimated_attendance": "N/A",
-          "verification_sources": [
-            "nationaldaycalendar.com/national-day/national-fast-food-day-november-16",
-            "nationaltoday.com/national-fast-food-day"
-          ],
-          "verification_status": "Confirmed",
-          "relevance_to_store": "High",
-          "traffic_impact": "Medium",
-          "sales_impact": "Medium",
-          "daypart_affected": [
-            "lunch",
-            "dinner"
-          ],
-          "operational_preparation": {
-            "staffing": "Add one crew for midday peak",
-            "inventory": "Prepare extra burger patties and fries",
-            "promotions": "BOGO on select items via app",
-            "service_mode": "drive-thru focus",
-            "timing": "Day before for inventory check"
           }
         }
       ]
@@ -213,7 +181,7 @@
           "estimated_attendance": "15,000",
           "verification_sources": [
             "sapcenter.com/events",
-            "seatgeek.com/venues/sap-center-at-san-jose"
+            "nhl.com/sharks"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "Very High",
@@ -240,7 +208,7 @@
           "estimated_attendance": "15,000",
           "verification_sources": [
             "sapcenter.com/events",
-            "sanjose.events"
+            "nhl.com/sharks"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "Very High",
@@ -296,28 +264,28 @@
       "category": "Weather-Related Events & Seasonal Changes",
       "events": [
         {
-          "name": "Mild Winter with Below-Normal Rainfall",
+          "name": "Wet Winter with Above-Normal Rainfall",
           "date": "2025-12-01 to 2026-02-28",
           "time_of_day": "all-day",
           "location": "San Jose, CA",
-          "distance_from_store": "2.2 miles",
+          "distance_from_store": "0 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
-            "almanac.com/weather/longrange/ca/san%20jose",
-            "accuweather.com/en/us/san-jose/95110/december-weather/347630"
+            "farmersalmanac.com/extended-forecast",
+            "almanac.com/weather/longrange/ca/san%20jose"
           ],
           "verification_status": "Confirmed",
           "relevance_to_store": "Medium",
-          "traffic_impact": "Nominal",
-          "sales_impact": "Low",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
           "daypart_affected": [
             "all"
           ],
           "operational_preparation": {
-            "staffing": "Standard, monitor for any unexpected rain",
-            "inventory": "Maintain normal levels, less emphasis on hot drinks",
-            "promotions": "N/A",
-            "service_mode": "balanced",
+            "staffing": "Standard, monitor for rain delays",
+            "inventory": "Increase hot beverages and comfort foods",
+            "promotions": "Rainy day app deals",
+            "service_mode": "drive-thru focus",
             "timing": "Ongoing"
           }
         }
@@ -327,7 +295,7 @@
       "category": "Nearby Venue Events",
       "events": [
         {
-          "name": "Man\u00e1 Concert (VIVIR SIN AIRE Tour)",
+          "name": "Maná Concert (VIVIR SIN AIRE Tour)",
           "date": "2025-12-05 to 2025-12-06",
           "time_of_day": "evening",
           "location": "SAP Center, 525 W Santa Clara St, San Jose, CA",
@@ -359,7 +327,7 @@
   "overall_recommendations": {
     "high_impact_periods": [
       {
-        "date_range": "2025-12-01 to 2026-01-05",
+        "date_range": "2025-11-28 to 2026-01-05",
         "reason": "Holiday season with Christmas in the Park, winter break, and Sharks games driving family and tourist traffic",
         "preparation_priority": "Inventory for family meals and staffing for evenings"
       },
@@ -381,7 +349,7 @@
       "Game-day social media posts for Sharks events"
     ],
     "operational_risks": [
-      "Post-event traffic congestion blocking access; monitor weather for minor disruptions"
+      "Post-event traffic congestion blocking access; monitor weather for rain disruptions"
     ],
     "competitive_considerations": "Nearby Burger King and Taco Bell may compete for drive-thru during Sharks games; emphasize McValue deals to differentiate"
   }

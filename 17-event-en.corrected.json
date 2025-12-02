@@ -137,7 +137,7 @@
       "events": [
         {
           "name": "National Fast Food Day",
-          "date": "2025-12-16",
+          "date": "2025-11-16",
           "time_of_day": "all-day",
           "location": "Nationwide",
           "distance_from_store": "0 miles",
@@ -169,7 +169,7 @@
       "events": [
         {
           "name": "Lunar New Year Celebrations",
-          "date": "2026-01-29 to 2026-02-01",
+          "date": "2026-02-17 to 2026-02-20",
           "time_of_day": "all-day",
           "location": "Various locations in San Jose, including Japantown",
           "distance_from_store": "4.5 miles",
@@ -201,7 +201,7 @@
       "events": [
         {
           "name": "Winter Break",
-          "date": "2025-12-22 to 2026-01-02",
+          "date": "2025-12-22 to 2026-01-05",
           "time_of_day": "all-day",
           "location": "San Jose Unified School District schools",
           "distance_from_store": "1-3 miles",

@@ -45,14 +45,14 @@
           }
         },
         {
-          "name": "San Jos\u00e9 Winter Wonder Market",
+          "name": "San José Winter Wonder Market",
           "date": "2025-12-13 to 2025-12-14",
           "time_of_day": "all-day",
-          "location": "South Hall, 435 S. Market Street, San Jos\u00e9, CA 95110",
+          "location": "South Hall, 435 S. Market Street, San José, CA 95110",
           "distance_from_store": "6.8 miles",
           "estimated_attendance": "15,000+",
           "verification_sources": [
-            "https://www.sanjosemade.com/pages/winter-wonder-market-2024",
+            "https://www.sanjosemade.com/pages/winter-wonder-market-2025",
             "https://www.sanjosemade.com/products/apply-to-vend-san-jose-winter-wonder-market-2025"
           ],
           "verification_status": "Confirmed",
@@ -66,7 +66,7 @@
           "operational_preparation": {
             "staffing": "Schedule extra 4 crew members for evening rush",
             "inventory": "Increase hot beverages and desserts for holiday tie-in",
-            "promotions": "Bundle deals with McCaf\u00e9 for market attendees",
+            "promotions": "Bundle deals with McCafé for market attendees",
             "service_mode": "drive-thru and delivery prep",
             "timing": "Stock up 2 days before, prep morning of"
           }
@@ -106,13 +106,13 @@
         },
         {
           "name": "McRib Return Season",
-          "date": "2025-11-15 to 2025-12-31",
+          "date": "2025-11-11 to 2025-12-31",
           "time_of_day": "all-day",
           "location": "National (including this store)",
           "distance_from_store": "0 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
-            "https://simplycodes.com/store/mcdonalds.com",
+            "https://mcriblocator.com/blog/2025/10/20/2025-us-mcrib-release/",
             "https://www.dealnews.com/s60937/Mc-Donalds/"
           ],
           "verification_status": "Confirmed",

@@ -7,8 +7,8 @@
       "has_drive_thru": true,
       "has_playplace": false,
       "has_delivery": true,
-      "seating_capacity": "50-60",
-      "operating_hours": "5am-11pm"
+      "seating_capacity": "Unknown",
+      "operating_hours": "Lobby 6am-10pm; Drive-thru 5am-11pm"
     }
   },
   "assessment_date": "2025-12-02",
@@ -20,10 +20,10 @@
         {
           "name": "Christmas in the Park",
           "date": "2025-11-28 to 2026-01-01",
-          "time_of_day": "all-day",
+          "time_of_day": "noon-10pm",
           "location": "Plaza de Cesar Chavez, 1 Paseo de San Antonio, San Jose, CA 95113",
-          "distance_from_store": "6.2 miles",
-          "estimated_attendance": "500,000+",
+          "distance_from_store": "≈6.2 miles",
+          "estimated_attendance": "Hundreds of thousands",
           "verification_sources": [
             "sanjose.org",
             "eventbrite.com"
@@ -49,13 +49,13 @@
           "date": "2025-11-28 to 2025-11-29",
           "time_of_day": "all-day",
           "location": "Santa Clara County Fairgrounds, 344 Tully Rd, San Jose, CA 95111",
-          "distance_from_store": "8.1 miles",
+          "distance_from_store": "≈8.1 miles",
           "estimated_attendance": "10,000+",
           "verification_sources": [
             "sanjosemade.com",
             "sanjose.org"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Plausible – pending 2025 announcement",
           "relevance_to_store": "Medium",
           "traffic_impact": "Low",
           "sales_impact": "Low",
@@ -72,11 +72,11 @@
           }
         },
         {
-          "name": "San Jos\u00e9 Winter Wonder Market",
+          "name": "San José Winter Wonder Market",
           "date": "2025-12-13 to 2025-12-14",
-          "time_of_day": "all-day",
-          "location": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA 95113",
-          "distance_from_store": "6.7 miles",
+          "time_of_day": "11am-6pm",
+          "location": "South Hall, 435 S Market St, San Jose, CA 95113",
+          "distance_from_store": "≈6.7 miles",
           "estimated_attendance": "15,000+",
           "verification_sources": [
             "sanjosemade.com",
@@ -105,16 +105,16 @@
       "events": [
         {
           "name": "$5 Meal Deal Extension",
-          "date": "2025-12-01 to 2026-02-28",
+          "date": "Through mid-2025 (exact end date TBA)",
           "time_of_day": "all-day",
-          "location": "All McDonald's locations",
+          "location": "Participating McDonald's locations in the U.S.",
           "distance_from_store": "0 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
             "corporate.mcdonalds.com",
             "mcdonalds.com"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Announced through mid-2025; not confirmed through 2026-02-28",
           "relevance_to_store": "Very High",
           "traffic_impact": "High",
           "sales_impact": "High",
@@ -139,14 +139,14 @@
           "name": "National Cookie Day",
           "date": "2025-12-04",
           "time_of_day": "all-day",
-          "location": "All McDonald's locations",
+          "location": "All McDonald's locations (participation may vary)",
           "distance_from_store": "0 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
             "nationaldaycalendar.com",
             "baldwinpublishing.com"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Confirmed date; McDonald's-specific offers not confirmed",
           "relevance_to_store": "High",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -157,7 +157,7 @@
           "operational_preparation": {
             "staffing": "Extra dessert station crew",
             "inventory": "Cookies, McFlurry mix",
-            "promotions": "BOGO cookie deals via app",
+            "promotions": "BOGO cookie deals via app (store-level decision)",
             "service_mode": "dine-in focus",
             "timing": "Morning prep"
           }
@@ -172,13 +172,13 @@
           "date": "2025-12-06 to 2025-12-07",
           "time_of_day": "evening",
           "location": "California Theatre, 345 South First St, San Jose, CA 95113",
-          "distance_from_store": "6.8 miles",
+          "distance_from_store": "≈6.8 miles",
           "estimated_attendance": "2,000+",
           "verification_sources": [
             "sanjose.org",
             "ticketmaster.com"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Plausible – event pattern matched, 2025 details to confirm",
           "relevance_to_store": "Low",
           "traffic_impact": "Low",
           "sales_impact": "Low",
@@ -209,7 +209,7 @@
             "santaclarausd.org",
             "educounty.net"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Typical window; exact 2025-26 dates to verify when calendar posts",
           "relevance_to_store": "High",
           "traffic_impact": "High",
           "sales_impact": "High",
@@ -235,7 +235,7 @@
           "date": "2025-12-01",
           "time_of_day": "evening",
           "location": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
-          "distance_from_store": "5.2 miles",
+          "distance_from_store": "≈5.2 miles",
           "estimated_attendance": "15,000+",
           "verification_sources": [
             "nhl.com/sharks",
@@ -252,7 +252,7 @@
           "operational_preparation": {
             "staffing": "Add 3-4 crew for post-game rush",
             "inventory": "Beef, chicken nuggets, fries",
-            "promotions": "Sharks-themed value meal",
+            "promotions": "Sharks-themed value meal (local marketing idea)",
             "service_mode": "drive-thru focus",
             "timing": "Afternoon prep"
           }
@@ -267,13 +267,13 @@
           "date": "2025-11-28 to 2025-12-24",
           "time_of_day": "all-day",
           "location": "Downtown San Jose businesses",
-          "distance_from_store": "6.0 miles",
+          "distance_from_store": "≈6.0 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
             "sjdowntown.com",
             "sanjose.org"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Program recurring; 2025 dates to confirm",
           "relevance_to_store": "Medium",
           "traffic_impact": "Medium",
           "sales_impact": "Medium",
@@ -294,7 +294,7 @@
       "category": "Weather-Related Events & Seasonal Changes",
       "events": [
         {
-          "name": "Mild Winter Season",
+          "name": "Mild Winter Season (forecast)",
           "date": "2025-12-01 to 2026-02-28",
           "time_of_day": "all-day",
           "location": "San Jose area",
@@ -304,7 +304,7 @@
             "almanac.com",
             "weather.com"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Forecast only; not guaranteed",
           "relevance_to_store": "Medium",
           "traffic_impact": "Nominal",
           "sales_impact": "Medium",
@@ -329,13 +329,13 @@
           "date": "2025-12-01",
           "time_of_day": "morning",
           "location": "San Jose Convention Center, 150 W San Carlos St, San Jose, CA 95113",
-          "distance_from_store": "6.7 miles",
+          "distance_from_store": "≈6.7 miles",
           "estimated_attendance": "5,000+",
           "verification_sources": [
             "careerfairconnection.com",
             "eventbrite.com"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Plausible – 2025 edition to confirm",
           "relevance_to_store": "Low",
           "traffic_impact": "Low",
           "sales_impact": "Low",
@@ -365,13 +365,13 @@
           "date": "2025-12-01 to 2026-01-01",
           "time_of_day": "evening",
           "location": "Downtown San Jose streets",
-          "distance_from_store": "6.0 miles",
+          "distance_from_store": "≈6.0 miles",
           "estimated_attendance": "N/A",
           "verification_sources": [
             "sjdowntown.com",
             "data.sanjoseca.gov"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Plausible – specific 2025 closure list to confirm",
           "relevance_to_store": "Medium",
           "traffic_impact": "Medium",
           "sales_impact": "Nominal",
@@ -396,13 +396,13 @@
           "date": "2025-12-23",
           "time_of_day": "afternoon",
           "location": "California Theatre, 345 South First St, San Jose, CA 95113",
-          "distance_from_store": "6.8 miles",
+          "distance_from_store": "≈6.8 miles",
           "estimated_attendance": "1,500+",
           "verification_sources": [
             "ticketmaster.com",
             "sanjose.org"
           ],
-          "verification_status": "Confirmed",
+          "verification_status": "Plausible – 2025 performance to confirm",
           "relevance_to_store": "Low",
           "traffic_impact": "Low",
           "sales_impact": "Low",
@@ -424,16 +424,16 @@
     "high_impact_periods": [
       {
         "date_range": "2025-12-22 to 2026-01-02",
-        "reason": "School winter break increases family traffic and breakfast/lunch demand",
+        "reason": "School winter break likely increases family traffic and breakfast/lunch demand",
         "preparation_priority": "Staffing and kids menu inventory"
       },
       {
         "date_range": "2025-12-01 to 2025-12-31",
-        "reason": "Holiday events and promotions drive evening rushes",
+        "reason": "Holiday events and value-focused promotions drive evening rushes",
         "preparation_priority": "Drive-thru efficiency and value meal stock"
       }
     ],
-    "staffing_strategy": "Increase by 20% during breaks and event evenings; cross-train for drive-thru peaks",
+    "staffing_strategy": "Increase by about 20% during school breaks and major event evenings; cross-train for drive-thru peaks",
     "inventory_priorities": [
       "fries",
       "beef patties",
@@ -447,7 +447,7 @@
     ],
     "operational_risks": [
       "Post-event traffic jams delaying service",
-      "Supply chain for holiday items"
+      "Supply chain constraints for holiday items"
     ],
     "competitive_considerations": "Nearby KFC and Taco Bell may compete for family traffic; emphasize McDonald's speed and value"
   }
