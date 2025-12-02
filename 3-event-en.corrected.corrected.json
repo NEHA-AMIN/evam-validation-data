@@ -1,0 +1,491 @@
+{
+  "store_location": {
+    "brand": "McDonald's",
+    "address": "1142 N Capitol Ave, San Jose, CA 95132, United States",
+    "coordinates": "37.38729,-121.86056",
+    "store_characteristics": {
+      "has_drive_thru": true,
+      "has_playplace": false,
+      "has_delivery": true,
+      "seating_capacity": "50-75",
+      "operating_hours": "Mon-Thu: 4:00 AM-11:00 PM, Fri-Sat: 4:00 AM-12:00 AM, Sun: 4:00 AM-11:00 PM"
+    }
+  },
+  "assessment_date": "2025-12-02",
+  "assessment_period": "2025-11-29 to 2026-02-28",
+  "events_assessment": [
+    {
+      "category": "Local Community Events",
+      "events": [
+        {
+          "name": "SJMADE Holiday Fair",
+          "date": "2025-11-28 to 2025-11-29",
+          "time_of_day": "all-day",
+          "location": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA",
+          "distance_from_store": "7.5 miles",
+          "estimated_attendance": "10,000+",
+          "verification_sources": [
+            "Visit San Jose",
+            "San Jos\u00e9 Made"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 2-3 crew for lunch and dinner shifts on Nov 28-29",
+            "inventory": "Stock up on value meals and family bundles",
+            "promotions": "Tie-in with holiday shopping deals like buy-one-get-one on small fries",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep inventory 1 day before"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Seasonal QSR Promotions & Limited-Time Offers",
+      "events": [
+        {
+          "name": "McRib Return",
+          "date": "2025-11-11 to 2025-12-31",
+          "time_of_day": "all-day",
+          "location": "This McDonald's location",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "McDonald's Corporate",
+            "Newsweek"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Increase grill crew by 20% during peak hours",
+            "inventory": "Order extra pork patties and BBQ sauce weekly",
+            "promotions": "App-exclusive McRib meal deals",
+            "service_mode": "drive-thru focus",
+            "timing": "Daily prep starting morning shift"
+          }
+        },
+        {
+          "name": "Holiday Pie Return",
+          "date": "2025-11-15 to 2025-12-31",
+          "time_of_day": "all-day",
+          "location": "This McDonald's location",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "McDonald's Corporate",
+            "USA Today"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "dinner",
+            "late-night"
+          ],
+          "operational_preparation": {
+            "staffing": "Add dessert station support during evenings",
+            "inventory": "Stock custard and pie shells bi-weekly",
+            "promotions": "Bundle with McRib for holiday meal",
+            "service_mode": "delivery prep",
+            "timing": "Prep batches morning of"
+          }
+        }
+      ]
+    },
+    {
+      "category": "National & Regional Fast-Food Awareness Days",
+      "events": [
+        {
+          "name": "National Fast Food Day",
+          "date": "2025-11-16",
+          "time_of_day": "all-day",
+          "location": "National (impacts this location)",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "National Today",
+            "Days of the Year"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Extra 2 crew for all dayparts",
+            "inventory": "Focus on burgers and fries",
+            "promotions": "Free fries with any purchase via app",
+            "service_mode": "drive-thru focus",
+            "timing": "Full prep morning of"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Local Festivals & Cultural Celebrations",
+      "events": [
+        {
+          "name": "Give Thanks Festival",
+          "date": "2025-11-28 to 2025-11-29",
+          "time_of_day": "all-day",
+          "location": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA",
+          "distance_from_store": "8.1 miles",
+          "estimated_attendance": "5,000+",
+          "verification_sources": [
+            "San Jose Downtown",
+            "Visit San Jose"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 3 crew for weekend shifts",
+            "inventory": "Holiday-themed desserts and beverages",
+            "promotions": "Festival goer discounts via geo-fencing",
+            "service_mode": "drive-thru focus",
+            "timing": "Stock up 2 days before"
+          }
+        }
+      ]
+    },
+    {
+      "category": "School Calendars & Events",
+      "events": [
+        {
+          "name": "Winter Break",
+          "date": "2025-12-22 to 2026-01-05",
+          "time_of_day": "all-day",
+          "location": "Berryessa Union School District schools",
+          "distance_from_store": "0-2 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "Berryessa Union School District Calendar",
+            "Scribd Board Approved Calendar"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "breakfast",
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Reduce morning crew by 10%, increase family hours",
+            "inventory": "Kids meals and breakfast items",
+            "promotions": "Family value bundles",
+            "service_mode": "dine-in focus",
+            "timing": "Adjust schedule 1 week prior"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Sports Events",
+      "events": [
+        {
+          "name": "San Jose Sharks Home Games",
+          "date": "Multiple dates Nov 2025-Feb 2026 (e.g., vs Vegas 2025-10-09, ongoing season)",
+          "time_of_day": "evening",
+          "location": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+          "distance_from_store": "7.7 miles",
+          "estimated_attendance": "15,000-17,000 per game",
+          "verification_sources": [
+            "NHL.com Sharks Schedule",
+            "ESPN"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "dinner",
+            "late-night"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 4-5 crew for post-game rush (9pm-12am)",
+            "inventory": "Beef patties, fries, beverages",
+            "promotions": "Sharks-themed combo meals",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep 2 hours before game end"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Retail Shopping Events",
+      "events": [
+        {
+          "name": "Black Friday",
+          "date": "2025-11-28",
+          "time_of_day": "all-day",
+          "location": "Eastridge Mall and local retailers, 2201 Eastridge Loop, San Jose, CA",
+          "distance_from_store": "5.9 miles",
+          "estimated_attendance": "20,000+",
+          "verification_sources": [
+            "USA Today",
+            "National Retail Federation"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "breakfast",
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Full double shifts all day",
+            "inventory": "Value meals, coffee",
+            "promotions": "Black Friday app deals",
+            "service_mode": "drive-thru focus",
+            "timing": "Overnight prep"
+          }
+        },
+        {
+          "name": "Cyber Monday",
+          "date": "2025-12-01",
+          "time_of_day": "all-day",
+          "location": "Online and local (impacts delivery)",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "CNN Underscored",
+            "USA Today"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Boost delivery packers",
+            "inventory": "Desserts and snacks for orders",
+            "promotions": "Delivery discounts",
+            "service_mode": "delivery prep",
+            "timing": "Morning inventory check"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Weather-Related Events & Seasonal Changes",
+      "events": [
+        {
+          "name": "Mild Winter Season",
+          "date": "2025-12-01 to 2026-02-28",
+          "time_of_day": "all-day",
+          "location": "San Jose area",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "Old Farmer's Almanac",
+            "NOAA Climate Prediction"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Low",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "all"
+          ],
+          "operational_preparation": {
+            "staffing": "Standard winter scheduling",
+            "inventory": "Increase hot beverages",
+            "promotions": "Warm meal specials",
+            "service_mode": "drive-thru focus",
+            "timing": "Monthly review"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Business & Employment Events",
+      "events": [
+        {
+          "name": "Fall Career Fair",
+          "date": "2025-11-12",
+          "time_of_day": "morning/afternoon",
+          "location": "San Jos\u00e9 City College, 2100 Moorpark Ave, San Jose, CA",
+          "distance_from_store": "9.1 miles",
+          "estimated_attendance": "1,000+",
+          "verification_sources": [
+            "AllEvents.in",
+            "work2future"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Low",
+          "traffic_impact": "Low",
+          "sales_impact": "Low",
+          "daypart_affected": [
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Standard",
+            "inventory": "Quick lunch items",
+            "promotions": "N/A",
+            "service_mode": "drive-thru focus",
+            "timing": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Parks & Recreation Events",
+      "events": []
+    },
+    {
+      "category": "Traffic & Construction Impacts",
+      "events": [
+        {
+          "name": "EBRC Construction Closures",
+          "date": "Ongoing Nov 2025-Feb 2026",
+          "time_of_day": "overnight",
+          "location": "Capitol Expressway and Story Road",
+          "distance_from_store": "4.0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "VTA EBRC Updates",
+            "San Jose Open Data"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Low",
+          "daypart_affected": [
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Monitor and adjust for delays",
+            "inventory": "N/A",
+            "promotions": "N/A",
+            "service_mode": "drive-thru focus",
+            "timing": "Daily traffic check"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Nearby Venue Events",
+      "events": [
+        {
+          "name": "FandomCon Silicon Valley",
+          "date": "2025-11-07 to 2025-11-09",
+          "time_of_day": "all-day",
+          "location": "San Jose Convention Center, 150 W San Carlos St, San Jose, CA",
+          "distance_from_store": "8.1 miles",
+          "estimated_attendance": "20,000+",
+          "verification_sources": [
+            "Visit San Jose",
+            "Ticketmaster"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 2 crew for weekend",
+            "inventory": "Snacks and beverages",
+            "promotions": "Geek-themed meals",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep morning of"
+          }
+        },
+        {
+          "name": "Disney On Ice",
+          "date": "2026-02-19 to 2026-02-22",
+          "time_of_day": "afternoon/evening",
+          "location": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+          "distance_from_store": "7.7 miles",
+          "estimated_attendance": "10,000+ per show",
+          "verification_sources": [
+            "Ticketmaster",
+            "SAP Center"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Family rush: +3 crew",
+            "inventory": "Kids meals, ice cream",
+            "promotions": "Disney family packs",
+            "service_mode": "dine-in focus",
+            "timing": "1 day before series start"
+          }
+        }
+      ]
+    }
+  ],
+  "overall_recommendations": {
+    "high_impact_periods": [
+      {
+        "date_range": "2025-11-28 to 2025-11-29",
+        "reason": "Holiday shopping peaks with Black Friday and local fairs driving traffic",
+        "preparation_priority": "Drive-thru optimization and value meal stocking"
+      },
+      {
+        "date_range": "2025-12-22 to 2026-01-05",
+        "reason": "School winter break increases family visits",
+        "preparation_priority": "Kids menu inventory and family promotions"
+      },
+      {
+        "date_range": "2026-02-19 to 2026-02-22",
+        "reason": "Disney On Ice family events boost evening rushes",
+        "preparation_priority": "Dine-in and kids meal prep"
+      }
+    ],
+    "staffing_strategy": "Schedule 10-20% increases for weekends and evenings during high-impact periods; cross-train for drive-thru and delivery",
+    "inventory_priorities": [
+      "Pork patties",
+      "BBQ sauce",
+      "Kids meal toys",
+      "Hot beverages",
+      "Family bundles"
+    ],
+    "marketing_opportunities": [
+      "Geo-targeted ads for Sharks games and holiday fairs",
+      "App deals for McRib and Holiday Pie",
+      "Family packs for school breaks"
+    ],
+    "operational_risks": [
+      "Construction detours increasing drive times",
+      "Post-event traffic jams",
+      "Supply chain delays for LTOs"
+    ],
+    "competitive_considerations": "Monitor nearby KFC and Taco Bell for similar promotions; emphasize McDonald's drive-thru speed advantage in ads"
+  }
+}

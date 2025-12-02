@@ -1,0 +1,457 @@
+{
+  "store_location": {
+    "brand": "McDonald's",
+    "address": "3221 S White Rd, San Jose, CA 95148, United States",
+    "coordinates": "37.3159663,-121.7937516",
+    "store_characteristics": {
+      "has_drive_thru": true,
+      "has_playplace": true,
+      "has_delivery": true,
+      "seating_capacity": "50-60",
+      "operating_hours": "6am-11pm"
+    }
+  },
+  "assessment_date": "2025-11-29",
+  "assessment_period": "2025-11-29 to 2026-02-28",
+  "events_assessment": [
+    {
+      "category": "Local Community Events",
+      "events": [
+        {
+          "name": "Santa at the Square Holiday Celebration",
+          "date": "2025-12-12",
+          "time_of_day": "evening",
+          "location": "Evergreen Village Square, San Jose, CA",
+          "distance_from_store": "1.5 miles",
+          "estimated_attendance": "200-500",
+          "verification_sources": [
+            "City of San Jos\u00e9 District 8 Upcoming Events",
+            "Visit San Jose Holiday Guide"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 2 crew members for dinner rush",
+            "inventory": "Stock extra family meals and hot chocolate",
+            "promotions": "Holiday family bundle discount",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep morning of"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Seasonal QSR Promotions & Limited-Time Offers",
+      "events": [
+        {
+          "name": "McDonald's $5 Meal Deal Extension",
+          "date": "2025-12-01 to 2026-02-28",
+          "time_of_day": "all-day",
+          "location": "This McDonald's location",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "McDonald's Corporate News",
+            "RetailMeNot McDonald's Deals"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Maintain full shifts during promotions",
+            "inventory": "Increase beef patties and fries stock by 20%",
+            "promotions": "App-exclusive upsell to medium fries",
+            "service_mode": "drive-thru and delivery prep",
+            "timing": "Weekly inventory check starting 1 week prior"
+          }
+        },
+        {
+          "name": "McRib Return Season",
+          "date": "2025-11-29 to 2026-01-15",
+          "time_of_day": "all-day",
+          "location": "This McDonald's location",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "McDonald's Corporate Promotions",
+            "Investopedia McValue Launch"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Extra 1-2 staff for sandwich assembly",
+            "inventory": "Bulk pork patties and BBQ sauce",
+            "promotions": "Buy one McRib, add fries for $1",
+            "service_mode": "drive-thru focus",
+            "timing": "Order stock 3 days before launch"
+          }
+        }
+      ]
+    },
+    {
+      "category": "National & Regional Fast-Food Awareness Days",
+      "events": [
+        {
+          "name": "National Cookie Day",
+          "date": "2025-12-04",
+          "time_of_day": "all-day",
+          "location": "This McDonald's location",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "National Day Calendar Food Days",
+            "Baldwin Publishing Food Days 2025"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Low",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Standard",
+            "inventory": "Extra cookie dough packs",
+            "promotions": "Free cookie with any McCaf\u00e9 purchase",
+            "service_mode": "dine-in focus",
+            "timing": "Prep morning of"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Local Festivals & Cultural Celebrations",
+      "events": [
+        {
+          "name": "SJMADE Winter Wonder Market",
+          "date": "2025-12-13 to 2025-12-14",
+          "time_of_day": "afternoon/evening",
+          "location": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA",
+          "distance_from_store": "8.6 miles",
+          "estimated_attendance": "5000+",
+          "verification_sources": [
+            "San Jos\u00e9 Made Events Page",
+            "Visit San Jose Events"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 3 crew for post-event rush",
+            "inventory": "Value meals and beverages",
+            "promotions": "Post-market app deal for $1 off",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep 1 day before"
+          }
+        }
+      ]
+    },
+    {
+      "category": "School Calendars & Events",
+      "events": [
+        {
+          "name": "Winter Break Start - No School",
+          "date": "2025-12-22 to 2026-01-05",
+          "time_of_day": "all-day",
+          "location": "Franklin-McKinley School District schools",
+          "distance_from_store": "1-2 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "Franklin-McKinley School District Calendar 2025-2026",
+            "Evergreen Valley College Academic Calendar"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "breakfast",
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Increase morning shifts by 20%",
+            "inventory": "Kids meals and breakfast items",
+            "promotions": "Family pack deals",
+            "service_mode": "dine-in and playplace focus",
+            "timing": "Stock up 1 week prior"
+          }
+        },
+        {
+          "name": "Evergreen Valley College Winter Session Start",
+          "date": "2026-01-05",
+          "time_of_day": "all-day",
+          "location": "Evergreen Valley College, 3095 Yerba Buena Rd, San Jose, CA 95135",
+          "distance_from_store": "2.1 miles",
+          "estimated_attendance": "2000+ students",
+          "verification_sources": [
+            "Evergreen Valley College Academic Calendar",
+            "SJECCD Instructional Calendar 2025-2026"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "breakfast",
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 2 for lunch rush",
+            "inventory": "Coffee and breakfast sandwiches",
+            "promotions": "Student discount via app",
+            "service_mode": "drive-thru focus",
+            "timing": "Morning of"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Sports Events",
+      "events": [
+        {
+          "name": "San Jose Earthquakes vs Sporting Kansas City",
+          "date": "2026-02-21",
+          "time_of_day": "evening",
+          "location": "PayPal Park, 1123 Coleman Ave, San Jose, CA 95110",
+          "distance_from_store": "11.1 miles",
+          "estimated_attendance": "10000+",
+          "verification_sources": [
+            "San Jose Earthquakes Official Schedule",
+            "Ticketmaster PayPal Park Events"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "dinner",
+            "late-night"
+          ],
+          "operational_preparation": {
+            "staffing": "Extra 2 for post-game",
+            "inventory": "Beef burgers and fries",
+            "promotions": "Game day combo meal",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep afternoon"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Retail Shopping Events",
+      "events": [
+        {
+          "name": "Black Friday Shopping Rush",
+          "date": "2025-11-29",
+          "time_of_day": "all-day",
+          "location": "Oakridge Mall, 925 Blossom Hill Rd, San Jose, CA 95123",
+          "distance_from_store": "7.0 miles",
+          "estimated_attendance": "10000+",
+          "verification_sources": [
+            "Visit San Jose Holiday Events",
+            "SJtoday Big Events 2025"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Full double shifts",
+            "inventory": "Value menu items",
+            "promotions": "$5 meal tie-in",
+            "service_mode": "drive-thru and delivery prep",
+            "timing": "Stock up 2 days prior"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Weather-Related Events & Seasonal Changes",
+      "events": [
+        {
+          "name": "Mild Winter Weather Pattern",
+          "date": "2025-12-01 to 2026-02-28",
+          "time_of_day": "all-day",
+          "location": "San Jose area",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "Old Farmer's Almanac Long Range Forecast",
+            "Weather.com Monthly Forecast"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Low",
+          "daypart_affected": [
+            "all-day"
+          ],
+          "operational_preparation": {
+            "staffing": "Standard, monitor for rain days",
+            "inventory": "Increase iced beverages",
+            "promotions": "Outdoor seating weather deals",
+            "service_mode": "drive-thru focus",
+            "timing": "Ongoing"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Business & Employment Events",
+      "events": []
+    },
+    {
+      "category": "Parks & Recreation Events",
+      "events": [
+        {
+          "name": "Alum Rock Park Trail Improvements",
+          "date": "2025-12-01 to 2026-02-28",
+          "time_of_day": "all-day",
+          "location": "Alum Rock Park, 15350 Penitencia Creek Rd, San Jose, CA 95127",
+          "distance_from_store": "7.1 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "City of San Jose Parks PRNS Updates",
+            "Alum Rock Park Official Page"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Low",
+          "traffic_impact": "Low",
+          "sales_impact": "Nominal",
+          "daypart_affected": [
+            "morning"
+          ],
+          "operational_preparation": {
+            "staffing": "Standard",
+            "inventory": "N/A",
+            "promotions": "N/A",
+            "service_mode": "N/A",
+            "timing": "N/A"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Traffic & Construction Impacts",
+      "events": [
+        {
+          "name": "Ongoing Road Maintenance on Nearby Routes",
+          "date": "2025-12-01 to 2026-02-28",
+          "time_of_day": "all-day",
+          "location": "S White Rd and surrounding areas",
+          "distance_from_store": "0-1 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "San Jose Open Data Road Closures",
+            "511.org Construction Alerts"
+          ],
+          "verification_status": "Tentative",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Low",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Flexible shifts for delays",
+            "inventory": "N/A",
+            "promotions": "N/A",
+            "service_mode": "delivery prep",
+            "timing": "Monitor weekly"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Nearby Venue Events",
+      "events": [
+        {
+          "name": "MAN\u00c1 Concert Tour",
+          "date": "2025-12-05 to 2025-12-06",
+          "time_of_day": "evening",
+          "location": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+          "distance_from_store": "8.2 miles",
+          "estimated_attendance": "15000+",
+          "verification_sources": [
+            "Ticketmaster San Jose Concerts",
+            "Visit San Jose Events Calendar"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "High",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "late-night"
+          ],
+          "operational_preparation": {
+            "staffing": "Extend shifts to midnight",
+            "inventory": "Late-night snacks and coffee",
+            "promotions": "Post-concert drive-thru special",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep afternoon"
+          }
+        }
+      ]
+    }
+  ],
+  "overall_recommendations": {
+    "high_impact_periods": [
+      {
+        "date_range": "2025-11-29 to 2025-12-01",
+        "reason": "Black Friday shopping rush and McRib launch driving high traffic",
+        "preparation_priority": "Inventory and staffing for value meals"
+      },
+      {
+        "date_range": "2025-12-22 to 2026-01-05",
+        "reason": "School winter break increasing family visits",
+        "preparation_priority": "Kids meals and playplace readiness"
+      }
+    ],
+    "staffing_strategy": "Increase by 20% during holidays and breaks, focus on flexible shifts for evening rushes",
+    "inventory_priorities": [
+      "Beef patties",
+      "fries",
+      "kids meal toys",
+      "pork for McRib",
+      "cookies"
+    ],
+    "marketing_opportunities": [
+      "Tie-in app deals with local holiday events",
+      "Family bundles for school breaks",
+      "Post-game specials for sports"
+    ],
+    "operational_risks": [
+      "Traffic delays from construction",
+      "Supply chain for seasonal items",
+      "Weather variability affecting drive-thru"
+    ],
+    "competitive_considerations": "Nearby Taco Bell and Burger King may compete on value meals; emphasize McDonald's playplace for families"
+  }
+}

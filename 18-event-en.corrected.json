@@ -1,0 +1,506 @@
+{
+  "store_location": {
+    "brand": "McDonald's",
+    "address": "5508 Monterey Rd, San Jose, CA 95138, United States",
+    "coordinates": "37.2546115,-121.7998137",
+    "store_characteristics": {
+      "has_drive_thru": true,
+      "has_playplace": true,
+      "has_delivery": true,
+      "seating_capacity": "80",
+      "operating_hours": "5am-11pm"
+    }
+  },
+  "assessment_date": "2025-11-29",
+  "assessment_period": "2025-11-29 to 2026-02-28",
+  "events_assessment": [
+    {
+      "category": "Local Community Events",
+      "events": [
+        {
+          "name": "Santa at the Square Holiday Celebration",
+          "date": "2025-12-12",
+          "time_of_day": "evening",
+          "location": "Evergreen Village Square, San Jose, CA",
+          "distance_from_store": "7.2 miles",
+          "estimated_attendance": "500-1000",
+          "verification_sources": [
+            "City of San Jos\u00e9 District 8 Upcoming Events",
+            "Visit San Jose Holiday Guide"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 2 extra crew for dinner rush",
+            "inventory": "Stock up on kids meals and hot cocoa if available",
+            "promotions": "Tie-in with holiday Happy Meals",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep morning of event"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Seasonal QSR Promotions & Limited-Time Offers",
+      "events": [
+        {
+          "name": "$5 McGriddle Meal Promotion",
+          "date": "2025-11-01 to 2025-11-30",
+          "time_of_day": "all-day",
+          "location": "Nationwide including this store",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "McDonald's Corporate Promotions",
+            "Delish McDonald's Value Deals"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "breakfast",
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Increase breakfast shift by 1-2 crew",
+            "inventory": "Extra sausage, eggs, and buns",
+            "promotions": "App notifications for bundles",
+            "service_mode": "drive-thru focus",
+            "timing": "Daily prep starting 1 week prior"
+          }
+        },
+        {
+          "name": "McRib Return Season",
+          "date": "2025-11-15 to 2025-12-31",
+          "time_of_day": "all-day",
+          "location": "Nationwide including this store",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "McDonald's Seasonal Promotions",
+            "Simply Wall St McDonald's News"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 2 crew for lunch/dinner peaks",
+            "inventory": "Bulk pork patties and BBQ sauce",
+            "promotions": "McRib bundle deals",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep 3 days before launch"
+          }
+        },
+        {
+          "name": "Grinch Holiday Meal Promotion",
+          "date": "2025-11-26 to 2025-12-31",
+          "time_of_day": "all-day",
+          "location": "Nationwide including this store",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "McDonald's Holiday Promotions",
+            "Simply Wall St McDonald's News"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Extra 2-3 crew during holiday weekends",
+            "inventory": "Green-themed packaging, extra fries and drinks",
+            "promotions": "Family bundle tie-ins",
+            "service_mode": "dine-in focus",
+            "timing": "Stock inventory 1 week prior"
+          }
+        }
+      ]
+    },
+    {
+      "category": "National & Regional Fast-Food Awareness Days",
+      "events": [
+        {
+          "name": "National Fast Food Day",
+          "date": "2025-11-16",
+          "time_of_day": "all-day",
+          "location": "Nationwide",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "National Day Calendar",
+            "Days of the Year"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 1 extra crew for lunch",
+            "inventory": "Value menu items and combos",
+            "promotions": "Special app deals for fast food bundles",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep day before"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Local Festivals & Cultural Celebrations",
+      "events": [
+        {
+          "name": "SJMADE Holiday Fair",
+          "date": "2025-11-28 to 2025-11-29",
+          "time_of_day": "afternoon/evening",
+          "location": "Santa Clara Convention Center, Santa Clara, CA",
+          "distance_from_store": "16.8 miles",
+          "estimated_attendance": "10,000+",
+          "verification_sources": [
+            "San Jos\u00e9 Made Official Site",
+            "Visit San Jose Events"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 2 crew for weekend rush",
+            "inventory": "Portable snacks and beverages",
+            "promotions": "Post-event delivery spikes",
+            "service_mode": "delivery prep",
+            "timing": "Prep morning of"
+          }
+        },
+        {
+          "name": "Lunar New Year Celebrations",
+          "date": "2026-01-29 to 2026-02-02",
+          "time_of_day": "all-day",
+          "location": "Various South San Jose locations",
+          "distance_from_store": "1-3 miles",
+          "estimated_attendance": "2000-5000",
+          "verification_sources": [
+            "Visit San Jose Lunar New Year Guide",
+            "City of San Jos\u00e9 Events"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Extra 2 crew for family crowds",
+            "inventory": "Kids meals and family boxes",
+            "promotions": "Cultural bundle deals",
+            "service_mode": "dine-in focus",
+            "timing": "Prep 2 days prior"
+          }
+        }
+      ]
+    },
+    {
+      "category": "School Calendars & Events",
+      "events": [
+        {
+          "name": "Thanksgiving Break",
+          "date": "2025-11-27 to 2025-11-28",
+          "time_of_day": "all-day",
+          "location": "Evergreen Valley College and local schools",
+          "distance_from_store": "6.2 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "Evergreen Valley College Academic Calendar",
+            "East Side Union High School District Calendar"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Low",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Maintain regular staffing",
+            "inventory": "Turkey-themed value meals if available",
+            "promotions": "Family dinner bundles",
+            "service_mode": "drive-thru focus",
+            "timing": "Standard prep"
+          }
+        },
+        {
+          "name": "Winter Intersession Start",
+          "date": "2026-01-05",
+          "time_of_day": "morning",
+          "location": "Evergreen Valley College, 3095 Yerba Buena Rd, San Jose, CA",
+          "distance_from_store": "6.2 miles",
+          "estimated_attendance": "1000+ students",
+          "verification_sources": [
+            "Evergreen Valley College Academic Calendar",
+            "SJECCD Instructional Calendar"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Low",
+          "sales_impact": "Low",
+          "daypart_affected": [
+            "breakfast",
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 1 crew for morning rush",
+            "inventory": "Breakfast sandwiches",
+            "promotions": "Student discounts via app",
+            "service_mode": "drive-thru focus",
+            "timing": "Morning of"
+          }
+        },
+        {
+          "name": "Spring Semester Start",
+          "date": "2026-01-26",
+          "time_of_day": "morning",
+          "location": "Evergreen Valley College and local high schools",
+          "distance_from_store": "6.2 miles",
+          "estimated_attendance": "2000+ students",
+          "verification_sources": [
+            "Evergreen Valley College Academic Calendar",
+            "East Side Union High School District Calendar"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "breakfast",
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Increase morning shift by 2 crew",
+            "inventory": "Coffee, muffins, and lunch combos",
+            "promotions": "Back-to-school value meals",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep night before"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Sports Events",
+      "events": [
+        {
+          "name": "SJSU Women's Basketball Home Games",
+          "date": "2026-01-03",
+          "time_of_day": "evening",
+          "location": "Event Center at SJSU, San Jose, CA",
+          "distance_from_store": "9.7 miles",
+          "estimated_attendance": "2000-3000",
+          "verification_sources": [
+            "SJSU Athletics Schedule",
+            "Visit San Jose Sports"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "dinner",
+            "late-night"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 1-2 crew post-game",
+            "inventory": "Snacks and beverages",
+            "promotions": "Game-day combos",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep afternoon"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Retail Shopping Events",
+      "events": [
+        {
+          "name": "Black Friday Shopping Rush",
+          "date": "2025-11-28",
+          "time_of_day": "all-day",
+          "location": "Local Shopping Centers, San Jose, CA",
+          "distance_from_store": "10.3 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "Visit San Jose Holiday Guide",
+            "San Jos\u00e9 Made Events"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Full extra shift of 4 crew",
+            "inventory": "Value meals and drinks",
+            "promotions": "Shopping break bundles",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep night before"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Weather-Related Events & Seasonal Changes",
+      "events": [
+        {
+          "name": "Warmer and Drier Winter Pattern",
+          "date": "2025-12-01 to 2026-02-28",
+          "time_of_day": "all-day",
+          "location": "San Jose area",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "Old Farmer's Almanac Long Range Forecast",
+            "AccuWeather Monthly Outlook"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Low",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "all-day"
+          ],
+          "operational_preparation": {
+            "staffing": "Standard, monitor for outdoor dining increase",
+            "inventory": "More iced beverages, less hot soups",
+            "promotions": "Outdoor meal deals",
+            "service_mode": "dine-in focus",
+            "timing": "Ongoing adjustment"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Traffic & Construction Impacts",
+      "events": [
+        {
+          "name": "Monterey Road Transit Project Design Phase",
+          "date": "2025-12-01 to 2026-02-28",
+          "time_of_day": "all-day",
+          "location": "Monterey Rd corridor, San Jose, CA",
+          "distance_from_store": "1.8 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "City of San Jos\u00e9 Transportation Projects",
+            "Santa Clara County Roads Closures"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Low",
+          "sales_impact": "Nominal",
+          "daypart_affected": [
+            "all-day"
+          ],
+          "operational_preparation": {
+            "staffing": "Standard",
+            "inventory": "N/A",
+            "promotions": "N/A",
+            "service_mode": "drive-thru focus",
+            "timing": "Monitor weekly updates"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Nearby Venue Events",
+      "events": [
+        {
+          "name": "Christmas in the Park Light Display",
+          "date": "2025-11-29 to 2026-01-01",
+          "time_of_day": "evening",
+          "location": "Plaza de C\u00e9sar Ch\u00e1vez, San Jose, CA",
+          "distance_from_store": "11.3 miles",
+          "estimated_attendance": "100,000+",
+          "verification_sources": [
+            "Visit San Jose Holiday Events",
+            "City of San Jos\u00e9 Parks"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "dinner",
+            "late-night"
+          ],
+          "operational_preparation": {
+            "staffing": "Extra 2 crew on weekends",
+            "inventory": "Desserts and hot drinks",
+            "promotions": "Holiday light tour bundles",
+            "service_mode": "drive-thru focus",
+            "timing": "Daily during peak"
+          }
+        }
+      ]
+    }
+  ],
+  "overall_recommendations": {
+    "high_impact_periods": [
+      {
+        "date_range": "2025-11-28 to 2025-11-30",
+        "reason": "Black Friday, SJMADE Fair, and McRib launch overlap driving shopping and promo traffic",
+        "preparation_priority": "Staffing boosts and inventory for value meals"
+      },
+      {
+        "date_range": "2025-12-12 to 2025-12-31",
+        "reason": "Holiday events, Grinch promo, and family gatherings peak",
+        "preparation_priority": "Kids meals and family bundles"
+      },
+      {
+        "date_range": "2026-01-26 to 2026-02-02",
+        "reason": "School start and Lunar New Year increasing student and family traffic",
+        "preparation_priority": "Breakfast/lunch rushes and cultural promotions"
+      }
+    ],
+    "staffing_strategy": "Schedule 20% extra crew on event days, focus on flexible shifts for dinner rushes; cross-train for drive-thru efficiency",
+    "inventory_priorities": [
+      "Value meal components",
+      "Kids meals",
+      "Pork for McRib",
+      "Beverages and desserts for holidays"
+    ],
+    "marketing_opportunities": [
+      "App-exclusive holiday bundles",
+      "Tie-ins with local events like Santa visits",
+      "Social media posts for National Fast Food Day"
+    ],
+    "operational_risks": [
+      "Holiday traffic delays access",
+      "Supply chain for seasonal items",
+      "Weather variability affecting outdoor orders"
+    ],
+    "competitive_considerations": "Nearby KFC and Taco Bell may compete on chicken/fried items during McRib season; emphasize McDonald's value combos to differentiate"
+  }
+}

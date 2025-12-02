@@ -1,0 +1,388 @@
+{
+  "store_location": {
+    "brand": "McDonald's",
+    "address": "1398 W San Carlos, San Jose, CA 95126, United States",
+    "coordinates": "37.3230266,-121.9133506",
+    "store_characteristics": {
+      "has_drive_thru": true,
+      "has_playplace": false,
+      "has_delivery": true,
+      "seating_capacity": "50-75",
+      "operating_hours": "5am-11pm"
+    }
+  },
+  "assessment_date": "2025-11-29",
+  "assessment_period": "2025-11-29 to 2026-02-28",
+  "events_assessment": [
+    {
+      "category": "Local Community Events",
+      "events": [
+        {
+          "name": "Christmas in the Park",
+          "date": "2025-12-01 to 2026-01-01",
+          "time_of_day": "all-day",
+          "location": "Plaza de C\u00e9sar Ch\u00e1vez, San Jose, CA",
+          "distance_from_store": "1.6 miles",
+          "estimated_attendance": "500,000+",
+          "verification_sources": [
+            "sanjose.org/events",
+            "sjtoday.6amcity.com/big-events-festivals-san-jose-ca-2025"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 2-3 crew members for evening shifts during peak holiday weeks",
+            "inventory": "Increase stock of family meals, hot chocolate, and desserts by 25%",
+            "promotions": "Tie-in with holiday value bundles via app",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep inventory 2 days before peak weekends"
+          }
+        },
+        {
+          "name": "SJMADE Holiday Fair",
+          "date": "2025-11-28 to 2025-11-29",
+          "time_of_day": "all-day",
+          "location": "History Park, San Jose, CA",
+          "distance_from_store": "3.5 miles",
+          "estimated_attendance": "20,000+",
+          "verification_sources": [
+            "sanjosemade.com/pages/events",
+            "sjtoday.6amcity.com/big-events-festivals-san-jose-ca-2025"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Schedule one extra cashier for Black Friday rush",
+            "inventory": "Boost kids meals and beverages for family shoppers",
+            "promotions": "App-exclusive $1 off family combos",
+            "service_mode": "dine-in focus",
+            "timing": "Morning of event for quick prep"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Seasonal QSR Promotions & Limited-Time Offers",
+      "events": [
+        {
+          "name": "McValue Platform Launch with $5 Meal Deals",
+          "date": "2025-12-01 to 2026-02-28",
+          "time_of_day": "all-day",
+          "location": "All McDonald's locations",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "mcdonalds.com/us/en-us/deals.html",
+            "foodandwine.com/mcdonalds-mcvalue-platform-deals-2025-8769773"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "breakfast",
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Train staff on new app integrations weekly",
+            "inventory": "Stock up on McCrispy and fries components by 20%",
+            "promotions": "Push free fries Fridays via signage",
+            "service_mode": "delivery prep",
+            "timing": "Ongoing monitoring starting launch date"
+          }
+        }
+      ]
+    },
+    {
+      "category": "National & Regional Fast-Food Awareness Days",
+      "events": [
+        {
+          "name": "National Fast Food Day",
+          "date": "2025-11-16",
+          "time_of_day": "all-day",
+          "location": "Nationwide",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "nationaldaycalendar.com/national-day/national-fast-food-day-november-16",
+            "nationaltoday.com/national-fast-food-day"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Add one crew for midday peak",
+            "inventory": "Prepare extra burger patties and fries",
+            "promotions": "BOGO on select items via app",
+            "service_mode": "drive-thru focus",
+            "timing": "Day before for inventory check"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Local Festivals & Cultural Celebrations",
+      "events": [
+        {
+          "name": "Spirit of The Row Holiday Shows",
+          "date": "2025-12-02, 2025-12-09, 2025-12-16",
+          "time_of_day": "evening",
+          "location": "Santana Row, San Jose, CA",
+          "distance_from_store": "2.8 miles",
+          "estimated_attendance": "5,000 per night",
+          "verification_sources": [
+            "santanarow.com/events",
+            "sanjose.org/events"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Low",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Standard evening staffing with one floater",
+            "inventory": "Increase dessert and coffee stock",
+            "promotions": "Holiday bundle upsell",
+            "service_mode": "drive-thru focus",
+            "timing": "Morning of each event"
+          }
+        }
+      ]
+    },
+    {
+      "category": "School Calendars & Events",
+      "events": [
+        {
+          "name": "Winter Break",
+          "date": "2025-12-22 to 2026-01-05",
+          "time_of_day": "all-day",
+          "location": "San Jose Unified School District",
+          "distance_from_store": "N/A",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "sjusd.org/events",
+            "resources.finalsite.net/images/v1706046956/sjusdorg/dfbpg6fv2lllx6pju6jn/2025-2026-SJUSD-Student-Calendar.pdf"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "breakfast",
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Increase morning crew by 2 for family traffic",
+            "inventory": "Stock kids meals and breakfast items up 30%",
+            "promotions": "Family pack deals",
+            "service_mode": "dine-in focus",
+            "timing": "1 week prior to break start"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Sports Events",
+      "events": [
+        {
+          "name": "San Jose Sharks vs Utah Mammoth",
+          "date": "2025-12-01",
+          "time_of_day": "evening",
+          "location": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+          "distance_from_store": "1.5 miles",
+          "estimated_attendance": "15,000",
+          "verification_sources": [
+            "sapcenter.com/events",
+            "seatgeek.com/venues/sap-center-at-san-jose"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "dinner",
+            "late-night"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 3-4 crew for post-game rush until close",
+            "inventory": "Extra beef, fries, and beverages",
+            "promotions": "Game-day value meals",
+            "service_mode": "drive-thru focus",
+            "timing": "Afternoon prep for rush"
+          }
+        },
+        {
+          "name": "San Jose Sharks vs Calgary Flames",
+          "date": "2025-12-16",
+          "time_of_day": "evening",
+          "location": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+          "distance_from_store": "1.5 miles",
+          "estimated_attendance": "15,000",
+          "verification_sources": [
+            "sapcenter.com/events",
+            "sanjose.events"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "dinner",
+            "late-night"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 3-4 crew for post-game rush until close",
+            "inventory": "Extra beef, fries, and beverages",
+            "promotions": "Game-day value meals",
+            "service_mode": "drive-thru focus",
+            "timing": "Afternoon prep for rush"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Retail Shopping Events",
+      "events": [
+        {
+          "name": "Black Friday",
+          "date": "2025-11-28",
+          "time_of_day": "all-day",
+          "location": "Nationwide, local impact via nearby retail",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "sanjosemade.com/pages/events",
+            "sjtoday.6amcity.com/big-events-festivals-san-jose-ca-2025"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "breakfast",
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Full crew from open to close",
+            "inventory": "Value meals and coffee boost",
+            "promotions": "$5 app deals",
+            "service_mode": "drive-thru focus",
+            "timing": "Night before for full stock"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Weather-Related Events & Seasonal Changes",
+      "events": [
+        {
+          "name": "Mild Winter with Below-Normal Rainfall",
+          "date": "2025-12-01 to 2026-02-28",
+          "time_of_day": "all-day",
+          "location": "San Jose, CA",
+          "distance_from_store": "2.2 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "almanac.com/weather/longrange/ca/san%20jose",
+            "accuweather.com/en/us/san-jose/95110/december-weather/347630"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Nominal",
+          "sales_impact": "Low",
+          "daypart_affected": [
+            "all"
+          ],
+          "operational_preparation": {
+            "staffing": "Standard, monitor for any unexpected rain",
+            "inventory": "Maintain normal levels, less emphasis on hot drinks",
+            "promotions": "N/A",
+            "service_mode": "balanced",
+            "timing": "Ongoing"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Nearby Venue Events",
+      "events": [
+        {
+          "name": "Man\u00e1 Concert (VIVIR SIN AIRE Tour)",
+          "date": "2025-12-05 to 2025-12-06",
+          "time_of_day": "evening",
+          "location": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+          "distance_from_store": "1.5 miles",
+          "estimated_attendance": "18,000 per night",
+          "verification_sources": [
+            "sapcenter.com/events",
+            "livenation.com/venue/KovZpZAJelvA/sap-center-at-san-jose-events"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "dinner",
+            "late-night"
+          ],
+          "operational_preparation": {
+            "staffing": "Extra 2 crew for late shift",
+            "inventory": "Beverages and snacks for concert-goers",
+            "promotions": "Quick combo deals",
+            "service_mode": "drive-thru focus",
+            "timing": "Day of event"
+          }
+        }
+      ]
+    }
+  ],
+  "overall_recommendations": {
+    "high_impact_periods": [
+      {
+        "date_range": "2025-12-01 to 2026-01-05",
+        "reason": "Holiday season with Christmas in the Park, winter break, and Sharks games driving family and tourist traffic",
+        "preparation_priority": "Inventory for family meals and staffing for evenings"
+      },
+      {
+        "date_range": "2025-11-28 to 2025-11-29",
+        "reason": "Black Friday and SJMADE Fair boosting shopping-related visits",
+        "preparation_priority": "Drive-thru efficiency and value promotions"
+      }
+    ],
+    "staffing_strategy": "Increase by 20% during evenings and weekends near high-impact events; cross-train for drive-thru peaks",
+    "inventory_priorities": [
+      "Beef patties",
+      "fries",
+      "kids meal components",
+      "hot beverages"
+    ],
+    "marketing_opportunities": [
+      "App push for holiday bundles tied to Christmas in the Park",
+      "Game-day social media posts for Sharks events"
+    ],
+    "operational_risks": [
+      "Post-event traffic congestion blocking access; monitor weather for minor disruptions"
+    ],
+    "competitive_considerations": "Nearby Burger King and Taco Bell may compete for drive-thru during Sharks games; emphasize McValue deals to differentiate"
+  }
+}

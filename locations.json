@@ -1,0 +1,39 @@
+{
+    "locations": [
+        {
+            "name": "California Theatre",
+            "address": "345 S 1st St, San Jose, CA 95113",
+            "distance": 6.3
+        },
+        {
+            "name": "Plaza de Cesar Chavez",
+            "address": "1 Paseo de San Antonio, San Jose, CA 95113",
+            "distance": 7.5
+        },
+        {
+            "name": "Evergreen Valley High School",
+            "address": "3300 Quimby Rd, San Jose, CA 95148",
+            "distance": 3.6
+        },
+        {
+            "name": "SAP Center at San Jose",
+            "address": "525 W Santa Clara St, San Jose, CA 95113",
+            "distance": 7.2
+        },
+        {
+            "name": "Eastridge Mall",
+            "address": "2200 Eastridge Loop, San Jose, CA 95122",
+            "distance": 2.8
+        },
+        {
+            "name": "Alum Rock Park",
+            "address": "15350 Penitencia Creek Rd, San Jose, CA 95127",
+            "distance": 8.9
+        },
+        {
+            "name": "San Jose Center for the Performing Arts",
+            "address": "255 S Almaden Blvd, San Jose, CA 95113",
+            "distance": 6.7
+        }
+    ]
+}

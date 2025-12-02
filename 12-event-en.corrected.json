@@ -1,0 +1,538 @@
+{
+  "store_location": {
+    "brand": "McDonald's",
+    "address": "2434 Almaden Rd, San Jose, CA 95125, United States",
+    "coordinates": "37.290046,-121.8808613",
+    "store_characteristics": {
+      "has_drive_thru": true,
+      "has_playplace": false,
+      "has_delivery": true,
+      "seating_capacity": "60",
+      "operating_hours": "6am-11pm"
+    }
+  },
+  "assessment_date": "2025-11-29",
+  "assessment_period": "2025-11-29 to 2026-02-28",
+  "events_assessment": [
+    {
+      "category": "Local Community Events",
+      "events": [
+        {
+          "name": "Almaden Valley Farmers Market",
+          "date": "2025-11-30 to 2026-02-22",
+          "time_of_day": "all-day",
+          "location": "Via Valiente Plaza, 6902 Almaden Expressway, San Jose, CA",
+          "distance_from_store": "7.4 miles",
+          "estimated_attendance": "500-1000",
+          "verification_sources": [
+            "CHAMP Farmer Markets official site",
+            "San Jose Events calendar"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "afternoon"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 1-2 crew for lunch rush",
+            "inventory": "Increase salads, fresh fruit sides, beverages",
+            "promotions": "Family meal bundles for market shoppers",
+            "service_mode": "drive-thru focus",
+            "timing": "Morning of"
+          }
+        },
+        {
+          "name": "Veterans Day Parade",
+          "date": "2025-11-11",
+          "time_of_day": "afternoon",
+          "location": "Downtown San Jose, Market St",
+          "distance_from_store": "3.5 miles",
+          "estimated_attendance": "5000",
+          "verification_sources": [
+            "San Jose Downtown Association",
+            "Visit San Jose"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Low",
+          "traffic_impact": "Low",
+          "sales_impact": "Low",
+          "daypart_affected": [
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Standard",
+            "inventory": "Value meals",
+            "promotions": "None",
+            "service_mode": "drive-thru focus",
+            "timing": "Morning of"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Seasonal QSR Promotions & Limited-Time Offers",
+      "events": [
+        {
+          "name": "McValue Platform Launch & $5 Meal Deals",
+          "date": "2025-11-01 to 2026-02-28",
+          "time_of_day": "all-day",
+          "location": "All McDonald's locations",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "McDonald's corporate announcements",
+            "Food & Wine magazine"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "breakfast",
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Increase shifts by 20% during promotions",
+            "inventory": "McNuggets, Big Mac components, fries",
+            "promotions": "App-exclusive $1 add-ons",
+            "service_mode": "drive-thru and delivery prep",
+            "timing": "1 week before launch"
+          }
+        },
+        {
+          "name": "McRib Return",
+          "date": "2025-11-16 to 2025-12-31",
+          "time_of_day": "all-day",
+          "location": "All McDonald's locations",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "McDonald's promo calendar",
+            "SimplyCodes"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Extra grill crew evenings",
+            "inventory": "Pork patties, BBQ sauce",
+            "promotions": "McRib meal bundle",
+            "service_mode": "drive-thru focus",
+            "timing": "3 days before"
+          }
+        }
+      ]
+    },
+    {
+      "category": "National & Regional Fast-Food Awareness Days",
+      "events": [
+        {
+          "name": "National Fast Food Day",
+          "date": "2025-11-16",
+          "time_of_day": "all-day",
+          "location": "Nationwide",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "National Day Calendar",
+            "Days of the Year"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 2 crew for peak hours",
+            "inventory": "Burgers, fries",
+            "promotions": "BOGO deals via app",
+            "service_mode": "drive-thru focus",
+            "timing": "Day before"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Local Festivals & Cultural Celebrations",
+      "events": [
+        {
+          "name": "Holiday Spectacular Concert",
+          "date": "2025-12-06 to 2025-12-07",
+          "time_of_day": "evening",
+          "location": "California Theatre, 345 S 1st St, San Jose, CA",
+          "distance_from_store": "3.8 miles",
+          "estimated_attendance": "2000",
+          "verification_sources": [
+            "Visit San Jose",
+            "Symphony San Jose"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "dinner",
+            "late-night"
+          ],
+          "operational_preparation": {
+            "staffing": "Evening shift +1",
+            "inventory": "Desserts, hot beverages",
+            "promotions": "Holiday pies promo",
+            "service_mode": "drive-thru focus",
+            "timing": "Morning of"
+          }
+        },
+        {
+          "name": "Lunar New Year Celebrations",
+          "date": "2026-01-29 to 2026-02-01",
+          "time_of_day": "all-day",
+          "location": "Various South Bay locations",
+          "distance_from_store": "2-5 miles",
+          "estimated_attendance": "10000",
+          "verification_sources": [
+            "Visit San Jose",
+            "San Jose.org"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Full crew all day",
+            "inventory": "McNuggets, rice bowls if available",
+            "promotions": "Family packs",
+            "service_mode": "dine-in and delivery prep",
+            "timing": "2 days before"
+          }
+        }
+      ]
+    },
+    {
+      "category": "School Calendars & Events",
+      "events": [
+        {
+          "name": "Thanksgiving Break",
+          "date": "2025-11-27 to 2025-11-28",
+          "time_of_day": "all-day",
+          "location": "San Jose Unified School District",
+          "distance_from_store": "3.1 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "SJUSD official calendar",
+            "SchoolCalendarInfo.com"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "breakfast",
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Increase breakfast crew",
+            "inventory": "Hash browns, sausage",
+            "promotions": "Breakfast value menu",
+            "service_mode": "drive-thru focus",
+            "timing": "Day before"
+          }
+        },
+        {
+          "name": "Winter Break",
+          "date": "2025-12-22 to 2026-01-05",
+          "time_of_day": "all-day",
+          "location": "San Jose Unified School District",
+          "distance_from_store": "3.1 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "SJUSD official calendar",
+            "Finalsite resources"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "breakfast",
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "20% increase over holidays",
+            "inventory": "Kids meals, holiday items",
+            "promotions": "Gift card bundles",
+            "service_mode": "all modes",
+            "timing": "1 week before"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Sports Events",
+      "events": [
+        {
+          "name": "San Jose Sharks Home Games",
+          "date": "2025-12-01 to 2026-02-28",
+          "time_of_day": "evening",
+          "location": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+          "distance_from_store": "3.9 miles",
+          "estimated_attendance": "15000 per game",
+          "verification_sources": [
+            "SAP Center schedule",
+            "Ticketmaster"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "dinner",
+            "late-night"
+          ],
+          "operational_preparation": {
+            "staffing": "Extra crew post-game",
+            "inventory": "Beef patties, fries",
+            "promotions": "Sharks-themed app deals",
+            "service_mode": "drive-thru focus",
+            "timing": "Day of game"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Retail Shopping Events",
+      "events": [
+        {
+          "name": "Black Friday",
+          "date": "2025-11-28",
+          "time_of_day": "all-day",
+          "location": "Local malls and retail areas",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "Retail calendar Martech",
+            "Consult Erce"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "breakfast",
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Double shifts morning",
+            "inventory": "Value meals, coffee",
+            "promotions": "$1 McMuffins",
+            "service_mode": "drive-thru focus",
+            "timing": "Night before"
+          }
+        },
+        {
+          "name": "Cyber Monday",
+          "date": "2025-12-01",
+          "time_of_day": "all-day",
+          "location": "Online and local retail",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "Passport Global",
+            "Printful ecommerce calendar"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Standard + delivery drivers",
+            "inventory": "Desserts for online orders",
+            "promotions": "App delivery discounts",
+            "service_mode": "delivery prep",
+            "timing": "Morning of"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Weather-Related Events & Seasonal Changes",
+      "events": [
+        {
+          "name": "Mild Winter Season",
+          "date": "2025-12-01 to 2026-02-28",
+          "time_of_day": "all-day",
+          "location": "San Jose area",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "Old Farmer's Almanac",
+            "Weather.com"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Nominal",
+          "sales_impact": "Low",
+          "daypart_affected": [
+            "all"
+          ],
+          "operational_preparation": {
+            "staffing": "Standard",
+            "inventory": "Hot beverages increase",
+            "promotions": "Warm McCafe drinks",
+            "service_mode": "drive-thru focus",
+            "timing": "Ongoing"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Parks & Recreation Events",
+      "events": [
+        {
+          "name": "Almaden Lake Park Winter Programs",
+          "date": "2025-12-01 to 2026-02-28",
+          "time_of_day": "afternoon",
+          "location": "Almaden Lake Park, 15637 Almaden Expy, San Jose, CA",
+          "distance_from_store": "4.0 miles",
+          "estimated_attendance": "200-500",
+          "verification_sources": [
+            "San Jose Parks & Rec",
+            "Yelp events"
+          ],
+          "verification_status": "Tentative",
+          "relevance_to_store": "Low",
+          "traffic_impact": "Low",
+          "sales_impact": "Low",
+          "daypart_affected": [
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Standard",
+            "inventory": "Kids meals",
+            "promotions": "None",
+            "service_mode": "dine-in focus",
+            "timing": "Morning of"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Traffic & Construction Impacts",
+      "events": [
+        {
+          "name": "Thanksgiving Day Road Closures for Turkey Trot",
+          "date": "2025-11-27",
+          "time_of_day": "morning",
+          "location": "Downtown San Jose routes",
+          "distance_from_store": "4.1 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "San Jose Downtown",
+            "511.org"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Low",
+          "daypart_affected": [
+            "breakfast"
+          ],
+          "operational_preparation": {
+            "staffing": "Early shift focus",
+            "inventory": "Breakfast items",
+            "promotions": "None",
+            "service_mode": "drive-thru focus",
+            "timing": "Night before"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Nearby Venue Events",
+      "events": [
+        {
+          "name": "Broadway Shows at San Jose Center",
+          "date": "2025-12-30 to 2026-01-04",
+          "time_of_day": "evening",
+          "location": "San Jose Center for Performing Arts, 255 Almaden Blvd, San Jose, CA",
+          "distance_from_store": "3.6 miles",
+          "estimated_attendance": "2500 per show",
+          "verification_sources": [
+            "Visit San Jose",
+            "Ticketmaster"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Evening +1",
+            "inventory": "Desserts",
+            "promotions": "Pre-show combos",
+            "service_mode": "drive-thru focus",
+            "timing": "Day of"
+          }
+        }
+      ]
+    }
+  ],
+  "overall_recommendations": {
+    "high_impact_periods": [
+      {
+        "date_range": "2025-11-27 to 2025-11-30",
+        "reason": "Thanksgiving break, Black Friday, promotions",
+        "preparation_priority": "Staffing and inventory for family traffic"
+      },
+      {
+        "date_range": "2025-12-20 to 2026-01-05",
+        "reason": "Winter break and holidays driving dine-in and delivery",
+        "preparation_priority": "Kids meals and delivery partnerships"
+      },
+      {
+        "date_range": "2026-01-29 to 2026-02-01",
+        "reason": "Lunar New Year cultural events",
+        "preparation_priority": "Family packs and cultural tie-ins"
+      }
+    ],
+    "staffing_strategy": "Schedule 20% extra during school breaks and game nights; cross-train for drive-thru rushes",
+    "inventory_priorities": [
+      "Beef patties",
+      "chicken nuggets",
+      "fries",
+      "hot beverages",
+      "kids meal toys"
+    ],
+    "marketing_opportunities": [
+      "App deals for Sharks fans",
+      "Holiday family bundles",
+      "Lunar New Year value meals"
+    ],
+    "operational_risks": [
+      "Post-game traffic jams",
+      "Holiday delivery surges",
+      "Mild weather reducing hot item sales"
+    ],
+    "competitive_considerations": "Nearby Taco Bell and Burger King may compete on value; differentiate with McValue exclusives and faster drive-thru"
+  }
+}

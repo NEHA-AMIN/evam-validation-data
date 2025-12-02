@@ -1,0 +1,1304 @@
+[
+  {
+    "file": "1-event.json",
+    "origin": "4800 Almaden Expressway, San Jose, CA 95118, United States",
+    "destination": "Almaden Plaza, 5353 Almaden Expy, San Jose, CA",
+    "current_distance": "0.5 miles",
+    "event_name": "Almaden Valley Farmers Market"
+  },
+  {
+    "file": "1-event.json",
+    "origin": "4800 Almaden Expressway, San Jose, CA 95118, United States",
+    "destination": "California Theatre, 345 South First St., San Jose, CA 95113",
+    "current_distance": "8.5 miles",
+    "event_name": "Holiday Spectacular"
+  },
+  {
+    "file": "1-event.json",
+    "origin": "4800 Almaden Expressway, San Jose, CA 95118, United States",
+    "destination": "Park Ave. & Paseo de San Antonio, San Jose, CA",
+    "current_distance": "8 miles",
+    "event_name": "Winter Wonderland"
+  },
+  {
+    "file": "1-event.json",
+    "origin": "4800 Almaden Expressway, San Jose, CA 95118, United States",
+    "destination": "Various locations in San Jose",
+    "current_distance": "5 miles",
+    "event_name": "Lunar New Year Celebrations"
+  },
+  {
+    "file": "1-event.json",
+    "origin": "4800 Almaden Expressway, San Jose, CA 95118, United States",
+    "destination": "San Jose Unified and East Side Union Schools",
+    "current_distance": "1-3 miles",
+    "event_name": "Winter Break"
+  },
+  {
+    "file": "1-event.json",
+    "origin": "4800 Almaden Expressway, San Jose, CA 95118, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+    "current_distance": "8 miles",
+    "event_name": "San Jose Sharks Home Games"
+  },
+  {
+    "file": "1-event.json",
+    "origin": "4800 Almaden Expressway, San Jose, CA 95118, United States",
+    "destination": "Almaden Valley Shopping Areas",
+    "current_distance": "0.5 miles",
+    "event_name": "Black Friday & Small Business Saturday"
+  },
+  {
+    "file": "1-event.json",
+    "origin": "4800 Almaden Expressway, San Jose, CA 95118, United States",
+    "destination": "San Jose Convention Center",
+    "current_distance": "8 miles",
+    "event_name": "Work4CA Bay Area Winter Job Fair"
+  },
+  {
+    "file": "1-event.json",
+    "origin": "4800 Almaden Expressway, San Jose, CA 95118, United States",
+    "destination": "Almaden Lake Park, 13000 Fremont Rd, San Jose, CA",
+    "current_distance": "2.5 miles",
+    "event_name": "Almaden Lake Park Winter Activities"
+  },
+  {
+    "file": "1-event.json",
+    "origin": "4800 Almaden Expressway, San Jose, CA 95118, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+    "current_distance": "8 miles",
+    "event_name": "Man\u00e1 Concert"
+  },
+  {
+    "file": "1-event.json",
+    "origin": "4800 Almaden Expressway, San Jose, CA 95118, United States",
+    "destination": "San Jose McEnery Convention Center",
+    "current_distance": "8 miles",
+    "event_name": "DeveloperWeek 2026"
+  },
+  {
+    "file": "2-event-en.json",
+    "origin": "1299 E Santa Clara St, San Jose, CA 95116, United States",
+    "destination": "Plaza de Cesar Chavez, 1 Paseo de San Antonio, San Jose, CA 95113",
+    "current_distance": "1.5 miles",
+    "event_name": "Christmas in the Park"
+  },
+  {
+    "file": "2-event-en.json",
+    "origin": "1299 E Santa Clara St, San Jose, CA 95116, United States",
+    "destination": "California Theatre, 345 South First St, San Jose, CA 95113",
+    "current_distance": "1.4 miles",
+    "event_name": "Holiday Spectacular"
+  },
+  {
+    "file": "2-event-en.json",
+    "origin": "1299 E Santa Clara St, San Jose, CA 95116, United States",
+    "destination": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA 95054",
+    "current_distance": "4.8 miles",
+    "event_name": "SJMADE Holiday Fair"
+  },
+  {
+    "file": "2-event-en.json",
+    "origin": "1299 E Santa Clara St, San Jose, CA 95116, United States",
+    "destination": "South Hall, 435 S. Market St, San Jos\u00e9, CA 95110",
+    "current_distance": "1.6 miles",
+    "event_name": "San Jos\u00e9 Winter Wonder Market"
+  },
+  {
+    "file": "2-event-en.json",
+    "origin": "1299 E Santa Clara St, San Jose, CA 95116, United States",
+    "destination": "Various downtown locations, San Jose, CA",
+    "current_distance": "1.5 miles",
+    "event_name": "Lunar New Year Celebrations"
+  },
+  {
+    "file": "2-event-en.json",
+    "origin": "1299 E Santa Clara St, San Jose, CA 95116, United States",
+    "destination": "San Jose Unified School District schools",
+    "current_distance": "0.5-2 miles",
+    "event_name": "Winter Break"
+  },
+  {
+    "file": "2-event-en.json",
+    "origin": "1299 E Santa Clara St, San Jose, CA 95116, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+    "current_distance": "1.0 mile",
+    "event_name": "San Jose Sharks Home Games"
+  },
+  {
+    "file": "2-event-en.json",
+    "origin": "1299 E Santa Clara St, San Jose, CA 95116, United States",
+    "destination": "Downtown San Jose businesses",
+    "current_distance": "1.5 miles",
+    "event_name": "Shop Small Downtown"
+  },
+  {
+    "file": "2-event-en.json",
+    "origin": "1299 E Santa Clara St, San Jose, CA 95116, United States",
+    "destination": "Downtown San Jose, Paseo de San Antonio",
+    "current_distance": "1.5 miles",
+    "event_name": "Downtown Ice Rink"
+  },
+  {
+    "file": "2-event-en.json",
+    "origin": "1299 E Santa Clara St, San Jose, CA 95116, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+    "current_distance": "1.0 mile",
+    "event_name": "Disney On Ice"
+  },
+  {
+    "file": "3-event-en.json",
+    "origin": "1142 N Capitol Ave, San Jose, CA 95132, United States",
+    "destination": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA",
+    "current_distance": "7.5 miles",
+    "event_name": "SJMADE Holiday Fair"
+  },
+  {
+    "file": "3-event-en.json",
+    "origin": "1142 N Capitol Ave, San Jose, CA 95132, United States",
+    "destination": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA",
+    "current_distance": "6.2 miles",
+    "event_name": "Give Thanks Festival"
+  },
+  {
+    "file": "3-event-en.json",
+    "origin": "1142 N Capitol Ave, San Jose, CA 95132, United States",
+    "destination": "Berryessa Union School District schools",
+    "current_distance": "0-2 miles",
+    "event_name": "Winter Break"
+  },
+  {
+    "file": "3-event-en.json",
+    "origin": "1142 N Capitol Ave, San Jose, CA 95132, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+    "current_distance": "5.8 miles",
+    "event_name": "San Jose Sharks Home Games"
+  },
+  {
+    "file": "3-event-en.json",
+    "origin": "1142 N Capitol Ave, San Jose, CA 95132, United States",
+    "destination": "Eastridge Mall and local retailers, 2201 Eastridge Loop, San Jose, CA",
+    "current_distance": "4.2 miles",
+    "event_name": "Black Friday"
+  },
+  {
+    "file": "3-event-en.json",
+    "origin": "1142 N Capitol Ave, San Jose, CA 95132, United States",
+    "destination": "San Jos\u00e9 City College, 2100 Moorpark Ave, San Jose, CA",
+    "current_distance": "8.5 miles",
+    "event_name": "Fall Career Fair"
+  },
+  {
+    "file": "3-event-en.json",
+    "origin": "1142 N Capitol Ave, San Jose, CA 95132, United States",
+    "destination": "Capitol Expressway and Story Road",
+    "current_distance": "3.5 miles",
+    "event_name": "EBRC Construction Closures"
+  },
+  {
+    "file": "3-event-en.json",
+    "origin": "1142 N Capitol Ave, San Jose, CA 95132, United States",
+    "destination": "San Jose Convention Center, 150 W San Carlos St, San Jose, CA",
+    "current_distance": "6.2 miles",
+    "event_name": "FandomCon Silicon Valley"
+  },
+  {
+    "file": "3-event-en.json",
+    "origin": "1142 N Capitol Ave, San Jose, CA 95132, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+    "current_distance": "5.8 miles",
+    "event_name": "Disney On Ice"
+  },
+  {
+    "file": "4-event-en.json",
+    "origin": "105 Bernal Rd, San Jose, CA 95119, United States",
+    "destination": "California Theatre, 345 South First St., San Jose, CA 95112",
+    "current_distance": "9.5 miles",
+    "event_name": "Holiday Spectacular"
+  },
+  {
+    "file": "4-event-en.json",
+    "origin": "105 Bernal Rd, San Jose, CA 95119, United States",
+    "destination": "Plaza de C\u00e9sar Ch\u00e1vez, San Jose, CA",
+    "current_distance": "9.8 miles",
+    "event_name": "Christmas in the Park"
+  },
+  {
+    "file": "4-event-en.json",
+    "origin": "105 Bernal Rd, San Jose, CA 95119, United States",
+    "destination": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA 95054",
+    "current_distance": "11.2 miles",
+    "event_name": "SJMADE Holiday Fair"
+  },
+  {
+    "file": "4-event-en.json",
+    "origin": "105 Bernal Rd, San Jose, CA 95119, United States",
+    "destination": "Santa Clara Unified School District schools",
+    "current_distance": "5.0 miles",
+    "event_name": "Winter Break"
+  },
+  {
+    "file": "4-event-en.json",
+    "origin": "105 Bernal Rd, San Jose, CA 95119, United States",
+    "destination": "Provident Credit Union Event Center, 1 Washington Sq, San Jose, CA 95192",
+    "current_distance": "8.7 miles",
+    "event_name": "San Jose State Spartans Men's Basketball Home Games"
+  },
+  {
+    "file": "4-event-en.json",
+    "origin": "105 Bernal Rd, San Jose, CA 95119, United States",
+    "destination": "Levi's Stadium, 4900 Marie P DeBartolo Way, Santa Clara, CA 95054",
+    "current_distance": "11.5 miles",
+    "event_name": "Super Bowl LX"
+  },
+  {
+    "file": "4-event-en.json",
+    "origin": "105 Bernal Rd, San Jose, CA 95119, United States",
+    "destination": "Local retail areas including Oakridge Mall, San Jose, CA",
+    "current_distance": "4.2 miles",
+    "event_name": "Black Friday"
+  },
+  {
+    "file": "4-event-en.json",
+    "origin": "105 Bernal Rd, San Jose, CA 95119, United States",
+    "destination": "Local small businesses in San Jose",
+    "current_distance": "0-5 miles",
+    "event_name": "Small Business Saturday"
+  },
+  {
+    "file": "4-event-en.json",
+    "origin": "105 Bernal Rd, San Jose, CA 95119, United States",
+    "destination": "Park Ave. & Paseo de San Antonio, San Jose, CA",
+    "current_distance": "9.5 miles",
+    "event_name": "Winter Wonderland"
+  },
+  {
+    "file": "4-event-en.json",
+    "origin": "105 Bernal Rd, San Jose, CA 95119, United States",
+    "destination": "SR-85 near Bernal Rd, San Jose",
+    "current_distance": "0.5 miles",
+    "event_name": "SR-85 Construction Near Bernal Rd"
+  },
+  {
+    "file": "4-event-en.json",
+    "origin": "105 Bernal Rd, San Jose, CA 95119, United States",
+    "destination": "Various downtown venues, San Jose",
+    "current_distance": "9.0 miles",
+    "event_name": "New Year's Eve Celebrations"
+  },
+  {
+    "file": "5-event-en.json",
+    "origin": "1702 Oakland Rd, San Jose, CA 95131, United States",
+    "destination": "Plaza de Cesar Chavez, 1 Paseo de San Antonio, San Jose, CA 95113",
+    "current_distance": "6.2 miles",
+    "event_name": "Christmas in the Park"
+  },
+  {
+    "file": "5-event-en.json",
+    "origin": "1702 Oakland Rd, San Jose, CA 95131, United States",
+    "destination": "Santa Clara County Fairgrounds, 344 Tully Rd, San Jose, CA 95111",
+    "current_distance": "7.5 miles",
+    "event_name": "SJMADE Holiday Fair"
+  },
+  {
+    "file": "5-event-en.json",
+    "origin": "1702 Oakland Rd, San Jose, CA 95131, United States",
+    "destination": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA 95113",
+    "current_distance": "6.0 miles",
+    "event_name": "San Jos\u00e9 Winter Wonder Market"
+  },
+  {
+    "file": "5-event-en.json",
+    "origin": "1702 Oakland Rd, San Jose, CA 95131, United States",
+    "destination": "California Theatre, 345 South First St, San Jose, CA 95113",
+    "current_distance": "6.1 miles",
+    "event_name": "Holiday Spectacular"
+  },
+  {
+    "file": "5-event-en.json",
+    "origin": "1702 Oakland Rd, San Jose, CA 95131, United States",
+    "destination": "Santa Clara Unified School District schools",
+    "current_distance": "1-3 miles",
+    "event_name": "Winter Break"
+  },
+  {
+    "file": "5-event-en.json",
+    "origin": "1702 Oakland Rd, San Jose, CA 95131, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+    "current_distance": "6.3 miles",
+    "event_name": "San Jose Sharks vs. Utah Mammoth"
+  },
+  {
+    "file": "5-event-en.json",
+    "origin": "1702 Oakland Rd, San Jose, CA 95131, United States",
+    "destination": "Downtown San Jose businesses",
+    "current_distance": "6.0 miles",
+    "event_name": "Shop Small Downtown"
+  },
+  {
+    "file": "5-event-en.json",
+    "origin": "1702 Oakland Rd, San Jose, CA 95131, United States",
+    "destination": "San Jose Convention Center, 150 W San Carlos St, San Jose, CA 95113",
+    "current_distance": "6.0 miles",
+    "event_name": "San Jose Job Fair"
+  },
+  {
+    "file": "5-event-en.json",
+    "origin": "1702 Oakland Rd, San Jose, CA 95131, United States",
+    "destination": "Downtown San Jose streets",
+    "current_distance": "6.0 miles",
+    "event_name": "Holiday Road Closures for Events"
+  },
+  {
+    "file": "5-event-en.json",
+    "origin": "1702 Oakland Rd, San Jose, CA 95131, United States",
+    "destination": "California Theatre, 345 South First St, San Jose, CA 95113",
+    "current_distance": "6.1 miles",
+    "event_name": "The San Jose Nutcracker"
+  },
+  {
+    "file": "6-event-en.json",
+    "origin": "1150 S De Anza Blvd, San Jose, CA 95129, United States",
+    "destination": "Cupertino Community Hall, 10350 Torre Ave, Cupertino, CA",
+    "current_distance": "1.2 miles",
+    "event_name": "Coyote Coexistence Workshop"
+  },
+  {
+    "file": "6-event-en.json",
+    "origin": "1150 S De Anza Blvd, San Jose, CA 95129, United States",
+    "destination": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA",
+    "current_distance": "4.8 miles",
+    "event_name": "SJV Holiday Faire"
+  },
+  {
+    "file": "6-event-en.json",
+    "origin": "1150 S De Anza Blvd, San Jose, CA 95129, United States",
+    "destination": "Downtown Los Altos, State St, Los Altos, CA",
+    "current_distance": "2.1 miles",
+    "event_name": "Los Altos Holiday Parade"
+  },
+  {
+    "file": "6-event-en.json",
+    "origin": "1150 S De Anza Blvd, San Jose, CA 95129, United States",
+    "destination": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA",
+    "current_distance": "4.8 miles",
+    "event_name": "SJMADE Holiday Fair"
+  },
+  {
+    "file": "6-event-en.json",
+    "origin": "1150 S De Anza Blvd, San Jose, CA 95129, United States",
+    "destination": "South Hall, 435 S Market St, San Jose, CA",
+    "current_distance": "8.5 miles",
+    "event_name": "San Jos\u00e9 Winter Wonder Market"
+  },
+  {
+    "file": "6-event-en.json",
+    "origin": "1150 S De Anza Blvd, San Jose, CA 95129, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+    "current_distance": "9.2 miles",
+    "event_name": "San Jose Sharks vs. Vegas Golden Knights"
+  },
+  {
+    "file": "6-event-en.json",
+    "origin": "1150 S De Anza Blvd, San Jose, CA 95129, United States",
+    "destination": "Levi's Stadium, 4900 Marie P DeBartolo Way, Santa Clara, CA",
+    "current_distance": "11.5 miles",
+    "event_name": "Super Bowl LX"
+  },
+  {
+    "file": "6-event-en.json",
+    "origin": "1150 S De Anza Blvd, San Jose, CA 95129, United States",
+    "destination": "Regional Malls & Shops near store",
+    "current_distance": "0-2 miles",
+    "event_name": "Black Friday"
+  },
+  {
+    "file": "6-event-en.json",
+    "origin": "1150 S De Anza Blvd, San Jose, CA 95129, United States",
+    "destination": "Plaza de Cesar Chavez, San Jose, CA",
+    "current_distance": "9.0 miles",
+    "event_name": "Christmas in the Park"
+  },
+  {
+    "file": "6-event-en.json",
+    "origin": "1150 S De Anza Blvd, San Jose, CA 95129, United States",
+    "destination": "120 S Market St, San Jose, CA",
+    "current_distance": "9.0 miles",
+    "event_name": "Skate Under the Palms"
+  },
+  {
+    "file": "6-event-en.json",
+    "origin": "1150 S De Anza Blvd, San Jose, CA 95129, United States",
+    "destination": "Downtown San Jose Routes",
+    "current_distance": "9 miles",
+    "event_name": "Thanksgiving Turkey Trot Road Closures"
+  },
+  {
+    "file": "6-event-en.json",
+    "origin": "1150 S De Anza Blvd, San Jose, CA 95129, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+    "current_distance": "9.2 miles",
+    "event_name": "Disney On Ice"
+  },
+  {
+    "file": "7-event-en.json",
+    "origin": "456 Blossom Hill Rd, San Jose, CA 95123, United States",
+    "destination": "Plaza de Cesar Chavez, San Jose, CA",
+    "current_distance": "7.5 miles",
+    "event_name": "Christmas in the Park"
+  },
+  {
+    "file": "7-event-en.json",
+    "origin": "456 Blossom Hill Rd, San Jose, CA 95123, United States",
+    "destination": "Discovery Meadow, San Jose, CA",
+    "current_distance": "7.5 miles",
+    "event_name": "San Jos\u00e9 Holiday Lights"
+  },
+  {
+    "file": "7-event-en.json",
+    "origin": "456 Blossom Hill Rd, San Jose, CA 95123, United States",
+    "destination": "California Theatre, San Jose, CA",
+    "current_distance": "7.5 miles",
+    "event_name": "Holiday Spectacular"
+  },
+  {
+    "file": "7-event-en.json",
+    "origin": "456 Blossom Hill Rd, San Jose, CA 95123, United States",
+    "destination": "History Park, San Jose, CA",
+    "current_distance": "6 miles",
+    "event_name": "SJMADE Holiday Fair"
+  },
+  {
+    "file": "7-event-en.json",
+    "origin": "456 Blossom Hill Rd, San Jose, CA 95123, United States",
+    "destination": "Local schools",
+    "current_distance": "1-2 miles",
+    "event_name": "Thanksgiving Break"
+  },
+  {
+    "file": "7-event-en.json",
+    "origin": "456 Blossom Hill Rd, San Jose, CA 95123, United States",
+    "destination": "Local schools",
+    "current_distance": "1-2 miles",
+    "event_name": "Winter Break"
+  },
+  {
+    "file": "7-event-en.json",
+    "origin": "456 Blossom Hill Rd, San Jose, CA 95123, United States",
+    "destination": "SAP Center, San Jose, CA",
+    "current_distance": "7.5 miles",
+    "event_name": "San Jose Sharks Home Games"
+  },
+  {
+    "file": "7-event-en.json",
+    "origin": "456 Blossom Hill Rd, San Jose, CA 95123, United States",
+    "destination": "Oakridge Mall, San Jose, CA",
+    "current_distance": "1.5 miles",
+    "event_name": "Black Friday"
+  },
+  {
+    "file": "7-event-en.json",
+    "origin": "456 Blossom Hill Rd, San Jose, CA 95123, United States",
+    "destination": "San Jose area",
+    "current_distance": "5 miles",
+    "event_name": "Work4CA Bay Area Winter Job Fair"
+  },
+  {
+    "file": "7-event-en.json",
+    "origin": "456 Blossom Hill Rd, San Jose, CA 95123, United States",
+    "destination": "Blossom Hill Rd area",
+    "current_distance": "0.5 miles",
+    "event_name": "US 101 Blossom Hill Interchange Improvement"
+  },
+  {
+    "file": "7-event-en.json",
+    "origin": "456 Blossom Hill Rd, San Jose, CA 95123, United States",
+    "destination": "SAP Center, San Jose, CA",
+    "current_distance": "7.5 miles",
+    "event_name": "Disney On Ice"
+  },
+  {
+    "file": "8-event-en.json",
+    "origin": "1033 E Capitol Expwy, San Jose, CA 95121, United States",
+    "destination": "California Theatre, 345 South First St., San Jose, CA 95112",
+    "current_distance": "6.3 miles",
+    "event_name": "Holiday Spectacular"
+  },
+  {
+    "file": "8-event-en.json",
+    "origin": "1033 E Capitol Expwy, San Jose, CA 95121, United States",
+    "destination": "Plaza de Cesar Chavez, San Jose, CA",
+    "current_distance": "7.5 miles",
+    "event_name": "Winter Wonderland"
+  },
+  {
+    "file": "8-event-en.json",
+    "origin": "1033 E Capitol Expwy, San Jose, CA 95121, United States",
+    "destination": "Various East San Jose locations",
+    "current_distance": "1-2 miles",
+    "event_name": "Lunar New Year Celebrations"
+  },
+  {
+    "file": "8-event-en.json",
+    "origin": "1033 E Capitol Expwy, San Jose, CA 95121, United States",
+    "destination": "Evergreen Valley High School",
+    "current_distance": "3.6 miles",
+    "event_name": "Winter Break"
+  },
+  {
+    "file": "8-event-en.json",
+    "origin": "1033 E Capitol Expwy, San Jose, CA 95121, United States",
+    "destination": "SAP Center, San Jose, CA",
+    "current_distance": "7.2 miles",
+    "event_name": "San Jose Sharks Games"
+  },
+  {
+    "file": "8-event-en.json",
+    "origin": "1033 E Capitol Expwy, San Jose, CA 95121, United States",
+    "destination": "Eastridge Mall, San Jose, CA",
+    "current_distance": "2.8 miles",
+    "event_name": "Black Friday & Small Business Saturday"
+  },
+  {
+    "file": "8-event-en.json",
+    "origin": "1033 E Capitol Expwy, San Jose, CA 95121, United States",
+    "destination": "Alum Rock Park, San Jose, CA",
+    "current_distance": "8.9 miles",
+    "event_name": "Trail Improvement Work"
+  },
+  {
+    "file": "8-event-en.json",
+    "origin": "1033 E Capitol Expwy, San Jose, CA 95121, United States",
+    "destination": "Broadway San Jose, San Jose, CA",
+    "current_distance": "6.7 miles",
+    "event_name": "The Wiz Broadway"
+  },
+  {
+    "file": "9-event-en.json",
+    "origin": "2191 Monterey Highway, San Jose, CA 95111, United States",
+    "destination": "Plaza de Cesar Chavez, 1 Paseo de San Antonio, San Jose, CA 95113",
+    "current_distance": "5.5 miles",
+    "event_name": "Christmas in the Park"
+  },
+  {
+    "file": "9-event-en.json",
+    "origin": "2191 Monterey Highway, San Jose, CA 95111, United States",
+    "destination": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA 95054",
+    "current_distance": "12 miles",
+    "event_name": "SJMADE Holiday Fair"
+  },
+  {
+    "file": "9-event-en.json",
+    "origin": "2191 Monterey Highway, San Jose, CA 95111, United States",
+    "destination": "Santana Row, 377 Santana Row, San Jose, CA 95128",
+    "current_distance": "7.5 miles",
+    "event_name": "Spirit of The Row Holiday Shows"
+  },
+  {
+    "file": "9-event-en.json",
+    "origin": "2191 Monterey Highway, San Jose, CA 95111, United States",
+    "destination": "Santa Clara Unified School District schools",
+    "current_distance": "0.5-2 miles",
+    "event_name": "Winter Break"
+  },
+  {
+    "file": "9-event-en.json",
+    "origin": "2191 Monterey Highway, San Jose, CA 95111, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+    "current_distance": "5.2 miles",
+    "event_name": "San Jose Sharks Games"
+  },
+  {
+    "file": "9-event-en.json",
+    "origin": "2191 Monterey Highway, San Jose, CA 95111, United States",
+    "destination": "Downtown San Jose businesses",
+    "current_distance": "5 miles",
+    "event_name": "Shop Small Downtown Program"
+  },
+  {
+    "file": "9-event-en.json",
+    "origin": "2191 Monterey Highway, San Jose, CA 95111, United States",
+    "destination": "Discovery Meadow, 180 W San Carlos St, San Jose, CA 95113",
+    "current_distance": "5.3 miles",
+    "event_name": "San Jos\u00e9 Holiday Lights"
+  },
+  {
+    "file": "9-event-en.json",
+    "origin": "2191 Monterey Highway, San Jose, CA 95111, United States",
+    "destination": "SR-85 near Monterey Hwy, San Jose",
+    "current_distance": "1 mile",
+    "event_name": "SR-85 Construction Closures"
+  },
+  {
+    "file": "9-event-en.json",
+    "origin": "2191 Monterey Highway, San Jose, CA 95111, United States",
+    "destination": "Levi's Stadium, 4900 Marie P DeBartolo Way, Santa Clara, CA 95054",
+    "current_distance": "11 miles",
+    "event_name": "Super Bowl LX"
+  },
+  {
+    "file": "9-event-en.json",
+    "origin": "2191 Monterey Highway, San Jose, CA 95111, United States",
+    "destination": "California Theatre, 345 S 1st St, San Jose, CA 95113",
+    "current_distance": "5.1 miles",
+    "event_name": "Symphony San Jose Holiday Concerts"
+  },
+  {
+    "file": "10-event-en.json",
+    "origin": "5122 Stevens Creek Blvd, San Jose, CA 95129, United States",
+    "destination": "De Anza College, 21250 Stevens Creek Blvd, Cupertino, CA",
+    "current_distance": "5.0 miles",
+    "event_name": "Cupertino Farmers' Market"
+  },
+  {
+    "file": "10-event-en.json",
+    "origin": "5122 Stevens Creek Blvd, San Jose, CA 95129, United States",
+    "destination": "Plaza de Cesar Chavez, Downtown San Jose, CA",
+    "current_distance": "7.7 miles",
+    "event_name": "Christmas in the Park"
+  },
+  {
+    "file": "10-event-en.json",
+    "origin": "5122 Stevens Creek Blvd, San Jose, CA 95129, United States",
+    "destination": "San Jose McEnery Convention Center South Hall, San Jose, CA",
+    "current_distance": "7.5 miles",
+    "event_name": "San Jose Winter Wonder Market"
+  },
+  {
+    "file": "10-event-en.json",
+    "origin": "5122 Stevens Creek Blvd, San Jose, CA 95129, United States",
+    "destination": "California Theatre, 345 South First St., San Jose, CA",
+    "current_distance": "7.5 miles",
+    "event_name": "Holiday Spectacular"
+  },
+  {
+    "file": "10-event-en.json",
+    "origin": "5122 Stevens Creek Blvd, San Jose, CA 95129, United States",
+    "destination": "Santa Clara Unified School District schools",
+    "current_distance": "3.0 miles",
+    "event_name": "Winter Break"
+  },
+  {
+    "file": "10-event-en.json",
+    "origin": "5122 Stevens Creek Blvd, San Jose, CA 95129, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+    "current_distance": "7.5 miles",
+    "event_name": "San Jose Sharks vs. Various Opponents"
+  },
+  {
+    "file": "10-event-en.json",
+    "origin": "5122 Stevens Creek Blvd, San Jose, CA 95129, United States",
+    "destination": "Westfield Valley Fair Mall, Santa Clara, CA",
+    "current_distance": "2.8 miles",
+    "event_name": "Black Friday"
+  },
+  {
+    "file": "10-event-en.json",
+    "origin": "5122 Stevens Creek Blvd, San Jose, CA 95129, United States",
+    "destination": "San Jose Convention Center",
+    "current_distance": "7.3 miles",
+    "event_name": "San Jose Job Fair"
+  },
+  {
+    "file": "10-event-en.json",
+    "origin": "5122 Stevens Creek Blvd, San Jose, CA 95129, United States",
+    "destination": "Shumway Oak Grove Regional Park, San Jose, CA",
+    "current_distance": "13.9 miles",
+    "event_name": "Poe-tree and Music On The Trail"
+  },
+  {
+    "file": "10-event-en.json",
+    "origin": "5122 Stevens Creek Blvd, San Jose, CA 95129, United States",
+    "destination": "SR-85 between Stevens Creek Blvd and nearby",
+    "current_distance": "0.5 miles",
+    "event_name": "SR-85 Lane Closures near Stevens Creek"
+  },
+  {
+    "file": "10-event-en.json",
+    "origin": "5122 Stevens Creek Blvd, San Jose, CA 95129, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+    "current_distance": "7.5 miles",
+    "event_name": "Disney On Ice"
+  },
+  {
+    "file": "10-event-en.json",
+    "origin": "5122 Stevens Creek Blvd, San Jose, CA 95129, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+    "current_distance": "7.5 miles",
+    "event_name": "Linkin Park Concert"
+  },
+  {
+    "file": "11-event-en.json",
+    "origin": "2353 Mckee Rd, San Jose, CA 95116, United States",
+    "destination": "Evergreen Village Square, San Jose, CA",
+    "current_distance": "3.2 miles",
+    "event_name": "Santa at the Square Holiday Celebration"
+  },
+  {
+    "file": "11-event-en.json",
+    "origin": "2353 Mckee Rd, San Jose, CA 95116, United States",
+    "destination": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA",
+    "current_distance": "6.7 miles",
+    "event_name": "SJMADE Winter Wonder Market"
+  },
+  {
+    "file": "11-event-en.json",
+    "origin": "2353 Mckee Rd, San Jose, CA 95116, United States",
+    "destination": "East Side Union High School District schools",
+    "current_distance": "1-2 miles",
+    "event_name": "Winter Break"
+  },
+  {
+    "file": "11-event-en.json",
+    "origin": "2353 Mckee Rd, San Jose, CA 95116, United States",
+    "destination": "PayPal Park, 1013 N 4th St, San Jose, CA",
+    "current_distance": "4.8 miles",
+    "event_name": "San Jose Earthquakes Home Game vs Seattle Sounders"
+  },
+  {
+    "file": "11-event-en.json",
+    "origin": "2353 Mckee Rd, San Jose, CA 95116, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+    "current_distance": "6.3 miles",
+    "event_name": "San Jose Sharks Home Games"
+  },
+  {
+    "file": "11-event-en.json",
+    "origin": "2353 Mckee Rd, San Jose, CA 95116, United States",
+    "destination": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA",
+    "current_distance": "9.2 miles",
+    "event_name": "SJMADE Holiday Fair"
+  },
+  {
+    "file": "11-event-en.json",
+    "origin": "2353 Mckee Rd, San Jose, CA 95116, United States",
+    "destination": "Plaza de C\u00e9sar Ch\u00e1vez, San Jose, CA",
+    "current_distance": "6.6 miles",
+    "event_name": "Christmas in the Park"
+  },
+  {
+    "file": "11-event-en.json",
+    "origin": "2353 Mckee Rd, San Jose, CA 95116, United States",
+    "destination": "Virtual, impacting local businesses",
+    "current_distance": "N/A",
+    "event_name": "Update on the Economy Webinar Series Finale"
+  },
+  {
+    "file": "11-event-en.json",
+    "origin": "2353 Mckee Rd, San Jose, CA 95116, United States",
+    "destination": "Alum Rock Park, 15350 Penitencia Creek Rd, San Jose, CA",
+    "current_distance": "2.1 miles",
+    "event_name": "Trail Improvement Work (Potential Closures)"
+  },
+  {
+    "file": "11-event-en.json",
+    "origin": "2353 Mckee Rd, San Jose, CA 95116, United States",
+    "destination": "I-680 at McKee Rd, San Jose, CA",
+    "current_distance": "0.5 miles",
+    "event_name": "I-680 Lane Closures near McKee Rd"
+  },
+  {
+    "file": "11-event-en.json",
+    "origin": "2353 Mckee Rd, San Jose, CA 95116, United States",
+    "destination": "San Jose Civic, 651 W Santa Clara St, San Jose, CA",
+    "current_distance": "4.2 miles",
+    "event_name": "Broadway Show: Unknown Production"
+  },
+  {
+    "file": "12-event-en.json",
+    "origin": "2434 Almaden Rd, San Jose, CA 95125, United States",
+    "destination": "Via Valiente Plaza, 6902 Almaden Expressway, San Jose, CA",
+    "current_distance": "1.2 miles",
+    "event_name": "Almaden Valley Farmers Market"
+  },
+  {
+    "file": "12-event-en.json",
+    "origin": "2434 Almaden Rd, San Jose, CA 95125, United States",
+    "destination": "Downtown San Jose, Market St",
+    "current_distance": "6.5 miles",
+    "event_name": "Veterans Day Parade"
+  },
+  {
+    "file": "12-event-en.json",
+    "origin": "2434 Almaden Rd, San Jose, CA 95125, United States",
+    "destination": "California Theatre, 345 S 1st St, San Jose, CA",
+    "current_distance": "3.8 miles",
+    "event_name": "Holiday Spectacular Concert"
+  },
+  {
+    "file": "12-event-en.json",
+    "origin": "2434 Almaden Rd, San Jose, CA 95125, United States",
+    "destination": "Various South Bay locations",
+    "current_distance": "2-5 miles",
+    "event_name": "Lunar New Year Celebrations"
+  },
+  {
+    "file": "12-event-en.json",
+    "origin": "2434 Almaden Rd, San Jose, CA 95125, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+    "current_distance": "3.9 miles",
+    "event_name": "San Jose Sharks Home Games"
+  },
+  {
+    "file": "12-event-en.json",
+    "origin": "2434 Almaden Rd, San Jose, CA 95125, United States",
+    "destination": "Almaden Lake Park, 15637 Almaden Expy, San Jose, CA",
+    "current_distance": "2.1 miles",
+    "event_name": "Almaden Lake Park Winter Programs"
+  },
+  {
+    "file": "12-event-en.json",
+    "origin": "2434 Almaden Rd, San Jose, CA 95125, United States",
+    "destination": "Downtown San Jose routes",
+    "current_distance": "6 miles",
+    "event_name": "Thanksgiving Day Road Closures for Turkey Trot"
+  },
+  {
+    "file": "12-event-en.json",
+    "origin": "2434 Almaden Rd, San Jose, CA 95125, United States",
+    "destination": "San Jose Center for Performing Arts, 255 Almaden Blvd, San Jose, CA",
+    "current_distance": "3.6 miles",
+    "event_name": "Broadway Shows at San Jose Center"
+  },
+  {
+    "file": "13-event-en.json",
+    "origin": "3221 S White Rd, San Jose, CA 95148, United States",
+    "destination": "Evergreen Village Square, San Jose, CA",
+    "current_distance": "0.5 miles",
+    "event_name": "Santa at the Square Holiday Celebration"
+  },
+  {
+    "file": "13-event-en.json",
+    "origin": "3221 S White Rd, San Jose, CA 95148, United States",
+    "destination": "San Jose McEnery Convention Center, 150 W San Carlos St, San Jose, CA",
+    "current_distance": "8.6 miles",
+    "event_name": "SJMADE Winter Wonder Market"
+  },
+  {
+    "file": "13-event-en.json",
+    "origin": "3221 S White Rd, San Jose, CA 95148, United States",
+    "destination": "Franklin-McKinley School District schools",
+    "current_distance": "1-2 miles",
+    "event_name": "Winter Break Start - No School"
+  },
+  {
+    "file": "13-event-en.json",
+    "origin": "3221 S White Rd, San Jose, CA 95148, United States",
+    "destination": "Evergreen Valley College, 3095 Yerba Buena Rd, San Jose, CA 95135",
+    "current_distance": "2.1 miles",
+    "event_name": "Evergreen Valley College Winter Session Start"
+  },
+  {
+    "file": "13-event-en.json",
+    "origin": "3221 S White Rd, San Jose, CA 95148, United States",
+    "destination": "PayPal Park, 1123 Coleman Ave, San Jose, CA 95110",
+    "current_distance": "10.7 miles",
+    "event_name": "San Jose Earthquakes vs Sporting Kansas City"
+  },
+  {
+    "file": "13-event-en.json",
+    "origin": "3221 S White Rd, San Jose, CA 95148, United States",
+    "destination": "Oakridge Mall, 925 Blossom Hill Rd, San Jose, CA 95123",
+    "current_distance": "4.5 miles",
+    "event_name": "Black Friday Shopping Rush"
+  },
+  {
+    "file": "13-event-en.json",
+    "origin": "3221 S White Rd, San Jose, CA 95148, United States",
+    "destination": "Alum Rock Park, 15350 Penitencia Creek Rd, San Jose, CA 95127",
+    "current_distance": "2.5 miles",
+    "event_name": "Alum Rock Park Trail Improvements"
+  },
+  {
+    "file": "13-event-en.json",
+    "origin": "3221 S White Rd, San Jose, CA 95148, United States",
+    "destination": "S White Rd and surrounding areas",
+    "current_distance": "0-1 miles",
+    "event_name": "Ongoing Road Maintenance on Nearby Routes"
+  },
+  {
+    "file": "13-event-en.json",
+    "origin": "3221 S White Rd, San Jose, CA 95148, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+    "current_distance": "8.2 miles",
+    "event_name": "MAN\u00c1 Concert Tour"
+  },
+  {
+    "file": "14-event-en.json",
+    "origin": "898 S Bascom Ave, San Jose, CA 95128, United States",
+    "destination": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA 95054",
+    "current_distance": "8.5 miles",
+    "event_name": "SJMADE Holiday Fair"
+  },
+  {
+    "file": "14-event-en.json",
+    "origin": "898 S Bascom Ave, San Jose, CA 95128, United States",
+    "destination": "Plaza de Cesar Chavez, 1 Paseo de San Antonio, San Jose, CA 95113",
+    "current_distance": "4.0 miles",
+    "event_name": "Christmas in the Park"
+  },
+  {
+    "file": "14-event-en.json",
+    "origin": "898 S Bascom Ave, San Jose, CA 95128, United States",
+    "destination": "California Theatre, 345 South First St., San Jose, CA 95112",
+    "current_distance": "3.7 miles",
+    "event_name": "Holiday Spectacular"
+  },
+  {
+    "file": "14-event-en.json",
+    "origin": "898 S Bascom Ave, San Jose, CA 95128, United States",
+    "destination": "California Theatre, 345 South 1st Street, San Jose, CA 95113",
+    "current_distance": "3.7 miles",
+    "event_name": "The San Jose Nutcracker"
+  },
+  {
+    "file": "14-event-en.json",
+    "origin": "898 S Bascom Ave, San Jose, CA 95128, United States",
+    "destination": "Downtown San Jose participating businesses",
+    "current_distance": "4.0 miles",
+    "event_name": "Shop Small Downtown San Jose"
+  },
+  {
+    "file": "14-event-en.json",
+    "origin": "898 S Bascom Ave, San Jose, CA 95128, United States",
+    "destination": "San Jose Unified School District",
+    "current_distance": "N/A",
+    "event_name": "Thanksgiving Break"
+  },
+  {
+    "file": "14-event-en.json",
+    "origin": "898 S Bascom Ave, San Jose, CA 95128, United States",
+    "destination": "San Jose Unified School District",
+    "current_distance": "N/A",
+    "event_name": "Winter Break"
+  },
+  {
+    "file": "14-event-en.json",
+    "origin": "898 S Bascom Ave, San Jose, CA 95128, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+    "current_distance": "3.7 miles",
+    "event_name": "San Jose Sharks Home Games"
+  },
+  {
+    "file": "14-event-en.json",
+    "origin": "898 S Bascom Ave, San Jose, CA 95128, United States",
+    "destination": "Local malls and stores near Bascom Ave",
+    "current_distance": "0.5 miles",
+    "event_name": "Black Friday"
+  },
+  {
+    "file": "14-event-en.json",
+    "origin": "898 S Bascom Ave, San Jose, CA 95128, United States",
+    "destination": "Local small businesses near Bascom Ave",
+    "current_distance": "1.0 miles",
+    "event_name": "Small Business Saturday"
+  },
+  {
+    "file": "14-event-en.json",
+    "origin": "898 S Bascom Ave, San Jose, CA 95128, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+    "current_distance": "3.7 miles",
+    "event_name": "Disney On Ice"
+  },
+  {
+    "file": "15-event-en.json",
+    "origin": "163 Branham Ln, San Jose, CA 95111, United States",
+    "destination": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA 95054",
+    "current_distance": "9.5 miles",
+    "event_name": "SJMADE Holiday Fair"
+  },
+  {
+    "file": "15-event-en.json",
+    "origin": "163 Branham Ln, San Jose, CA 95111, United States",
+    "destination": "South Hall, 435 S. Market Street, San Jos\u00e9, CA 95110",
+    "current_distance": "6.8 miles",
+    "event_name": "San Jos\u00e9 Winter Wonder Market"
+  },
+  {
+    "file": "15-event-en.json",
+    "origin": "163 Branham Ln, San Jose, CA 95111, United States",
+    "destination": "Santana Row, 377 Santana Row, San Jose, CA 95128",
+    "current_distance": "7.2 miles",
+    "event_name": "Spirit of The Row Holiday Shows"
+  },
+  {
+    "file": "15-event-en.json",
+    "origin": "163 Branham Ln, San Jose, CA 95111, United States",
+    "destination": "San Jose Unified School District schools",
+    "current_distance": "Varies (local schools within 2 miles)",
+    "event_name": "Winter Break"
+  },
+  {
+    "file": "15-event-en.json",
+    "origin": "163 Branham Ln, San Jose, CA 95111, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+    "current_distance": "6.5 miles",
+    "event_name": "San Jose Sharks Home Games (select)"
+  },
+  {
+    "file": "15-event-en.json",
+    "origin": "163 Branham Ln, San Jose, CA 95111, United States",
+    "destination": "Various retail areas in San Jose",
+    "current_distance": "Varies (local impact)",
+    "event_name": "Black Friday & Small Business Saturday"
+  },
+  {
+    "file": "15-event-en.json",
+    "origin": "163 Branham Ln, San Jose, CA 95111, United States",
+    "destination": "Downtown San Jose businesses",
+    "current_distance": "6.8 miles",
+    "event_name": "Shop Small Downtown Program"
+  },
+  {
+    "file": "15-event-en.json",
+    "origin": "163 Branham Ln, San Jose, CA 95111, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+    "current_distance": "6.5 miles",
+    "event_name": "Disney On Ice"
+  },
+  {
+    "file": "16-event-en.json",
+    "origin": "1398 W San Carlos, San Jose, CA 95126, United States",
+    "destination": "Plaza de C\u00e9sar Ch\u00e1vez, San Jose, CA",
+    "current_distance": "1.2 miles",
+    "event_name": "Christmas in the Park"
+  },
+  {
+    "file": "16-event-en.json",
+    "origin": "1398 W San Carlos, San Jose, CA 95126, United States",
+    "destination": "History Park, San Jose, CA",
+    "current_distance": "3.5 miles",
+    "event_name": "SJMADE Holiday Fair"
+  },
+  {
+    "file": "16-event-en.json",
+    "origin": "1398 W San Carlos, San Jose, CA 95126, United States",
+    "destination": "Santana Row, San Jose, CA",
+    "current_distance": "4.8 miles",
+    "event_name": "Spirit of The Row Holiday Shows"
+  },
+  {
+    "file": "16-event-en.json",
+    "origin": "1398 W San Carlos, San Jose, CA 95126, United States",
+    "destination": "San Jose Unified School District",
+    "current_distance": "N/A",
+    "event_name": "Winter Break"
+  },
+  {
+    "file": "16-event-en.json",
+    "origin": "1398 W San Carlos, San Jose, CA 95126, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+    "current_distance": "1.5 miles",
+    "event_name": "San Jose Sharks vs Utah Mammoth"
+  },
+  {
+    "file": "16-event-en.json",
+    "origin": "1398 W San Carlos, San Jose, CA 95126, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+    "current_distance": "1.5 miles",
+    "event_name": "San Jose Sharks vs Calgary Flames"
+  },
+  {
+    "file": "16-event-en.json",
+    "origin": "1398 W San Carlos, San Jose, CA 95126, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA",
+    "current_distance": "1.5 miles",
+    "event_name": "Man\u00e1 Concert (VIVIR SIN AIRE Tour)"
+  },
+  {
+    "file": "17-event-en.json",
+    "origin": "585 Tully Rd, San Jose, CA 95111, United States",
+    "destination": "Santa Clara County Fairgrounds, 344 Tully Rd, San Jose, CA 95111",
+    "current_distance": "0.2 miles",
+    "event_name": "Blinky's Drive-Thru Light Show"
+  },
+  {
+    "file": "17-event-en.json",
+    "origin": "585 Tully Rd, San Jose, CA 95111, United States",
+    "destination": "Santa Clara County Fairgrounds, 344 Tully Rd, San Jose, CA 95111",
+    "current_distance": "0.2 miles",
+    "event_name": "San Jose Toy & Comic Show"
+  },
+  {
+    "file": "17-event-en.json",
+    "origin": "585 Tully Rd, San Jose, CA 95111, United States",
+    "destination": "Various locations in San Jose, including Japantown",
+    "current_distance": "4.5 miles",
+    "event_name": "Lunar New Year Celebrations"
+  },
+  {
+    "file": "17-event-en.json",
+    "origin": "585 Tully Rd, San Jose, CA 95111, United States",
+    "destination": "San Jose Unified School District schools",
+    "current_distance": "1-3 miles",
+    "event_name": "Winter Break"
+  },
+  {
+    "file": "17-event-en.json",
+    "origin": "585 Tully Rd, San Jose, CA 95111, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+    "current_distance": "4.8 miles",
+    "event_name": "San Jose Sharks Hockey Games"
+  },
+  {
+    "file": "17-event-en.json",
+    "origin": "585 Tully Rd, San Jose, CA 95111, United States",
+    "destination": "Event Center, San Jose State University, 1 Washington Sq, San Jose, CA 95192",
+    "current_distance": "5.0 miles",
+    "event_name": "SJSU Men's Basketball Games"
+  },
+  {
+    "file": "17-event-en.json",
+    "origin": "585 Tully Rd, San Jose, CA 95111, United States",
+    "destination": "Local retail areas near Tully Rd",
+    "current_distance": "0-2 miles",
+    "event_name": "Holiday Shopping Peak / Small Business Saturday"
+  },
+  {
+    "file": "17-event-en.json",
+    "origin": "585 Tully Rd, San Jose, CA 95111, United States",
+    "destination": "California Theatre area parks, 345 S 1st St, San Jose, CA 95113",
+    "current_distance": "4.7 miles",
+    "event_name": "Holiday Events in Local Parks"
+  },
+  {
+    "file": "17-event-en.json",
+    "origin": "585 Tully Rd, San Jose, CA 95111, United States",
+    "destination": "Levi's Stadium, 4900 Marie P DeBartolo Way, Santa Clara, CA 95054",
+    "current_distance": "9.5 miles",
+    "event_name": "Super Bowl LX"
+  },
+  {
+    "file": "18-event-en.json",
+    "origin": "5508 Monterey Rd, San Jose, CA 95138, United States",
+    "destination": "Evergreen Village Square, San Jose, CA",
+    "current_distance": "1.2 miles",
+    "event_name": "Santa at the Square Holiday Celebration"
+  },
+  {
+    "file": "18-event-en.json",
+    "origin": "5508 Monterey Rd, San Jose, CA 95138, United States",
+    "destination": "Santa Clara Convention Center, Santa Clara, CA",
+    "current_distance": "4.8 miles",
+    "event_name": "SJMADE Holiday Fair"
+  },
+  {
+    "file": "18-event-en.json",
+    "origin": "5508 Monterey Rd, San Jose, CA 95138, United States",
+    "destination": "Various South San Jose locations",
+    "current_distance": "1-3 miles",
+    "event_name": "Lunar New Year Celebrations"
+  },
+  {
+    "file": "18-event-en.json",
+    "origin": "5508 Monterey Rd, San Jose, CA 95138, United States",
+    "destination": "Evergreen Valley College and local schools",
+    "current_distance": "0.5 miles",
+    "event_name": "Thanksgiving Break"
+  },
+  {
+    "file": "18-event-en.json",
+    "origin": "5508 Monterey Rd, San Jose, CA 95138, United States",
+    "destination": "Evergreen Valley College, 3095 Yerba Buena Rd, San Jose, CA",
+    "current_distance": "0.5 miles",
+    "event_name": "Winter Intersession Start"
+  },
+  {
+    "file": "18-event-en.json",
+    "origin": "5508 Monterey Rd, San Jose, CA 95138, United States",
+    "destination": "Evergreen Valley College and local high schools",
+    "current_distance": "0.5-2 miles",
+    "event_name": "Spring Semester Start"
+  },
+  {
+    "file": "18-event-en.json",
+    "origin": "5508 Monterey Rd, San Jose, CA 95138, United States",
+    "destination": "Event Center at SJSU, San Jose, CA",
+    "current_distance": "5 miles",
+    "event_name": "SJSU Women's Basketball Home Games"
+  },
+  {
+    "file": "18-event-en.json",
+    "origin": "5508 Monterey Rd, San Jose, CA 95138, United States",
+    "destination": "Evergreen Shopping Area, San Jose, CA",
+    "current_distance": "0.5 miles",
+    "event_name": "Black Friday Shopping Rush"
+  },
+  {
+    "file": "18-event-en.json",
+    "origin": "5508 Monterey Rd, San Jose, CA 95138, United States",
+    "destination": "Plaza de C\u00e9sar Ch\u00e1vez, San Jose, CA",
+    "current_distance": "5 miles",
+    "event_name": "Christmas in the Park Light Display"
+  },
+  {
+    "file": "19-event-en.json",
+    "origin": "4838 San Felipe Rd, San Jose, CA 95135, United States",
+    "destination": "Evergreen Village Square, 3341-3599 Evergreen Loop, San Jose, CA 95135",
+    "current_distance": "0.8 miles",
+    "event_name": "Santa at the Square"
+  },
+  {
+    "file": "19-event-en.json",
+    "origin": "4838 San Felipe Rd, San Jose, CA 95135, United States",
+    "destination": "San Jose venue (TBD)",
+    "current_distance": "3.5 miles",
+    "event_name": "UNCONFIRMED - Kawaii Rave"
+  },
+  {
+    "file": "19-event-en.json",
+    "origin": "4838 San Felipe Rd, San Jose, CA 95135, United States",
+    "destination": "Evergreen Valley High School, 4950 San Felipe Rd, San Jose, CA 95135",
+    "current_distance": "0.2 miles",
+    "event_name": "Winter Break Start"
+  },
+  {
+    "file": "19-event-en.json",
+    "origin": "4838 San Felipe Rd, San Jose, CA 95135, United States",
+    "destination": "SJSU Events Center, 1 Washington Sq, San Jose, CA 95192",
+    "current_distance": "9 miles",
+    "event_name": "SJSU Women's Basketball vs. Saint Mary's"
+  },
+  {
+    "file": "19-event-en.json",
+    "origin": "4838 San Felipe Rd, San Jose, CA 95135, United States",
+    "destination": "Local malls and shops, e.g., Eastridge Mall, 2201 Harbor Blvd, San Jose, CA 95122",
+    "current_distance": "4.5 miles",
+    "event_name": "Black Friday"
+  },
+  {
+    "file": "19-event-en.json",
+    "origin": "4838 San Felipe Rd, San Jose, CA 95135, United States",
+    "destination": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA 95054",
+    "current_distance": "12 miles",
+    "event_name": "SJMADE Holiday Fair"
+  },
+  {
+    "file": "19-event-en.json",
+    "origin": "4838 San Felipe Rd, San Jose, CA 95135, United States",
+    "destination": "Plaza de C\u00e9sar Ch\u00e1vez, 1 Paseo de San Antonio, San Jose, CA 95113",
+    "current_distance": "8 miles",
+    "event_name": "Christmas in the Park"
+  },
+  {
+    "file": "19-event-en.json",
+    "origin": "4838 San Felipe Rd, San Jose, CA 95135, United States",
+    "destination": "Evergreen Community Center, 2504 E Capitol Expy, San Jose, CA 95121",
+    "current_distance": "2.5 miles",
+    "event_name": "Breakfast with Santa at Evergreen Community Center"
+  },
+  {
+    "file": "19-event-en.json",
+    "origin": "4838 San Felipe Rd, San Jose, CA 95135, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+    "current_distance": "8 miles",
+    "event_name": "Disney on Ice: Magic in the Stars"
+  },
+  {
+    "file": "19-event-en.json",
+    "origin": "4838 San Felipe Rd, San Jose, CA 95135, United States",
+    "destination": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+    "current_distance": "8 miles",
+    "event_name": "ATEEZ Concert"
+  }
+]

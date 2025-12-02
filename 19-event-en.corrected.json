@@ -1,0 +1,489 @@
+{
+  "store_location": {
+    "brand": "McDonald's",
+    "address": "4838 San Felipe Rd, San Jose, CA 95135, United States",
+    "coordinates": "37.3009345,-121.7723522",
+    "store_characteristics": {
+      "has_drive_thru": true,
+      "has_playplace": false,
+      "has_delivery": true,
+      "seating_capacity": "50-75",
+      "operating_hours": "5am-11pm"
+    }
+  },
+  "assessment_date": "2025-11-29",
+  "assessment_period": "2025-11-29 to 2026-02-28",
+  "events_assessment": [
+    {
+      "category": "Local Community Events",
+      "events": [
+        {
+          "name": "Santa at the Square",
+          "date": "2025-12-12",
+          "time_of_day": "evening",
+          "location": "Evergreen Village Square, 3341-3599 Evergreen Loop, San Jose, CA 95135",
+          "distance_from_store": "1.5 miles",
+          "estimated_attendance": "200-500",
+          "verification_sources": [
+            "City of San Jose District 8 Upcoming Events",
+            "SanJoseCA.gov"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Add 2-3 crew members for evening shift to handle family groups",
+            "inventory": "Stock up on kids meals, hot chocolate, and apple pies for holiday appeal",
+            "promotions": "Promote McDonald's Happy Meals with Santa photo tie-in signage",
+            "service_mode": "dine-in focus",
+            "timing": "Prep extra family trays morning of event"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Seasonal QSR Promotions & Limited-Time Offers",
+      "events": [
+        {
+          "name": "McRib Return",
+          "date": "2025-11-29 to 2025-12-31",
+          "time_of_day": "all-day",
+          "location": "All participating McDonald's including this store",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "McDonald's Corporate News",
+            "Investopedia McDonald's Value Program"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Schedule full crew during peak hours to manage increased orders",
+            "inventory": "Increase pork patty and BBQ sauce stock by 30%",
+            "promotions": "App-exclusive McRib bundles via McValue platform",
+            "service_mode": "drive-thru focus",
+            "timing": "Order inventory 1 week prior and stage sauces daily"
+          }
+        },
+        {
+          "name": "McValue $5 Meal Deal Extension",
+          "date": "2025-11-29 to 2026-02-28",
+          "time_of_day": "all-day",
+          "location": "All participating McDonald's including this store",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "McDonald's Corporate McValue Launch",
+            "FoodandWine McDonald's Deals 2025"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "breakfast",
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Cross-train staff for quick assembly of value bundles",
+            "inventory": "Bulk prep nuggets, fries, and sandwich components",
+            "promotions": "In-app BOGO $1 add-ons for value meals",
+            "service_mode": "drive-thru focus",
+            "timing": "Daily morning prep for high-volume items"
+          }
+        },
+        {
+          "name": "The Grinch Meal",
+          "date": "2025-11-29 to 2025-12-31",
+          "time_of_day": "all-day",
+          "location": "All participating McDonald's including this store",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "McDonald's Trending Now",
+            "RetailMeNot McDonald's Coupons"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Extra cashier for themed upsells",
+            "inventory": "Stock Grinch-themed packaging and pickle fries",
+            "promotions": "Tie-in with holiday socks giveaway",
+            "service_mode": "dine-in focus",
+            "timing": "Prep themed items 2 days before launch"
+          }
+        }
+      ]
+    },
+    {
+      "category": "National & Regional Fast-Food Awareness Days",
+      "events": []
+    },
+    {
+      "category": "Local Festivals & Cultural Celebrations",
+      "events": [
+        {
+          "name": "UNCONFIRMED - Kawaii Rave",
+          "date": "2025-12-06",
+          "time_of_day": "evening",
+          "location": "San Jose venue (TBD)",
+          "distance_from_store": "9.3 miles",
+          "estimated_attendance": "500-1000",
+          "verification_sources": [
+            "Eventbrite San Jose Events"
+          ],
+          "verification_status": "Unconfirmed - needs verification",
+          "relevance_to_store": "Low",
+          "traffic_impact": "Low",
+          "sales_impact": "Low",
+          "daypart_affected": [
+            "late-night"
+          ],
+          "operational_preparation": {
+            "staffing": "Monitor for post-event drive-thru spillover",
+            "inventory": "Extra late-night fries and drinks",
+            "promotions": "N/A",
+            "service_mode": "drive-thru focus",
+            "timing": "Extend hours if needed"
+          }
+        }
+      ]
+    },
+    {
+      "category": "School Calendars & Events",
+      "events": [
+        {
+          "name": "Winter Break Start",
+          "date": "2025-12-22 to 2026-01-05",
+          "time_of_day": "all-day",
+          "location": "Evergreen Valley High School, 4950 San Felipe Rd, San Jose, CA 95135",
+          "distance_from_store": "1.0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "East Side Union High School District Calendar",
+            "ESUHSD.org"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Very High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "breakfast",
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Add morning shifts for family breakfast rushes",
+            "inventory": "Boost breakfast sandwiches and hash browns by 25%",
+            "promotions": "Family value breakfast deals",
+            "service_mode": "drive-thru focus",
+            "timing": "Stock up 3 days before break starts"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Sports Events",
+      "events": [
+        {
+          "name": "SJSU Women's Basketball vs. Saint Mary's",
+          "date": "2025-12-07",
+          "time_of_day": "afternoon",
+          "location": "SJSU Events Center, 1 Washington Sq, San Jose, CA 95192",
+          "distance_from_store": "9 miles",
+          "estimated_attendance": "1000-2000",
+          "verification_sources": [
+            "SJSU Events Calendar",
+            "SJSU.edu Athletics"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Extra staff for post-game lunch surge",
+            "inventory": "Prepare grab-and-go salads and wraps",
+            "promotions": "Student discount on app orders",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep mobile orders morning of"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Retail Shopping Events",
+      "events": [
+        {
+          "name": "Black Friday",
+          "date": "2025-11-28",
+          "time_of_day": "all-day",
+          "location": "Local malls and shops, e.g., Eastridge Mall, 2201 Harbor Blvd, San Jose, CA 95122",
+          "distance_from_store": "3.6 miles",
+          "estimated_attendance": "5000+",
+          "verification_sources": [
+            "SanJose.org Holiday Events",
+            "Eventbrite Black Friday"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "breakfast",
+            "lunch"
+          ],
+          "operational_preparation": {
+            "staffing": "Double crew for morning rush",
+            "inventory": "High-volume coffee, McMuffins, and value meals",
+            "promotions": "McValue $5 deal tie-in with shopping",
+            "service_mode": "drive-thru focus",
+            "timing": "Overnight stock-up"
+          }
+        },
+        {
+          "name": "SJMADE Holiday Fair",
+          "date": "2025-11-28 to 2025-11-29",
+          "time_of_day": "all-day",
+          "location": "Santa Clara Convention Center, 5001 Great America Pkwy, Santa Clara, CA 95054",
+          "distance_from_store": "15.9 miles",
+          "estimated_attendance": "10000+",
+          "verification_sources": [
+            "SanJoseMade.com Events",
+            "Eventbrite Holiday Fair"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "lunch",
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Additional shifts for commuter traffic",
+            "inventory": "Portable snacks for on-the-go shoppers",
+            "promotions": "Holiday bundle deals",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep for peak return traffic afternoon"
+          }
+        },
+        {
+          "name": "Christmas in the Park",
+          "date": "2025-11-28 to 2026-01-01",
+          "time_of_day": "evening",
+          "location": "Plaza de C\u00e9sar Ch\u00e1vez, 1 Paseo de San Antonio, San Jose, CA 95113",
+          "distance_from_store": "10.3 miles",
+          "estimated_attendance": "50000+ seasonal",
+          "verification_sources": [
+            "Funcheap SF Christmas in the Park",
+            "SanJose.org Events"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "dinner",
+            "late-night"
+          ],
+          "operational_preparation": {
+            "staffing": "Evening overtime for holiday crowds",
+            "inventory": "Hot beverages and desserts up 40%",
+            "promotions": "Grinch Meal cross-promo",
+            "service_mode": "delivery prep",
+            "timing": "Weekly inventory checks during season"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Weather-Related Events & Seasonal Changes",
+      "events": [
+        {
+          "name": "Mild Winter with Above-Normal Temps and Low Rain",
+          "date": "2025-12-01 to 2026-02-28",
+          "time_of_day": "all-day",
+          "location": "San Jose area",
+          "distance_from_store": "0 miles",
+          "estimated_attendance": "N/A",
+          "verification_sources": [
+            "NOAA Winter 2025-26 Outlook",
+            "Weather.gov"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Nominal",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "all-day"
+          ],
+          "operational_preparation": {
+            "staffing": "Maintain standard levels, flex for dry weather upticks",
+            "inventory": "Reduce hot soup stock, increase iced beverages",
+            "promotions": "Outdoor seating promotions on warm days",
+            "service_mode": "dine-in focus",
+            "timing": "Monitor weekly forecasts"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Business & Employment Events",
+      "events": []
+    },
+    {
+      "category": "Parks & Recreation Events",
+      "events": [
+        {
+          "name": "Breakfast with Santa at Evergreen Community Center",
+          "date": "2025-12-14",
+          "time_of_day": "morning",
+          "location": "Evergreen Community Center, 2504 E Capitol Expy, San Jose, CA 95121",
+          "distance_from_store": "4.7 miles",
+          "estimated_attendance": "150-300",
+          "verification_sources": [
+            "SanJoseCA.gov Parks Directory",
+            "Evergreen Community Center Programs"
+          ],
+          "verification_status": "Tentative",
+          "relevance_to_store": "High",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "breakfast"
+          ],
+          "operational_preparation": {
+            "staffing": "Boost breakfast crew by 2",
+            "inventory": "Extra McMuffins and coffee",
+            "promotions": "Breakfast value meal flyers at event",
+            "service_mode": "drive-thru focus",
+            "timing": "Morning prep 1 hour early"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Traffic & Construction Impacts",
+      "events": []
+    },
+    {
+      "category": "Nearby Venue Events",
+      "events": [
+        {
+          "name": "Disney on Ice: Magic in the Stars",
+          "date": "2026-02-19 to 2026-02-22",
+          "time_of_day": "afternoon/evening",
+          "location": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+          "distance_from_store": "10.0 miles",
+          "estimated_attendance": "10000+ per show",
+          "verification_sources": [
+            "SAPCenter.com Events",
+            "Ticketmaster SAP Center"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "High",
+          "traffic_impact": "High",
+          "sales_impact": "High",
+          "daypart_affected": [
+            "dinner"
+          ],
+          "operational_preparation": {
+            "staffing": "Full staffing for family dinner rush",
+            "inventory": "Kids meals and ice cream desserts up 50%",
+            "promotions": "Family packs with Disney tie-in",
+            "service_mode": "drive-thru focus",
+            "timing": "Prep 2 days prior for weekend surge"
+          }
+        },
+        {
+          "name": "ATEEZ Concert",
+          "date": "2025-12-06",
+          "time_of_day": "evening",
+          "location": "SAP Center, 525 W Santa Clara St, San Jose, CA 95113",
+          "distance_from_store": "10.0 miles",
+          "estimated_attendance": "12000",
+          "verification_sources": [
+            "SAPCenter.com Events",
+            "Ticketmaster"
+          ],
+          "verification_status": "Confirmed",
+          "relevance_to_store": "Medium",
+          "traffic_impact": "Medium",
+          "sales_impact": "Medium",
+          "daypart_affected": [
+            "late-night"
+          ],
+          "operational_preparation": {
+            "staffing": "Extend late-night shift",
+            "inventory": "Energy drinks and snacks",
+            "promotions": "Late-night app deals",
+            "service_mode": "drive-thru focus",
+            "timing": "Post-event monitoring"
+          }
+        }
+      ]
+    }
+  ],
+  "overall_recommendations": {
+    "high_impact_periods": [
+      {
+        "date_range": "2025-11-28 to 2025-11-29",
+        "reason": "Black Friday and SJMADE Fair driving shopping traffic",
+        "preparation_priority": "Drive-thru efficiency and value meal stocking"
+      },
+      {
+        "date_range": "2025-12-12 to 2025-12-14",
+        "reason": "Holiday community events like Santa at the Square and Breakfast with Santa",
+        "preparation_priority": "Family-oriented inventory and staffing"
+      },
+      {
+        "date_range": "2025-12-22 to 2026-01-05",
+        "reason": "School winter break increasing local family foot traffic",
+        "preparation_priority": "Breakfast and kids menu focus"
+      },
+      {
+        "date_range": "2026-02-19 to 2026-02-22",
+        "reason": "Disney on Ice multi-day event with high family attendance",
+        "preparation_priority": "Dinner rush management and delivery spikes"
+      }
+    ],
+    "staffing_strategy": "Increase shifts by 20% during holidays and events, prioritize drive-thru training and cross-shifting for flexibility",
+    "inventory_priorities": [
+      "Value meal components",
+      "Kids meals",
+      "Hot beverages",
+      "Pork patties for McRib",
+      "Breakfast sandwiches"
+    ],
+    "marketing_opportunities": [
+      "In-app promotions tied to McValue and Grinch Meal",
+      "Signage for local events like Santa visits",
+      "Delivery partnerships with Uber Eats for holiday surges"
+    ],
+    "operational_risks": [
+      "Traffic congestion from events blocking access",
+      "Supply chain delays for seasonal items",
+      "Weather variability affecting outdoor seating"
+    ],
+    "competitive_considerations": "Nearby Taco Bell and KFC may compete on value meals; differentiate with McDonald's family play packages and faster drive-thru"
+  }
+}
